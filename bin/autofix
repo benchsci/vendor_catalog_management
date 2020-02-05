@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+set -eu
+
+autoflake -r --in-place --remove-unused-variables --remove-all-unused-imports .
+isort --recursive .
+black .
+docformatter --in-place --recursive .

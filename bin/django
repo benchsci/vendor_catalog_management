@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+if [ "$#" -lt "2" ]; then
+  echo "Usage: django DJANGO_SETTINGS_MODULE ..."
+  exit 1
+fi
+
+export DJANGO_SETTINGS_MODULE=$1; shift
+export PYTHONPATH="$PYTHONPATH:$( dirname "${0}" )/.."
+exec django-admin $@
