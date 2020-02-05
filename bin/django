@@ -6,5 +6,5 @@ if [ "$#" -lt "2" ]; then
 fi
 
 export DJANGO_SETTINGS_MODULE=$1; shift
-export PYTHONPATH="$PYTHONPATH:$( dirname "${0}" )/.."
+export PYTHONPATH="$PYTHONPATH:$( dirname "${0}" )/../"
 exec django-admin $@

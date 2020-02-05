@@ -2,4 +2,4 @@ from django.apps import AppConfig
 
 
 class TranslateConfig(AppConfig):
-    name = 'translate'
+    name = 'vendor_catalog'

@@ -1,5 +1,5 @@
 """
-WSGI config for vendor_catalog_management project.
+WSGI config for vendor_catalog project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault("DJANGO_SETTINGS_MODULE", "vendor_catalog_management.settings")
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "vendor_catalog.settings")
 
 application = get_wsgi_application()
