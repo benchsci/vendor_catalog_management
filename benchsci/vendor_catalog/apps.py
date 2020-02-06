@@ -1,5 +1,5 @@
 from django.apps import AppConfig
 
 
-class TranslateConfig(AppConfig):
+class VendorCatalogConfig(AppConfig):
     name = 'vendor_catalog'
