@@ -6,7 +6,7 @@ from django.views.generic import TemplateView
 
 urlpatterns = [
     path("admin/", admin.site.urls),
-    path("login/", TemplateView.as_view(template_name="authenticator_login.html")),
+    path("login/", TemplateView.as_view(template_name="vendor_catalog_login.html")),
     path("auth/", include("social_django.urls", namespace="social")),
     path("auth/", include("django.contrib.auth.urls")),
     path("", login_required(TemplateView.as_view(template_name="vendor_catalog_index.html"))),
