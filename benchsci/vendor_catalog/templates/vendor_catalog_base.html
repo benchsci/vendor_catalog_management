@@ -1,18 +1,27 @@
 {% load static %}
 <html>
 <head>
- <!-- Materialize CSS -->
- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/css/materialize.min.css">
- <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/js/materialize.min.js"></script>
- <!-- Material icons -->
- <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!-- Materialize CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <!-- Material icons -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!-- jQuery stuff -->
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <!-- Our own CSS -->
+    <link rel="stylesheet" href="/static/css/upload.css">
+    <!-- Our own Javascript -->
+    <script src="/static/js/main.js"></script>
+    <script src="/static/js/upload.js"></script>
 </head>
-<title>Django</title>
+<title>Vendor Catalog Management</title>
 {% if user.is_authenticated %}
 <div class="navbar-fixed">
     <nav class="blue">
         <div class="nav-wrapper container">
-            <a href="/" class="brand-logo center">Google App</a>
+            <a href="/" class="brand-logo center">Vendor Catalog Management</a>
             <ul id="nav-mobile" class="right hide-on-med-and-down">
                 <li><a href="/auth/logout">Log out</a></li>
             </ul>
