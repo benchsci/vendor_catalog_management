@@ -5,6 +5,7 @@ $(document).ready(function() {
     connect_vendor_select_change('vendor_download', 'vendor_files');
     connect_vendor_select_change('vendor_generate', 'vendor_generate_files');
     connect_download_click();
+    connect_generate_click();
 });
 
 function create_menu() {
@@ -80,4 +81,73 @@ function connect_download_click() {
         ev.stopPropagation();
         return false;
     });
+}
+
+
+function connect_generate_click() {
+    $('#generate').bind('click', function(ev) {
+        ev.preventDefault();
+        download_internal()
+        ev.stopPropagation();
+        return false;
+    });
+}
+
+async function download_internal() {
+    var vendor = $("#vendor_generate").val();
+    var file_name = $("#vendor_generate_files").val();
+    notify("Starting download of catalog to processing area...");
+    $.ajax({
+        url: '/download/?vendor=' + vendor + '&file_name=' + file_name + '&internal=true',
+        type: 'get',
+        dataType: 'json',
+        headers: { 'X-CSRFToken': Cookies.get('csrftoken') },
+    }).done(function( data, textStatus, jqXHR ){
+        notify("Catalog downloaded to processing area. Generating translation lists...");
+        generate_translation();
+    }).fail(function(jqXHR, textStatus, errorThrown ) {
+        notify(jqXHR.responseText || errorThrown);
+    });
+}
+
+async function generate_translation() {
+    var file_name = $("#vendor_generate_files").val();
+    var data = new FormData();
+    data.append('file_name', file_name);
+    $.ajax({
+        url: '/generate/',
+        type: 'post',
+        data: data,
+        dataType: 'json',
+        headers: { 'X-CSRFToken': Cookies.get('csrftoken') },
+    }).done(function( data, textStatus, jqXHR ){
+        notify("Catalog translation lists have been generated. Uploading translation lists to storage...");
+        upload_internal();
+    }).fail(function(jqXHR, textStatus, errorThrown ) {
+        notify(jqXHR.responseText || errorThrown);
+    });
+}
+
+async function upload_internal () {
+    var vendor = $("#vendor_generate").val();
+    var file_name = $("#vendor_generate_files").val() + '_translated';
+    var data = new FormData();
+    data.append('vendor', vendor);
+    data.append('file_name', file_name);
+    data.append('internal', 'true');
+    $.ajax({
+        url: '/upload/',
+        type: 'post',
+        data: data,
+        dataType: 'json',
+        headers: { 'X-CSRFToken': Cookies.get('csrftoken') },
+    }).done(function( data, textStatus, jqXHR ){
+        notify("Catalog translation lists have been uploaded to storage.");
+    }).fail(function(jqXHR, textStatus, errorThrown ) {
+        notify(jqXHR.responseText || errorThrown);
+    });
+}
+
+function notify(message) {
+    $("#generate_progress").text(message);
 }
