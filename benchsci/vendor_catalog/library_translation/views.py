@@ -1,27 +1,43 @@
 from datetime import timedelta
+from pathlib import Path
+
 from django.conf import settings
 from django.contrib.auth.mixins import LoginRequiredMixin
 from django.http import JsonResponse
 from django.views import View
 from google.cloud import storage
 
+from benchsci.vendor_catalog.library_translation.backend.bsproduct.packaging import (
+    generate_translation_lists_files,
+)
+
 
 class UploadView(LoginRequiredMixin, View):
 
     def post(self, request):
-        resumable_upload_url = self._get_resumable_upload_url(request)
+        blob = self._get_gcp_blob(request)
+        origin = request.META.get("HTTP_ORIGIN")
+        file_size = int(request.POST.get("file_size"))
+        resumable_upload_url = blob.create_resumable_upload_session(size=file_size, origin=origin)
         return JsonResponse({'resumable_upload_url': resumable_upload_url})
 
-    def _get_resumable_upload_url(self, request):
+    def put(self, request):
+        blob = self._get_gcp_blob(request)
+        file_name = request.PUT.get("file_name")
+        try:
+            blob.upload_from_filename(Path(settings.TRANSLATION_LOCATION, file_name))
+            return JsonResponse({'status': 'success'})
+        except Exception as e:
+            return JsonResponse({'error': str(e)}, status=500)
+
+    def _get_gcp_blob(self, request):
         client = storage.Client.from_service_account_json(settings.GOOGLE_CLOUD_CREDENTIALS_FILE)
         bucket = client.get_bucket(settings.GCS_VENDOR_BUCKET)
-        file_size = int(request.POST.get("file_size"))
-        chunk_size = int(request.POST.get("chunk_size"))
-        vendor = request.POST.get("vendor")
-        file_name = request.POST.get("file_name")
-        origin = request.META.get("HTTP_ORIGIN")
-        blob = bucket.blob(f"vendors/{vendor}/{vendor}_{file_name}", chunk_size=chunk_size)
-        return blob.create_resumable_upload_session(size=file_size, origin=origin, client=client)
+        params = getattr(request, request.method.upper())
+        chunk_size = int(params.get("chunk_size"))
+        vendor = params.get("vendor")
+        file_name = params.get("file_name")
+        return bucket.blob(f"vendors/{vendor}/{vendor}_{file_name}", chunk_size=chunk_size)
 
 
 class ListVendorFilesView(LoginRequiredMixin, View):
@@ -42,13 +58,37 @@ class ListVendorFilesView(LoginRequiredMixin, View):
 class DownloadView(LoginRequiredMixin, View):
 
     def get(self, request):
-        signed_download_url = self._get_signed_download_url(request)
+        blob = self._get_gcp_blob(request)
+        signed_download_url = blob.generate_signed_url(expiration=timedelta(minutes=30))
         return JsonResponse({"signed_download_url": signed_download_url})
 
-    def _get_signed_download_url(self, request):
+    def put(self, request):
+        blob = self._get_gcp_blob(request)
+        file_name = request.PUT.get("file_name")
+        try:
+            blob.download_to_filename(Path(settings.TRANSLATION_LOCATION, file_name))
+            return JsonResponse({'status': 'success'})
+        except Exception as e:
+            return JsonResponse({'error': str(e)}, status=500)
+
+    def _get_gcp_blob(self, request):
         client = storage.Client.from_service_account_json(settings.GOOGLE_CLOUD_CREDENTIALS_FILE)
         bucket = client.get_bucket(settings.GCS_VENDOR_BUCKET)
-        vendor = request.GET.get("vendor")
-        file_name = request.GET.get("file_name")
-        blob = bucket.blob(f"vendors/{vendor}/{vendor}_{file_name}")
-        return blob.generate_signed_url(expiration=timedelta(minutes=30))
+        params = getattr(request, request.method.upper())
+        vendor = params.get("vendor")
+        file_name = params.get("file_name")
+        return bucket.blob(f"vendors/{vendor}/{vendor}_{file_name}") 
+
+
+class GenerateTranslationView(LoginRequiredMixin, View):
+
+    def post(self, request):
+        try:
+            file_name = request.PUT.get("file_name")
+            catalog_file_path = str(Path(settings.TRANSLATION_LOCATION, file_name))
+            translation_table = catalog_file_path + 'translated'
+            translation_database = Path(Path(__file__).resolve(), "tests", "data", "translation_database.txt")
+            generate_translation_lists_files(catalog_file_path, translation_database, translation_table)
+            return JsonResponse({'status': 'success'})
+        except Exception as e:
+            return JsonResponse({'error': str(e)}, status=500)
