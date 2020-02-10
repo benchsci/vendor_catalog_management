@@ -1,6 +1,8 @@
 function upload_file(file, vendor) {
-    if (!file || !vendor)
-        return;    
+    if (!file || !vendor) {
+        alert("Please select a vendor and a file to upload")
+        return; 
+    }   
     var chunk_size = 1048576;
     start_upload(file, vendor, chunk_size);
 }
@@ -20,15 +22,13 @@ function create_ajax_request(method, url, data, headers, status_code_map) {
 }
 
 function start_upload_headers() {
-    var headers = {
+    return {
         'X-CSRFToken': Cookies.get('csrftoken'),
     }
-    return headers;
 }
 
 function resume_upload_headers(file) {
     var headers = {
-        'Content-Length': file.size,
         'Content-Type': 'application/octet-stream',
         'Content-Range': '*/' + file.size,
     }
@@ -37,7 +37,6 @@ function resume_upload_headers(file) {
 
 function continue_upload_headers(file, range_start, range_ends) {
     var headers = {
-        'Content-Length': file.size,
         'Content-Type': 'application/octet-stream',
     }
     if (range_start !== undefined && range_ends !== undefined) {
@@ -51,8 +50,8 @@ function start_upload(file, vendor, chunk_size) {
     data.append('file_size', file.size);
     data.append('vendor', vendor);
     data.append('catalog_name', file.name);
-    var headers = start_upload_headers();
-    var request = create_ajax_request('post', '/upload', data, headers, {});
+    data.append('chunk_size', chunk_size);
+    var request = create_ajax_request('post', '/upload/', data, start_upload_headers(), {});
     $.ajax(
         request
     ).done(function( data, textStatus, jqXHR ){
@@ -63,8 +62,8 @@ function start_upload(file, vendor, chunk_size) {
 }
 
 function get_resume_upload_function(resumable_upload_url, file, start, chunk_size) {
-    return function(data, textStatus, jqXHR ) {
-        var content_range = jqXHR.getResponseHeader("Content-Range");
+    return function(jqXHR, textStatus) {
+        var content_range = jqXHR.getResponseHeader("Range");
         var new_start = content_range.split("-")[1];
         if (new_start > start) {
             start = new_start;
@@ -89,23 +88,8 @@ async function send_file_chunk(resumable_upload_url, file, start, chunk_size, re
     }
     var data = slice(file, start, end);
     var headers = continue_upload_headers(file, start, end);
-    var status_code_map = { 308: get_resume_upload_function(url, file, end, chunk_size) };
+    var status_code_map = { 308: get_resume_upload_function(resumable_upload_url, file, end, chunk_size) };
     var request = create_ajax_request('put', resumable_upload_url, data, headers, status_code_map);
-    $.ajax(
-        request
-    ).done(function(data, textStatus, jqXHR){
-        update_status('succeeded', JSON.stringify(data));
-    }).fail(function(jqXHR, textStatus, errorThrown ) {
-        if (jqXHR.status != 308) {
-            resume_upload(resumable_upload_url, file, start, chunk_size, retries++);
-        }
-    });
-}
-
-async function resume_upload(resumable_upload_url, file, start, chunk_size, retries) {
-    var headers = resume_upload_headers(file);
-    var status_code_map = { 308: get_resume_upload_function(url, file, start, chunk_size) };
-    var request = create_ajax_request('put', resumable_upload_url, '', headers, status_code_map);
     $.ajax(
         request
     ).done(function(data, textStatus, jqXHR){
@@ -114,6 +98,21 @@ async function resume_upload(resumable_upload_url, file, start, chunk_size, retr
         if (retries >= 3) {
             update_status('failed', jqXHR.responseText || errorThrown);
         } else if (jqXHR.status != 308) {
+            resume_upload(resumable_upload_url, file, start, chunk_size, retries++);
+        }
+    });
+}
+
+async function resume_upload(resumable_upload_url, file, start, chunk_size, retries) {
+    var headers = resume_upload_headers(file);
+    var status_code_map = { 308: get_resume_upload_function(resumable_upload_url, file, start, chunk_size) };
+    var request = create_ajax_request('put', resumable_upload_url, '', headers, status_code_map);
+    $.ajax(
+        request
+    ).done(function(data, textStatus, jqXHR){
+        update_status('succeeded', JSON.stringify(data));
+    }).fail(function(jqXHR, textStatus, errorThrown ) {
+        if (jqXHR.status != 308) {
             send_file_chunk(resumable_upload_url, file, start, chunk_size, retries++);
         }
     });
@@ -121,10 +120,10 @@ async function resume_upload(resumable_upload_url, file, start, chunk_size, retr
 
 function update_status(message, console_message) {
     console.log(console_message);
-    $('#upload_progress').removeClass('uploading').addClass(message).text(message + '!').css('text-transform', 'capitalize');
+    $('#progress').removeClass('uploading').addClass(message).text(message + '!').css('text-transform', 'capitalize');
 }
 
 function update_percentage(last_byte, file_size) {
     var percentage = Math.floor(last_byte / file_size * 100) ;
-    $('#upload_progress').text('Uploading...' + percentage + '%');
+    $('#progress').text('Uploading...' + percentage + '%');
 }

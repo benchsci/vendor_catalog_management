@@ -3,7 +3,7 @@
     width: 100%;
 }
 
-.catalog {
+.data_file {
 	width: 0.1px;
 	height: 0.1px;
 	opacity: 0;
@@ -13,7 +13,7 @@
 }
 
 .upload,
-.catalog + label {
+.data_file + label {
     color: white;
     background-color: royalblue;
     cursor: pointer;
@@ -35,7 +35,7 @@
     margin-top: 12px;
 }
 
-.catalog + label:hover {
+.data_file + label:hover {
     background-color: cornflowerblue;
 }
 
