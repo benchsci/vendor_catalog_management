@@ -1,0 +1,18 @@
+Original	Translated
+IHC - Wholemount	
+IHC	IHC - 4% paraformaldehyde
+WB	WB
+ICC	ICC-(Formalin/Paraffin)
+ICC/IF	
+nan	
+IHC-Glut	
+Other	
+Flow Cyt	
+IF	IF
+IP	IP
+IHC-Fr	
+IHC-FoFr	
+In-Cell ELISA	
+IHC-P	
+ELISA	ELISPOT
+IHC (PFA fixed)	

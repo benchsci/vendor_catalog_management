@@ -1,0 +1,202 @@
+vendor	sku	new_sku	name	url	applications	reactivity	host	clonality	clone	conjugation	conjugate	immunogen	epitope	immunogen_ex	specificity_ex	uniprot	gene	ids	kit	ct	ptm	ana
+MitoSciences	ab170171	170171	Cleaved PARP [4B5BD2] antibody (Alexa Fluor  488)	http://www.abcam.com/cleaved-parp-4b5bd2-antibody-alexa-fluor-488-ab170171.html				Monoclonal	4B5BD2		Alexa Fluor 488											
+MitoSciences	ab119688	MS1028	ATP synthase alpha subunit (ATP5A) antibody (FITC) [15H4C4]	http://www.abcam.com/ATP5A-antibody-15H5C4-FITC-ab119688.html	WB			Monoclonal	15H4C4													
+MitoSciences	ab123450	MS1034	ECH1 Antibody [3B7CF2AC8]	http://www.abcam.com/ECH1-antibody-3B7CF2AC8-ab123450.html	WB,IP			Monoclonal	3B7CF2AC8													
+MitoSciences	ab126576	MS1058	ETF dehydrogenase (ETFDH) antibody [3H2BG1]	http://www.abcam.com/ETFDH-antibody-3H2BG1-ab126576.html	WB			Monoclonal	3H2BG1													
+MitoSciences	ab128564	MS1066	Citrate synthetase (CS) antibody [2H8BB6]	http://www.abcam.com/Citrate-synthetase-antibody-MS42-2H8BB6-ab128564.html	IP			Monoclonal	2H8BB6													
+MitoSciences	ab128565	MS1067	Multifunctional enzyme 2 (MFE2)  antibody [2D3BB5BF10]	http://www.abcam.com/Hydroxysteroid-17-beta-Dehydrogenase-4-antibody-MS1B-2D3BB5BF10-ab128565.html	WB,IP			Monoclonal	2D3BB5BF10													
+MitoSciences	ab128566	MS1068	Long-chain acyl CoA dehydrogenase (ACADL) antibody [7F5DD6]	http://www.abcam.com/ACADL-antibody-MS2-7F5DD6-ab128566.html	WB,IP			Monoclonal	7F5DD6													
+MitoSciences	ab128567	MS1069	Hsp60, mitochondrial (HSPD) monoclonal antibody [USC127-3]	http://www.abcam.com/Hsp60-antibody-USC127-3-ab128567.html	WB			Monoclonal	USC127-3													
+MitoSciences	ab128568	MS1070	Carnitine palmitoyl transferase (CPT1A) antibody [8F6AE9]	http://www.abcam.com/CPT1A-antibody-MS60B-8F6AE9-ab128568.html	WB			Monoclonal	8F6AE9													
+MitoSciences	ab129728	MS1077	ALDOB antibody [5E2BD2]	http://www.abcam.com/ALDOB-antibody-5E2BD2-ab129728.html	IP			Monoclonal	5E2BD2													
+MitoSciences	ab129729	MS1080	UGT antibody [7H2AF11]	http://www.abcam.com/UGT-antibody-7H2AF11-ab129729.html	IP			Monoclonal	7H2AF11													
+MitoSciences	ab131376	MS1085	ETF dehydrogenase (ETFDH) antibody [3D1AC4AF3]	http://www.abcam.com/ETFDH-antibody-3D1AC4AF3-ab131376.html	WB			Monoclonal	3D1AC4AF3													
+MitoSciences	ab131375	MS1095	AKR1C1 antibody [4B6AF3]	http://www.abcam.com/AKR1C1-antibody-4B6AF3-ab131375.html	WB			Monoclonal	4B6AF3													
+MitoSciences	ab133982	MS1100	Pyruvate dehydrogenase phosphatase 2 (PDP2) antibody [3C3BC10]	http://www.abcam.com/PDP2-antibody-MS41A-3C3BC10-ab133982.html	WB			Monoclonal	3C3BC10													
+MitoSciences	ab135396	MS1111	Lactate dehydrogenase Antibody-pan (LDHA/LDHB)	http://www.abcam.com/Lactate-Dehydrogenase-antibody-98A-1F9BB1-ab135396.html	WB,IP			Monoclonal	98A-1F9BB1													
+MitoSciences	ab135397	MS1112	GAL4 antibody  Binding Domain (BD) [15-6E10A7]	http://www.abcam.com/GAL4-antibody-15-6E10A7-DNA-Binding-Domain-ab135397.html	WB			Monoclonal	15-6E10A7													
+MitoSciences	ab135398	MS1113	GAL4 antibody Active Domain (AD)  [14-7E10G10]	http://www.abcam.com/GAL4-antibody-14-7E10G10-Active-Domain-ab135398.html	WB			Monoclonal	14-7E10G10													
+MitoSciences	ab123451	MS790	PCB Antibody [10G7BF7]	http://www.abcam.com/PCB-antibody-10G7BF7-ab123451.html	WB			Monoclonal	10G7BF7													
+MitoSciences	ab119687	MS976	SLIRP antibody [1E10BC8]	http://www.abcam.com/SLIRP-antibody-MS-48B-1E10BC8-ab119687.html	WB			Monoclonal	1E10BC8													
+MitoSciences	ab119686	MS990	ATP synthase gamma subunit (ATPG) antibody [2A1AA11]	http://www.abcam.com/ATPG-antibody-MS-22-2A1AA11-ab119686.html	IP,WB			Monoclonal	2A1AA11													
+MitoSciences	ab119684	MS993	mitochondrial transcription factor A (mtTFA) monoclonal  antibody [18G102B2E11]	http://www.abcam.com/mtTFA-antibody-18G102B2E11-ab119684.html	WB			Monoclonal	18G102B2E11													
+MitoSciences	ab119685	MS995	OPA1 antibody [1E81D9]	http://www.abcam.com/OPA1-antibody-1E81D9-ab119685.html	WB			Monoclonal	1E81D9													
+MitoSciences	ab126575	MS996	Mitofusin 1 (MFN1) antibody [11E91H12]	http://www.abcam.com/Mitofusin-1-antibody-11E91H12-ab126575.html	WB			Monoclonal	11E91H12													
+MitoSciences	ab154473	ab154473	SDHA antibody [2E3GC12FB2AE2] (Alexa Fluor  488)	http://www.abcam.com/sdha-antibody-2e3gc12fb2ae2-alexa-fluorreg-488-ab154473.html				Monoclonal	2E3GC12FB2AE2		Alexa Fluor 488											
+MitoSciences	ab154476	ab154476	Cytochrome C antibody [37BA11] (Alexa Fluor  488)	http://www.abcam.com/cytochrome-c-antibody-37ba11-alexa-fluorreg-488-ab154476.html				Monoclonal	37BA11		Alexa Fluor 488											
+MitoSciences	ab154477	ab154477	MTCO1 antibody [1D6E1A8] (Alexa Fluor  488)	http://www.abcam.com/mtco1-antibody-1d6e1a8-alexa-fluorreg-488-ab154477.html				Monoclonal	1D6E1A8		Alexa Fluor 488											
+MitoSciences	ab156030	ab156030	p53 antibody [9D3DE3] (Alexa Fluor  488)	http://www.abcam.com/p53-antibody-9d3de3-alexa-fluorreg-488-ab156030.html				Monoclonal	9D3DE3		Alexa Fluor 488											
+MitoSciences	ab156032	ab156032	Cyclophilin D antibody [E11AE12BD4] (Alexa Fluor 488)	http://www.abcam.com/cyclophilin-f-antibody-e11ae12bd4-alexa-fluorreg-488-ab156032.html				Monoclonal	E11AE12BD4		Alexa Fluor 488											
+MitoSciences	ab156033	ab156033	Frataxin antibody [18A5DB1] (Alexa Fluor  488)	http://www.abcam.com/frataxin-antibody-18a5db1-alexa-fluorreg-488-ab156033.html				Monoclonal	18A5DB1		Alexa Fluor 488											
+MitoSciences	ab168536	ab168536	SDHA antibody [2E3GC12FB2AE2] (Alexa Fluor  647)	http://www.abcam.com/sdha-antibody-2e3gc12fb2ae2-alexa-fluor-647-ab168536.html				Monoclonal	2E3GC12FB2AE2		Alexa Fluor 647											
+MitoSciences	ab170172	ab170172	SDHA [2E3GC12FB2AE2] antibody (Alexa Fluor  594)	http://www.abcam.com/sdha-2e3gc12fb2ae2-antibody-alexa-fluor-594-ab170172.html				Monoclonal	2E3GC12FB2AE2		Alexa Fluor 594											
+MitoSciences	ab171449	ab171449	CPT1A [8F6AE9] antibody (Alexa Fluor  488)	http://www.abcam.com/cpt1a-8f6ae9-antibody-alexa-fluor-488-ab171449.html				Monoclonal	8F6AE9		Alexa Fluor 488											
+MitoSciences	ab179839	ab179839	Anti-VDAC1 / Porin [20B12AF2] antibody (Alexa Fluor  488)	http://www.abcam.com/vdac1--porin-20b12af2-antibody-alexa-fluor-488-ab179839.html				Monoclonal	20B12AF2		Alexa Fluor 488											
+MitoSciences	ab179840	ab179840	Anti-VDAC1 / Porin [20B12AF2] antibody (Alexa Fluor  647)	http://www.abcam.com/vdac1--porin-20b12af2-antibody-alexa-fluor-647-ab179840.html				Monoclonal	20B12AF2		Alexa Fluor 647											
+MitoSciences	ab154028	ab154028	Nucleolin (Alexa Fluor  488)	http://www.abcam.com/Nucleolin-antibody-364-5-Alexa-Fluorreg-488-ab154028.html				Monoclonal	364-5		Alexa Fluor 488											
+MitoSciences	ab154474	ab154474	GFAP antibody [ZRF-1]	http://www.abcam.com/gfap-antibody-zrf-1-ab154474.html	WB,IP			Monoclonal	ZRF-1													
+MitoSciences	ab156031	ab156031	MTCO2 antibody [MM7D-5A11CA9]	http://www.abcam.com/mtco2-antibody-mm7d-5a11ca9-ab156031.html	WB,IP			Monoclonal	MM7D-5A11CA9													
+MitoSciences	ab157401	ab157401	SIRT1 antibody [19A7AB4] (Alexa Fluor  488) - Nuclear Marker	http://www.abcam.com/sirt1-antibody-19a7ab4-alexa-fluorreg-488-nuclear-marker-ab157401.html				Monoclonal	19A7AB4													
+MitoSciences	ab170173	ab170173	Creatine Kinase MM [ZM-1] antibody	http://www.abcam.com/creatine-kinase-mm-zm-1-antibody-ab170173.html	IP,WB			Monoclonal	ZM-1													
+MitoSciences	ab170174	ab170174	Creatine Kinase MM [ZM-2] antibody	http://www.abcam.com/creatine-kinase-mm-zm-2-antibody-ab170174.html	WB,IP			Monoclonal	ZM-2													
+MitoSciences	ab170175	ab170175	Creatine kinase B type [ZN-1] antibody	http://www.abcam.com/creatine-kinase-b-type-zn-1-antibody-ab170175.html	WB,IP			Monoclonal	ZN-1													
+MitoSciences	ab170193	ab170193	HuR / ELAVL1 [19F12AE12] antibody	http://www.abcam.com/hur--elavl1-19f12ae12-antibody-ab170193.html	WB			Monoclonal	19F12AE12													
+MitoSciences	ab171448	ab171448	HuD/ELAVL4 [16C12AA10] antibody	http://www.abcam.com/elavl4-16c12aa10-antibody-ab171448.html	WB			Monoclonal	16C12AA10													
+MitoSciences	ab173006	ab173006	ATP5H [10G5AB9] antibody	http://www.abcam.com/atp5h-10g5ab9-antibody-ab173006.html	WB			Monoclonal	10G5AB9													
+MitoSciences	ab174435	ab174435	Arrestin 3 [ZPR-1]	http://www.abcam.com/arrestin-3-zpr-1-antibody-ab174435.html				Monoclonal	ZPR-1													
+MitoSciences	ab174437	ab174437	L2/HNK-1 Carbohydrate epitope [ZN-12] antibody	http://www.abcam.com/l2hnk-1-carbohydrate-epitope-zn-12-antibody-ab174437.html				Monoclonal	ZN-12													
+MitoSciences	ab174438	ab174438	ATP5D [4D11] antibody	http://www.abcam.com/atp5d-4d11-antibody-ab174438.html	WB			Monoclonal	4D11													
+MitoSciences	ab176106	ab176106	Anti-HuB+HuC+HuD [16A11C1D4]	http://www.abcam.com/hubhuchud-16a11c1d4-antibody-ab176106.html	WB			Monoclonal	16A11C1D4													
+MitoSciences	ab181413	ab181413	Anti-Osteoblast Marker [ZNS-5] antibody	http://www.abcam.com/osteoblast-marker-zns-5-antibody-ab181413.html				Monoclonal	ZNS-5													
+MitoSciences	ab183372	ab183372	Anti-Pioneer Neuron Marker [ZNS-2] antibody	http://www.abcam.com/osteoblast-marker-zns-2-antibody-ab183372.html				Monoclonal	ZNS-2													
+MitoSciences	ab185979	ab185979	Anti-Lens Fiber Cell Marker antibody [ZL-1]	http://www.abcam.com/lens-fiber-cell-marker-antibody-zl-1-ab185979.html				Monoclonal	ZL-1													
+MitoSciences	ab185980	ab185980	Anti-ZNS-6 [ZNS-6] antibody	http://www.abcam.com/zns-6-zns-6-antibody-ab185980.html				Monoclonal	ZNS-6													
+MitoSciences	ab195171	ab195171	Anti-ENO1 antibody [3D9BE1]	http://www.abcam.com/eno1-antibody-3d9be1-ab195171.html				Monoclonal	3D9BE1													
+MitoSciences	ab196361	ab196361	Anti-Homeobox protein prospero antibody [MR1A-AH11]	http://www.abcam.com/homeobox-protein-prospero-antibody-mr1a-ah11-ab196361.html				Monoclonal	MR1A-AH11													
+MitoSciences	ab197787	ab197787	Anti-Hunchback antibody [F18-1G10.2]	http://www.abcam.com/hunchback-antibody-f18-1g102-ab197787.html				Monoclonal	F18-1G10.2													
+MitoSciences	ab201327	ab201327	Anti-Eagle antibody [8B11DH10]	http://www.abcam.com/eagle-antibody-8b11dh10-ab201327.html				Monoclonal	8B11DH10													
+MitoSciences	ab136649	ab136649	Nucleolin Mouse Monoclonal Antibody	http://www.abcam.com/Nucleolin-antibody-364-5-ab136649.html	WB,IP			Monoclonal	364-5													
+MitoSciences	ab154035	ab154035	SYT2  Monoclonal Antibody	http://www.abcam.com/syt2-antibody-znp-1-ab154035.html	IP,WB			Monoclonal	ZNP-1													
+MitoSciences	ab154036	ab154036	p53 Mouse Monoclonal Antibody	http://www.abcam.com/p53-antibody-9d3de3-ab154036.html	WB,IP			Monoclonal	9D3DE3													
+MitoSciences	ab174436	ab174436	Homeobox protein Dlx3b	http://www.abcam.com/homeobox-protein-dlx3b-dlx3b-antibody-ab174436.html				Monoclonal	Anti-Dlx3b													
+MitoSciences	MS419	MS419	Complex IV subunit II (Cox2p) monoclonal antibody for yeast [ 4B12A5]	http://www.abcam.com/Cytochrome-C-oxidase-subunit-II-antibody-4B12A5-ab110271.html	WB			Monoclonal	4B12A5													
+MitoSciences	MSZ04	MSZ04	Carboxypeptidase Y (CPY) antibody [10A5B5]	http://www.abcam.com/Carboxypeptidase-Y-antibody-10A5B5-ab113685.html	WB			Monoclonal	10A5B5													
+MitoSciences	MS508	MS508	ATP synthase subunit F6 (ATP5J) monoclonal antibody [10C6AC9]	http://www.abcam.com/ATP5J-antibody-ab110279.html	WB			Monoclonal	10C6AC9													
+MitoSciences	MSZ02	MSZ02	VPH1 antibody [10D7A7B2]	http://www.abcam.com/VPH1-antibody-10D7A7B2-ab113683.html	WB			Monoclonal	10D7A7B2													
+MitoSciences	MS800	MS800	Lactate dehydrogenase B chain (LDHB) monoclonal antibody [10E6AA9]	http://www.abcam.com/Lactate-Dehydrogenase-B-antibody-10E6AA9-ab112996.html	IP			Monoclonal	10E6AA9													
+MitoSciences	MS408	MS408	Complex IV subunit IV (COX4)monoclonal antibody [10G8D12C12]	http://www.abcam.com/COX4-COX4L2-antibody-10G8D12C12-ab110261.html	WB			Monoclonal	10G8D12C12													
+MitoSciences	MS301c	MS301c	Complex III capture monoclonal antibody [11A51H12]	http://www.abcam.com/Complex-III-Immunocapture-antibody-11A51H12-ab109862.html	WB,IP			Monoclonal	11A51H12													
+MitoSciences	MS418	MS418	Complex IV subunit I (Cox1p) monoclonal antibody for yeast [11D8B7]	http://www.abcam.com/MTCO1-antibody-11D8B7-ab110270.html	WB			Monoclonal	11D8B7													
+MitoSciences	MS721	MS721	Catalase (CAT) monoclonal antibody [12C2DB9]	http://www.abcam.com/Catalase-antibody-12C2DB9-ab110292.html	IP			Monoclonal	12C2DB9													
+MitoSciences	MS405	MS405	Complex IV subunit II (COXII) monoclonal antibody [12C4F12]	http://www.abcam.com/Cytochrome-C-oxidase-subunit-II-antibody-12C4F12-ab110258.html	WB			Monoclonal	12C4F12													
+MitoSciences	MS501c	MS501c	ATP synthase capture monoclonal antibody [12F4AD8AF8]	http://www.abcam.com/ATP-synthase-Immunocapture-antibody-12F4AD8AF8-ab109867.html	WB,IP			Monoclonal	12F4AD8AF8													
+MitoSciences	MSZ03	MSZ03	VMA2 antibody [13D11B2]	http://www.abcam.com/VMA2-antibody-13D11B2-ab113684.html	WB			Monoclonal	13D11B2													
+MitoSciences	MS304	MS304	Complex III subunit core 2 (UQCRC2) monoclonal antibody [13G12AF12BB11]	http://www.abcam.com/UQCRC2-antibody-13G12-ab14745.html	IF,WB			Monoclonal	13G12AF12BB11													
+MitoSciences	MSP06	MSP06	Pyruvate dehydrogenase (PDH) subunit E2/E3bp antibody [13G2AE2BH5]	http://www.abcam.com/Pyruvate-dehydrogenase-E2-E3bp-antibody-13G2AE2BH5-ab110333.html	WB			Monoclonal	13G2AE2BH5													
+MitoSciences	MS412	MS412	Complex IV subunit VIaL (COX6A1) monoclonal antibody [14A3AD2BH4]	http://www.abcam.com/COX6A1-antibody-14A3AD2BH4-ab110265.html	WB			Monoclonal	14A3AD2BH4													
+MitoSciences	MS758	MS758	Epoxide hydrolase 1 (EPHX1) monoclonal antibody [15B2AD9]	http://www.abcam.com/Epoxide-hydrolase-antibody-15B2AD9-ab110307.html	IP			Monoclonal	15B2AD9													
+MitoSciences	MSP01c	MSP01c	Pyruvate dehydrogenase (PDH) capture antibody [15D3G9C11]	http://www.abcam.com/Pyruvate-Dehydrogenase-Immunocapture-antibody-15D3G9C11-ab109866.html	IP			Monoclonal	15D3G9C11													
+MitoSciences	MSP05	MSP05	Pyruvate dehydrogenase (PDH) subunit E2 (DLAT) monoclonal antibody [15D3G9C11]	http://www.abcam.com/Pyruvate-Dehydrogenase-E2-antibody-15D3G9C11-ab110332.html	WB			Monoclonal	15D3G9C11													
+MitoSciences	MS507	MS507	ATP synthase subunit alpha (ATP5A) monoclonal antibody [15H4C4]	http://www.abcam.com/ATP5A-antibody-15H4-ab14748.html	WB,IP			Monoclonal	15H4C4													
+MitoSciences	MS303	MS303	Complex III subunit core 1 (UQCRC1) monoclonal antibody [16D10AD9AH5]	http://www.abcam.com/Ubiquinol-Cytochrome-C-Reductase-Core-Protein-I-antibody-16D10AD9AH5-ab110252.html	WB			Monoclonal	16D10AD9AH5													
+MitoSciences	MSA08	MSA08	Porin (POR1) antibody for yeast [16G9E6BC4]	http://www.abcam.com/VDAC-Porin-antibody-16G9E6BC4-ab110326.html	WB			Monoclonal	16G9E6BC4													
+MitoSciences	MS410	MS410	Complex IV subunit Vb (COX5B) monoclonal antibody [16H12H9]	http://www.abcam.com/COX5B-antibody-16H12H9-ab110263.html	WB			Monoclonal	16H12H9													
+MitoSciences	MSF02	MSF02	Frataxin (FXN) antibody [17A11]	http://www.abcam.com/Frataxin-antibody-17A11-ab113691.html	WB			Monoclonal	17A11													
+MitoSciences	MSP04	MSP04	Pyruvate dehydrogenase (PDH) subunit E1 beta (PDHB) antibody [17A5E2H8]	http://www.abcam.com/Pyruvate-Dehydrogenase-E1-beta-subunit-antibody-17A5E2H8-ab110331.html	WB			Monoclonal	17A5E2H8													
+MitoSciences	MS109	MS109	Complex I subunit 8 kDa monoclonal antibody [17C8E4E11]	http://www.abcam.com/Complex-I-subunit-8-kDa-antibody-17C8E4E11-ab110245.html	WB			Monoclonal	17C8E4E11													
+MitoSciences	MS112	MS112	Complex I subunit NDUFS3 monoclonal antibody [17D95]	http://www.abcam.com/NDUFS3-antibody-17D95-ab14711.html	WB			Monoclonal	17D95													
+MitoSciences	MS107	MS107	Complex I subunit NDUFB4 monoclonal antibody [17G3D9E12]	http://www.abcam.com/NDUFB4-antibody-ab110243.html	WB			Monoclonal	17G3D9E12													
+MitoSciences	MSF01	MSF01	Frataxin (FXN) antibody [18A5DB1]	http://www.abcam.com/Frataxin-antibody-18A5DB1-ab110328.html	WB			Monoclonal	18A5DB1													
+MitoSciences	MSZ09	MSZ09	VPS10 antibody [18C8BC7AD10]	http://www.abcam.com/PEP1-antibody-18C8BC7AD10-ab113690.html	WB			Monoclonal	18C8BC7AD10													
+MitoSciences	MS101c	MS101c	Complex I capture monoclonal antibody [18G12BC2]	http://www.abcam.com/Complex-I-Immunocapture-antibody-18G12BC2-ab109798.html	IP			Monoclonal	18G12BC2													
+MitoSciences	MS750	MS750	Sirtuin 1 (SIRT1) monoclonal antibody [19A7AB4]	http://www.abcam.com/SIRT1-antibody-19A7-ab110304.html	IP,WB			Monoclonal	19A7AB4													
+MitoSciences	MS420	MS420	Complex IV subunit IV monoclonal antibody for yeast [1A12A12]	http://www.abcam.com/Cytochrome-c-oxidase-subunit-4-mitochondrial-antibody-1A12A12-ab110272.html	WB			Monoclonal	1A12A12													
+MitoSciences	MS706	MS706	Short-chain 3-hydroxyacyl-CoA dehydrogenase (SCHAD) monoclonal antibody [1A12BC8]	http://www.abcam.com/HADHSC-antibody-1A12BC8-ab110284.html	IP			Monoclonal	1A12BC8													
+MitoSciences	MS722	MS722	Carnitine palmitoyltransferase 2 (CPT2) monoclonal antibody [1C2AE6]	http://www.abcam.com/CPT2-antibody-1C2AE6-ab110293.html	IP			Monoclonal	1C2AE6													
+MitoSciences	MSP52	MSP52	Pyruvate dehydrogenase kinase isoform 4 (PDK4) monoclonal antibody [1C2BG5]	http://www.abcam.com/PDK4-antibody-1C2BG5-ab110336.html	WB			Monoclonal	1C2BG5													
+MitoSciences	MS772	MS772	Hsp60, mitochondrial (HSPD) monoclonal antibody [1D11BD8]	http://www.abcam.com/Hsp60-antibody-1D11BD8-ab110312.html	WB			Monoclonal	1D11BD8													
+MitoSciences	MSZ07	MSZ07	ALP / PHO8 antibody [1D3A10]	http://www.abcam.com/PHO8-antibody-1D3A10-ab113688.html	WB			Monoclonal	1D3A10													
+MitoSciences	MS404	MS404	Complex IV subunit 1 (COXI) monoclonal antibody [1D6E1A8]	http://www.abcam.com/MTCO1-antibody-1D6-Mitochondrial-Marker-ab14705.html	WB	Quail		Monoclonal	1D6E1A8													
+MitoSciences	MS773	MS773	Serine-pyruvate aminotransferase (AGXT) monoclonal antibody [1F9BC7]	http://www.abcam.com/AGXT-antibody-1F9BC7-ab110313.html	IP			Monoclonal	1F9BC7													
+MitoSciences	MS306	MS306	Complex III subunit 10 kDa (UQCRQ) monoclonal antibody [1H9DE5DG5BC8]	http://www.abcam.com/UQCRQ-antibody-1H9DE5DG5BC8-ab110255.html	WB			Monoclonal	1H9DE5DG5BC8													
+MitoSciences	MSA03	MSA03	Porin (VDAC) antibody [20B12AF2]	http://www.abcam.com/VDAC1-Porin-antibody-20B12-Mitochondrial-Loading-Control-ab14734.html	WB	Quail		Monoclonal	20B12AF2													
+MitoSciences	MS111	MS111	Complex I subunit NDUFA9 monoclonal antibody [20C11B11B11]	http://www.abcam.com/NDUFA9-antibody-20C11-ab14713.html	WB			Monoclonal	20C11B11B11													
+MitoSciences	MS407	MS407	Complex IV subunit IV (COX4) monoclonal antibody [20E8C12]	http://www.abcam.com/COX-IV-antibody-20E8-Mitochondrial-Loading-Control-ab14744.html	WB,IP			Monoclonal	20E8C12													
+MitoSciences	MS105	MS105	Complex I subunit NDUFB8 monoclonal antibody [20E9DH10C12]	http://www.abcam.com/NDUFB8-antibody-20E9DH10C12-ab110242.html	WB			Monoclonal	20E9DH10C12													
+MitoSciences	MS203	MS203	Complex II subunit 30 kDa Ip (SDHB) monoclonal antibody [21A11AE7]	http://www.abcam.com/SDHB-antibody-21A11-ab14714.html	WB			Monoclonal	21A11AE7													
+MitoSciences	MS108	MS108	Complex I subunit NDUFB6 monoclonal antibody [21C11BC11]	http://www.abcam.com/NDUFB6-antibody-ab110244.html	WB			Monoclonal	21C11BC11													
+MitoSciences	MS403	MS403	Complex IV assembly factor SURF1 monoclonal antibody [21H2BG4]	http://www.abcam.com/Surf1-antibody-21H2BG4-ab110256.html	WB			Monoclonal	21H2BG4													
+MitoSciences	MSZ06	MSZ06	PGK1 antibody [22C5D8]	http://www.abcam.com/PGK1-antibody-22C5D8-ab113687.html	WB			Monoclonal	22C5D8													
+MitoSciences	MS728	MS728	Hydroxysteroid dehydrogenase-like protein 2 (HSDL2) monoclonal antibody [2A11BG6AH6]	http://www.abcam.com/HSDL2-antibody-2A11BG6AH6-ab110298.html	IP			Monoclonal	2A11BG6AH6													
+MitoSciences	MS766	MS766	Quinone oxidoreductase (CRYZ) monoclonal antibody [2A9DD1]	http://www.abcam.com/CRYZ-antibody-2A9DD1-ab110310.html	IP			Monoclonal	2A9DD1													
+MitoSciences	MS782	MS782	Electron transfer flavoprotein subunit alpha, mitochondrial (ETFA) monoclonal antibody [2B11AE8]	http://www.abcam.com/MADD-antibody-2B11AE8-ab110316.html	IP,WB			Monoclonal	2B11AE8													
+MitoSciences	MSZ08	MSZ08	PEP12 antibody [2C3G4]	http://www.abcam.com/PEP12-antibody-2C3G4-ab113689.html	WB			Monoclonal	2C3G4													
+MitoSciences	MS104	MS104	Complex I subunit NDUFS4 monoclonal antibody [2C7CD4AG3]	http://www.abcam.com/Ndufs4-antibody-2C7CD4AG3-ab87399.html	WB			Monoclonal	2C7CD4AG3													
+MitoSciences	MS204	MS204	Complex II subunit 70 kDa Fp (SDHA) monoclonal antibody [2E3GC12FB2AE2]	http://www.abcam.com/SDHA-antibody-2E3-ab14715.html	WB			Monoclonal	2E3GC12FB2AE2													
+MitoSciences	MSM02	MSM02	Mitofilin (IMMT) monoclonal antibody [2E4AD5]	http://www.abcam.com/Mitofilin-antibody-2E4AD5-ab110329.html	WB,IP			Monoclonal	2E4AD5													
+MitoSciences	MS738	MS738	Carbamoyl-phosphate synthase 1 (CPS1) monoclonal antibody [2E4AE11]	http://www.abcam.com/CPS1-antibody-2E4AE11-ab110303.html	IP			Monoclonal	2E4AE11													
+MitoSciences	MS783	MS783	Malate dehydrogenase, mitochondrial (MDH2) monoclonal antibody [2F5AF8]	http://www.abcam.com/MDH2-antibody-2F5AF8-ab110317.html	IP			Monoclonal	2F5AF8													
+MitoSciences	MS765	MS765	Microsomal glutathione S-transferase 3 (MGST3) monoclonal antibody [2G10CG7]	http://www.abcam.com/MGST3-antibody-2G10CG7-ab110309.html	IP			Monoclonal	2G10CG7													
+MitoSciences	MS951	MS951	Enolase (ENO1) monoclonal antibody [2G2AG11BF8]	http://www.abcam.com/ENO1-antibody-2G2AG11BF8-ab112994.html	IP			Monoclonal	2G2AG11BF8													
+MitoSciences	MSP49	MSP49	Pyruvate dehydrogenase kinase isoform 1 (PDK1) monoclonal antibody [2H3AA11]	http://www.abcam.com/Mitochondrial-Pyruvate-dehydrogenase-kinase-1-antibody-2H3AA11-ab110335.html	WB			Monoclonal	2H3AA11													
+MitoSciences	MS716	MS716	Acetyl-CoA acyltransferase 1 (ACAA1) monoclonal antibody [2H6BE7]	http://www.abcam.com/ACAA1-antibody-2H6BE7-ab110289.html	IP,WB			Monoclonal	2H6BE7													
+MitoSciences	MS401c	MS401c	Complex IV capture monoclonal antibody [31E91B82G9]	http://www.abcam.com/Complex-IV-Immunocapture-antibody-31E91B82G9-ab109863.html	IP			Monoclonal	31E91B82G9													
+MitoSciences	MSA06	MSA06	Cytochrome c, mitochondrial (CYCS) monoclonal antibody [37BA11]	http://www.abcam.com/Cytochrome-C-antibody-37BA11-ab110325.html	WB			Monoclonal	37BA11													
+MitoSciences	MS726	MS726	Medium-chain acyl-CoA dehydrogenase (MCAD) monoclonal antibody [3B7BH7]	http://www.abcam.com/ACADM-antibody-3B7BH7-ab110296.html	WB,IP			Monoclonal	3B7BH7													
+MitoSciences	MS503	MS503	ATP synthase subunit beta (ATPB) monoclonal antibody [3D5]	http://www.abcam.com/ATPB-antibody-3D5-ab14730.html	WB,IP			Monoclonal	3D5													
+MitoSciences	MS954	MS954	Tropomyosin 3 (TPM3) antibody [3D5AH3AB4]	http://www.abcam.com/Tropomyosin-3-antibody-3D5AH3-ab113692.html	IP,WB			Monoclonal	3D5AH3AB4													
+MitoSciences	MS785	MS785	Creatine kinase M-type (CKM) monoclonal antibody [3E5BA5]	http://www.abcam.com/Creatine-Kinase-MM-antibody-3E5BA5-ab110319.html	IP,WB			Monoclonal	3E5BA5													
+MitoSciences	MS751	MS751	Glyceraldehyde 3-phosphate dehydrogenase (GAPDH) monoclonal antibody [3E8AD9]	http://www.abcam.com/GAPDH-antibody-3E8AD9-ab110305.html	WB,IP			Monoclonal	3E8AD9													
+MitoSciences	MS764	MS764	Transitional endoplasmic reticulum ATPase (VCP) monoclonal antibody [3E8DC11]	http://www.abcam.com/VCP-antibody-3E8DC11-ab110308.html	IP			Monoclonal	3E8DC11													
+MitoSciences	MS781	MS781	Glutaryl-CoA dehydrogenase, mitochondrial (GCDH) monoclonal antibody [3E9BA3BF5]	http://www.abcam.com/GCDH-antibody-3E9BA3BF5-ab112998.html	IP			Monoclonal	3E9BA3BF5													
+MitoSciences	MS413	MS413	Complex IV subunit VIb (COX6B) monoclonal antibody [3F9D3D11AF6]	http://www.abcam.com/Cytochrome-C-Oxidase-subunit-VIb-antibody-3F9D3D11AF6-ab110266.html	WB			Monoclonal	3F9D3D11AF6													
+MitoSciences	MS110	MS110	Complex I subunit NDUFS3 monoclonal antibody [3F9DD2]	http://www.abcam.com/NDUFS3-antibody-3F9DD2-ab110246.html	WB			Monoclonal	3F9DD2													
+MitoSciences	MS414	MS414	Complex IV subunit VIc (COX6C) monoclonal antibody [3G5F7G3]	http://www.abcam.com/Cytochrome-C-Oxidase-subunit-VIc-antibody-3G5F7G3-ab110267.html	WB			Monoclonal	3G5F7G3													
+MitoSciences	MS774	MS774	Pyruvate carboxylase, mitochondrial (PC) monoclonal antibody [3H2AD9]	http://www.abcam.com/PCB-antibody-3H2AD9-ab110314.html	IP			Monoclonal	3H2AD9													
+MitoSciences	MS734	MS734	Trifunctional protein (TFP) (HADHA / HADHB), mitochondrial monoclonal antibody [4A8BG12]	http://www.abcam.com/HADHA-HADHB-antibody-4A8BG12-ab110302.html	IP			Monoclonal	4A8BG12													
+MitoSciences	MS777	MS777	Poly [ADP-ribose] polymerase 1 (PARP-1) (cleaved) monoclonal antibody [4B5BD2]	http://www.abcam.com/Cleaved-PARP-antibody-4B5BD2-ab110315.html	WB			Monoclonal	4B5BD2													
+MitoSciences	MS505	MS505	ATP synthase subunit OSCP (ATP5O) monoclonal antibody [4C11C10D12]	http://www.abcam.com/ATP5O-antibody-4C11C10D12-ab110276.html	WB			Monoclonal	4C11C10D12													
+MitoSciences	MS704	MS704	Dicarbonyl/L-xylulose reductase (DCXR) monoclonal antibody [4G4AF5]	http://www.abcam.com/DCXR-antibody-4G4AF5-ab110283.html	WB,IP			Monoclonal	4G4AF5													
+MitoSciences	MS201c	MS201c	Complex II capture monoclonal antibody [4H12BG12AG2]	http://www.abcam.com/Complex-II-Immunocapture-antibody-4H12BG12AG2-ab109865.html	WB,IP			Monoclonal	4H12BG12AG2													
+MitoSciences	MS411	MS411	Complex IV subunit VIaH (COX6A2) monoclonal antibody [4H2A5]	http://www.abcam.com/COX6A2-antibody-4H2A5-ab110264.html	WB			Monoclonal	4H2A5													
+MitoSciences	MS305	MS305	Complex III subunit Rieske (UQCRFS1, RISP) monoclonal antibody [5A5]	http://www.abcam.com/UQCRFS1-antibody-5A5-ab14746.html	WB			Monoclonal	5A5													
+MitoSciences	MS733	MS733	Mitochondrial trifunctional protein (TFP) subunit beta (HADHB) monoclonal antibody [5C3AB7]	http://www.abcam.com/HADHB-antibody-5C3-ab110301.html	IP,WB			Monoclonal	5C3AB7													
+MitoSciences	MSZ05	MSZ05	DPM1 antibody [5C5A7]	http://www.abcam.com/DPM1-antibody-5C5A7-ab113686.html	WB			Monoclonal	5C5A7													
+MitoSciences	MS506	MS506	ATP synthase subunit IF1 (ATPIF1) monoclonal antibody [5E2D7]	http://www.abcam.com/ATPase-Inhibitory-Factor-1-antibody-5E2D7-ab110277.html	WB			Monoclonal	5E2D7													
+MitoSciences	MSA02	MSA02	Adenine nucleotide translocase (ANT) antibody [5F51BB5AG7]	http://www.abcam.com/Adenine-Nucleotide-Translocase-1-antibody-5F51BB5AG7-ab110322.html	WB			Monoclonal	5F51BB5AG7													
+MitoSciences	MS707	MS707	Very long-chain acyl-CoA dehydrogenase (VLCAD) antibody [6A9AF2]	http://www.abcam.com/ACADVL-antibody-6A9AF2-ab110285.html	IP			Monoclonal	6A9AF2													
+MitoSciences	MS786	MS786	Aconitase (ACO2) monoclonal antibody [6D1BE4]	http://www.abcam.com/Aconitase-2-antibody-6D1BE4-ab110320.html	IP			Monoclonal	6D1BE4													
+MitoSciences	MS415	MS415	Complex IV subunit VIIaHL (COX7A) monoclonal antibody [6D7G8E5BH11]	http://www.abcam.com/Complex-IV-subunit-VIIaHL-antibody-6D7G8E5BH11-ab110268.html	WB			Monoclonal	6D7G8E5BH11													
+MitoSciences	MS103	MS103	Complex I subunit GRIM-19 monoclonal antibody [6E1BH7]	http://www.abcam.com/GRIM19-antibody-ab110240.html	WB			Monoclonal	6E1BH7													
+MitoSciences	MS409	MS409	Complex IV subunit Va (COX5A) monoclonal antibody [6E9B12D5]	http://www.abcam.com/COX5A-antibody-6E9B12D5-ab110262.html	WB			Monoclonal	6E9B12D5													
+MitoSciences	MS793	MS793	Aconitase, mitochondrial (ACO2) monoclonal antibody [6F12BD9]	http://www.abcam.com/Aconitase-2-antibody-6F12BD9-ab110321.html	IP,WB			Monoclonal	6F12BD9													
+MitoSciences	MS952	MS952	Calnexin (CANX) monoclonal antibody [6F12BE10]	http://www.abcam.com/Calnexin-ER-membrane-marker-antibody-6F12BE10-ab112995.html	IP			Monoclonal	6F12BE10													
+MitoSciences	MS703	MS703	Nitrotyrosine monoclonal antibody [7A12AF6]	http://www.abcam.com/Nitrotyrosine-antibody-7A12AF6-ab110282.html	WB,IP			Monoclonal	7A12AF6													
+MitoSciences	MS114	MS114	Complex I subunit NDUFS2 antibody [7A12BE5AD5]	http://www.abcam.com/NDUFS2-antibody-7A12BE5AD5-ab110249.html	WB			Monoclonal	7A12BE5AD5													
+MitoSciences	MS950	MS950	BCAP31 (BAP31) monoclonal antibody [7A3BB6]	http://www.abcam.com/BAP31-antibody-7A3BB6-ab112993.html	WB,IP			Monoclonal	7A3BB6													
+MitoSciences	MS784	MS784	Short-chain specific acyl-CoA dehydrogenase, mitochondrial (SCAD) monoclonal antibody [7E1AB5]	http://www.abcam.com/ACADS-antibody-7E1-ab110318.html	WB			Monoclonal	7E1AB5													
+MitoSciences	MS511	MS511	ATP synthase subunit beta (ATPB) monoclonal antibody [7E3F2]	http://www.abcam.com/ATPB-antibody-7E3F2-ab110280.html	WB			Monoclonal	7E3F2													
+MitoSciences	MS730	MS730	Peroxisomal bifunctional enzyme (ECHD) monoclonal antibody [7F6AF11]	http://www.abcam.com/EHHADH-antibody-7F6AF11-ab110299.html	IP			Monoclonal	7F6AF11													
+MitoSciences	MSA09	MSA09	Apoptosis-inducing factor (AIF) monoclonal antibody [7F7AB10]	http://www.abcam.com/AIF-antibody-7F7-ab110327.html	IP,WB			Monoclonal	7F7AB10													
+MitoSciences	MS504	MS504	ATP synthase subunit d (ATP5H) monoclonal antibody [7F9BG1]	http://www.abcam.com/ATP5H-antibody-7F9BG1-ab110275.html	WB			Monoclonal	7F9BG1													
+MitoSciences	MS502	MS502	ATP synthase subunit alpha (ATP5A) monoclonal antibody [7H10BD4F9]	http://www.abcam.com/ATP5A-antibody-7H10BD4F9-ab110273.html	WB			Monoclonal	7H10BD4F9													
+MitoSciences	MS799	MS799	Transketolase (TKT) monoclonal antibody [7H1AA1]	http://www.abcam.com/Transketolase-antibody-7H1AA1-ab112997.html	IP,WB			Monoclonal	7H1AA1													
+MitoSciences	MS711	MS711	DECR1 monoclonal antibody (2,4-dienoyl-CoA reductase) [8B1AD10]	http://www.abcam.com/DECR1-antibody-8B1AD10-ab110287.html	IP			Monoclonal	8B1AD10													
+MitoSciences	MSZ01	MSZ01	VMA1 antibody [8B1F3]	http://www.abcam.com/V-type-proton-ATPase-catalytic-subunit-A-antibody-8B1F3-ab113745.html	WB			Monoclonal	8B1F3													
+MitoSciences	MS701	MS701	Nicotinamide nucleotide transhydrogenase (NNT) monoclonal antibody [8B4BB10]	http://www.abcam.com/NNT-antibody-8B4BB10-ab110352.html	IP,WB			Monoclonal	8B4BB10													
+MitoSciences	MSP07	MSP07	Pyruvate dehydrogenase (PDH) subunit E1 alpha (PDHA1) antibody [8D10E6]	http://www.abcam.com/Pyruvate-Dehydrogenase-E1-alpha-subunit-antibody-8D10E6-ab110334.html	WB			Monoclonal	8D10E6													
+MitoSciences	MS787	MS787	GOT2 antibody [8D2BB12]	http://www.abcam.com/GOT2-antibody-8D2BB12-ab113693.html	IP			Monoclonal	8D2BB12													
+MitoSciences	MS727	MS727	Multifunctional enzyme 2 (MFE2) monoclonal antibody [8E5AB11]	http://www.abcam.com/hydroxysteroid-17-beta-dehydrogenase-4-antibody-8E5-ab110297.html	IP			Monoclonal	8E5AB11													
+MitoSciences	MS709	MS709	Fumarase (FH) monoclonal antibody [8F12BB5]	http://www.abcam.com/FH-antibody-8F12BB5-ab110286.html	IP			Monoclonal	8F12BB5													
+MitoSciences	MS715	MS715	Diablo homolog (SMAC) antibody [8H5AA3]	http://www.abcam.com/Smac-Diablo-antibody-8H5AA3-ab110288.html				Monoclonal	8H5AA3													
+MitoSciences	MS719	MS719	Diablo homolog (SMAC) antibody [8H5AB2]	http://www.abcam.com/Smac-Diablo-antibody-8H5-ab110291.html	WB			Monoclonal	8H5AB2													
+MitoSciences	MS767	MS767	Aldehyde dehydrogenase, mitochondrial (ALDH2) monoclonal antibody [9A10AF10]	http://www.abcam.com/ALDH2-antibody-9A10AF10-ab110311.html	IP			Monoclonal	9A10AF10													
+MitoSciences	MS723	MS723	Delta(3,5)-delta(2,4)-dienoyl-CoA isomerase (ECH1) monoclonal antibody [9D11AF3]	http://www.abcam.com/ECH1-antibody-9D11AF3-ab110294.html	IP			Monoclonal	9D11AF3													
+MitoSciences	MS972	MS972	ATP synthase b subunit (ATP5F1) antibody [9D1BC4]	http://www.abcam.com/ATP5F1-antibody-9D1BC4-ab117991.html	WB,IP			Monoclonal	9D1BC4													
+MitoSciences	MS732	MS732	Superoxide dismutase (SOD2), mitochondrial monoclonal antibody [9E2BD2]	http://www.abcam.com/Superoxide-Dismutase-2-antibody-9E2BD2-ab110300.html	IP			Monoclonal	9E2BD2													
+MitoSciences	MS753	MS753	Alpha-ketoglutarate dehydrogenase (OGDH) subunit E2 monoclonal antibody [9F4BD5]	http://www.abcam.com/OGDH-antibody-9F4BD5-ab110306.html	WB,IP			Monoclonal	9F4BD5													
+MitoSciences	MS725	MS725	Hydroxymethylglutaryl-CoA lyase (HMGCL) monoclonal antibody [9F5AB9]	http://www.abcam.com/HMGCL-antibody-9F5-ab110295.html	IP			Monoclonal	9F5AB9													
+MitoSciences	MS718	MS718	Acetyl-CoA acetyltransferase 1 (ACAT1) monoclonal antibody [9H10AB4]	http://www.abcam.com/ACAA1-antibody-9H10-ab110290.html	IP			Monoclonal	9H10AB4													
+MitoSciences	MSP03	MSP03	Pyruvate dehydrogenase (PDH) subunit E1 alpha (PDHA1) monoclonal antibody [9H9AF5]	http://www.abcam.com/Pyruvate-Dehydrogenase-E1-alpha-subunit-antibody-9H9AF5-ab110330.html	WB			Monoclonal	9H9AF5													
+MitoSciences	MS406	MS406	Complex IV subunit III (COXIII) monoclonal antibody [DA5BC4]	http://www.abcam.com/Cytochrome-C-Oxidase-subunit-III-antibody-DA5BC4-ab110259.html	IP,WB			Monoclonal	DA5BC4													
+MitoSciences	MSA04	MSA04	Cyclophilin D (CypD/PPIF) monoclonal antibody [E11AE12BD4]	http://www.abcam.com/Cyclophilin-40-antibody-E11AE12BD4-ab110324.html	WB,IP			Monoclonal	E11AE12BD4													
+MitoSciences	MSP56	MSP56	PDK (pan) antibody [MS 39A-3H5BE12]	http://www.abcam.com/pan-PDK-antibody-MS-39A-3H5BE12-ab115321.html	WB			Monoclonal	MS 39A-3H5BE12													
+MitoSciences	ab123449	MS1029	CTIP2 antibody [25B6] (FITC)	http://www.abcam.com/Ctip2-antibody-25B6-FITC-ab123449.html	WB			Monoclonal	25B6		FITC											
+MitoSciences	ab195172	ab195172	Anti-Deadpan antibody [11D1CH11]	http://www.abcam.com/deadpan-antibody-11d1ch11-ab195172.html				Monoclonal	11D1CH11													
+MitoSciences	ab195173	ab195173	Anti-Deadpan antibody [11D1BC7]	http://www.abcam.com/deadpan-antibody-11d1bc7-ab195173.html				Monoclonal	11D1BC7													
+MitoSciences	ab197788	ab197788	Anti-Miranda antibody [CD#5- 7E9BG5AF4]	http://www.abcam.com/miranda-antibody-cd5-7e9bg5af4-ab197788.html				Monoclonal	CD#5- 7E9BG5AF4													
+MitoSciences	ab201325	ab201325	Anti-POU Domain 2 antibody [6G6AC11]	http://www.abcam.com/pou-domain-2-antibody-6g6ac11-ab201325.html				Monoclonal	6G6AC11													
+MitoSciences	ab201326	ab201326	Anti-Homeobox protein prospero antibody [P3D4-1F10]	http://www.abcam.com/homeobox-protein-prospero-antibody-p3d4-1f10-ab201326.html				Monoclonal	P3D4-1F10													
+MitoSciences	ab196362	ab196362	Anti-Worniu antibody	http://www.abcam.com/worniu-antibody-5a3ad2-ab196362.html				Monoclonal	5A3AD2													
+MitoSciences	ab133981	MS1105	Caspase 9 (CASP9) antibody [D10CG8]	(discontinued)				Monoclonal	D10CG8													
+MitoSciences	ab157402	ab157402	3-Nitrotyrosine antibody [7A12AF6] (Alexa Fluor  488)	(discontinued)				Monoclonal	7A12AF6		Alexa Fluor 488											
+MitoSciences	ab219825	ab219825	Anti-MT-ATP6 antibody [1G7-1G2] - N-terminal	http://www.abcam.com/mt-atp6-antibody-1g7-1g2-n-terminal-ab219825.html	WB			Monoclonal	1G7-1G2						N Terminus							
+MitoSciences	MS702	MS702	Mitochondrial trifunctional protein (TFP) subunit alpha (HADHA) monoclonal antibody [2C2AA5]	(discontinued)				Monoclonal	2C2AA5													
+MitoSciences	ab219823	ab219823	Anti-MT-CYB antibody [5B3-6E3] - N-terminal	http://www.abcam.com/mt-cyb-antibody-5b3-6e3-n-terminal-ab219823.html	WB			Monoclonal	5B3-6E3						N Terminus							
+MitoSciences	ab219824	ab219824	Anti-MTCO1 antibody [5D11-1C9] - N-terminal	http://www.abcam.com/mtco1-antibody-5d11-1c9-n-terminal-ab219824.html	WB			Monoclonal	5D11-1C9						N Terminus							
+MitoSciences	ab219821	ab219821	Anti-NADH2 antibody [9E12-1B3] - N-terminal	http://www.abcam.com/nadh2-antibody-9e12-1b3-n-terminal-ab219821.html	WB			Monoclonal	9E12-1B3						N Terminus							
+MitoSciences	ab219822	ab219822	Anti-NADH dehydrogenase subunit 4 antibody [9E4-2D8] - N-terminal	http://www.abcam.com/nadh-dehydrogenase-subunit-4-antibody-9e4-2d8-n-terminal-ab219822.html	WB			Monoclonal	9E4-2D8						N Terminus							
+MitoSciences	ab181412	ab181412	Anti-Muller cell maker [ZRF-2] antibody	(discontinued)				Monoclonal	ZRF-2													
+MitoSciences	ab197789	ab197789	Canine Creatin Kinase M -type Protein	http://www.abcam.com/canine-creatin-kinase-m-type-protein-ab197789.html	WB																	
+MitoSciences	MSA01c	MSA01c	Anti-Adenine Nucleotide Translocase Immunocapture antibody [5F51BB5AG7] (ab109864)	http://www.abcam.com/adenine-nucleotide-translocase-immunocapture-antibody-5f51bb5ag7-ab109864.html	IP			Monoclonal	5F51BB5AG7													
+MitoSciences	MS416	MS416	Anti-COX7B antibody [2G7H8AD9] (ab110269)	http://www.abcam.com/cox7b-antibody-2g7h8ad9-ab110269.html	WB			Monoclonal	2G7H8AD9													

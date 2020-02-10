@@ -1,0 +1,35 @@
+Original	Translated
+Sheep	ram
+Cynomolgus monkey	
+Monkey	Monkey; not mouse
+Other	
+Zebrafish	Zebrafish. Expected from seq similarity: Human
+Goat	Carpinus
+Caenorhabditis elegans	
+Catshark	Spotted Catshark
+nan	
+Chimpanzee	Chimp
+Chinese hamster	
+Rabbit	Rabbit (Rb)
+Escherichia coli	
+Common marmoset	
+Drosophila melanogaster	
+Cow	Bull
+Human Predicted to work with: Pig	
+Rhesus monkey	
+Dog	Dg
+Cat	Tested: Cat
+Hamster	Hamste
+Human Predicted to work with: Chinese hamster	
+Guinea pig	
+Fish	 Elasmobranch
+Human Predicted to work with: Rabbit	
+Pig	Sw
+African green monkey	
+Rat	 Rat
+Dogfish	
+Human	Human HeLa cells
+Drosophila melanogaster Predicted to work with: Cow	
+Quail	Quail
+Saccharomyces cerevisiae	
+Mouse	Ms

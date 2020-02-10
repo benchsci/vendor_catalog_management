@@ -1,0 +1,3776 @@
+original	translated
+Non Specified	REMOVE
+Abalone	Abalone
+Acetabularia	Acetabularia
+Acetobacter	Acetobacter
+Achlya	Achlya
+Achlyaambisexualis	Achlya
+Achyla	Achlya
+Acidaminococcus	Acidaminococcus
+Acinetobacter	Acinetobacter
+A. baumannii	Acinetobacter
+Actinomyces	Actinomyces
+Actinoplanes	Actinoplanes
+Adelie Penguin	Adelie Penguin
+Adeno-Associated Virus	Adeno-Associated Virus
+AAV1	Adeno-Associated Virus
+AAV1 (weak cross-reaction with AAV6 and 12)	Adeno-Associated Virus
+AAV1 (weak cross-reaction with AAV6)	Adeno-Associated Virus
+AAV10	Adeno-Associated Virus
+AAV2	Adeno-Associated Virus
+AAV2 ( also cross-reactivity with AAV serotypes 1	Adeno-Associated Virus
+AAV2 (found in human and monkey)	Adeno-Associated Virus
+AAV2 (in ELISA also applicable to AAV3)	Adeno-Associated Virus
+AAV2 (published cross-reactivity with all published AAV serotypes (AAV4	Adeno-Associated Virus
+AAV2 (published reactivity in dot blot: AAV1-9 and AAV1-12 )	Adeno-Associated Virus
+AAV2 (weak cross-reaction with AAV3)	Adeno-Associated Virus
+AAV2 (weak cross-reaction with serotypes 1	Adeno-Associated Virus
+AAV3	Adeno-Associated Virus
+AAV4	Adeno-Associated Virus
+AAV5	Adeno-Associated Virus
+AAV5 (found in human and monkey)	Adeno-Associated Virus
+AAV6	Adeno-Associated Virus
+AAV7	Adeno-Associated Virus
+AAV8	Adeno-Associated Virus
+AAV8 (no cross-reaction with other AAV types in IF. weak cross-reactivity with AAV1	Adeno-Associated Virus
+AAV8 (published data: no cross-reaction with other AAV types in IF microscopy. With dot blot weak cross-reactivity with type 1	Adeno-Associated Virus
+AAV9 (negative with AAV4	Adeno-Associated Virus
+AAV9 (published data: no cross-reaction with AAV8 in immunofluorescence microscopy and dot blot )	Adeno-Associated Virus
+AAV9 (weak cross-reaction with AAV4)	Adeno-Associated Virus
+Adeno-associated virus (AAV)	Adeno-Associated Virus
+AAV	Adeno-Associated Virus
+Adenovirus	Adenovirus
+Adenovirus-2	Adenovirus
+Adenovirus-2and-5	Adenovirus
+Adenovirus-2andAdenovirus-5	Adenovirus
+Adenovirustype2	Adenovirus
+Adenovirustype7	Adenovirus
+Adeno-Associated Virus 1	Adenovirus
+Adeno-Associated Virus 2	Adenovirus
+Adeno-Associated Virus 4	Adenovirus
+Adeno-Associated Virus 5	Adenovirus
+Adeno-Associated Virus 6	Adenovirus
+Adeno-Associated Virus 8	Adenovirus
+Aequorea	Aequorea
+aequorea victoria	Aequorea
+A. victoria	Aequorea
+Aeromonas	Aeromonas
+Aeromonas caviae	Aeromonas
+African Bush Elephant	African Bush Elephant
+African Cassava Mosaic Virus	African Cassava Mosaic Virus
+African Clawed Frog	African Clawed Frog
+AfriCanine clawed frog	African Clawed Frog
+African Green Monkey	African Green Monkey
+African Green	African Green Monkey
+Green Monkey	African Green Monkey
+Agave Azul	Agave Azul
+Aggregatibacter	Aggregatibacter
+A. actinomycetecomitans	Aggregatibacter
+Agriocnemis	Agriocnemis
+Agrobacterium	Agrobacterium
+A. tumefaciens	Agrobacterium
+Alcaligenes	Alcaligenes
+Alcaligenes species	Alcaligenes
+Alfalfa	Alfalfa
+Alfalfa Mosaic Virus	Alfalfa Mosaic Virus
+Algae	Algae
+Alga	Algae
+C. merolae	Algae
+Algal	Algae
+All	All
+all species	All
+All vertebrates and plants	All
+Recognizes fusion proteins in all species	All
+and all species	All
+Alligator	Alligator
+American alligator	Alligator
+caiman	Alligator
+Almond	Almond
+Almonds	Almond
+Alpaca	Alpaca
+Alpha Virus	Alpha Virus
+Alphavirus	Alpha Virus
+Amago Salmon	Amago Salmon
+Amaranthus	Amaranthus
+American Kestrel	American Kestrel
+Amoeba	Amoeba
+Amphibian	Amphibian
+amphibia	Amphibian
+Amphibians	Amphibian
+Pleurodelis	Amphibian
+Amphidinium	Amphidinium
+Anabaena	Anabaena
+Anchovy	Anchovy
+Andes Virus	Andes Virus
+Annual Ragweed	Annual Ragweed
+Antelope	Antelope
+Antiaris	Antiaris
+Aplysia	Aplysia
+Apple	Apple
+Apple Chlorotic Leaf Spot Virus	Apple Chlorotic Leaf Spot Virus
+Apple Mosaic Virus	Apple Mosaic Virus
+Apple Stem Grooving Virus	Apple Stem Grooving Virus
+Apteronotus	Apteronotus
+Aquifex	Aquifex
+AquifexaeolicusVF5	Aquifex
+Arabidopsis	Arabidopsis
+A. thaliana	Arabidopsis
+Arabidopsis Nicotiana tabacum Oryza sativa Hordeum vulgare	Arabidopsis
+Arabidopsis thaliana	Arabidopsis
+ArabidopsisProfilin	Arabidopsis
+Arabinans	Arabidopsis
+Arabis Mosaic Virus	Arabis Mosaic Virus
+Arachnocampa	Arachnocampa
+Archaea	Archaea
+Arctic Char	Arctic Char
+Armenian Hamster	Armenian Hamster
+Armenian	Armenian Hamster
+Hamster-Armenian	Armenian Hamster
+Armyworm	Armyworm
+Arthrobacter	Arthrobacter
+Arthrobacterium ureafaciens	Arthrobacter
+Arthrobacter globiformis	Arthrobacter
+Arthropod	Arthropod
+xenopod	Arthropod
+Androctonus australis hector	Arthropod
+Scorpion	Arthropod
+Amblyomma hebraeum	Arthropod
+Ascaris	Ascaris
+Asian Toad	Asian Toad
+Asparagus	Asparagus
+Aspergillus	Aspergillus
+Aspergillus fumigatus	Aspergillus
+Aspergillus niger	Aspergillus
+Aspergillusflavus	Aspergillus
+Aspergillusniger	Aspergillus
+Aspergillus oryzae	Aspergillus
+Aspergillus species	Aspergillus
+ Aspergillus niger	Aspergillus
+A. awamori	Aspergillus
+A. fumigatus	Aspergillus
+A. flavus	Aspergillus
+Aspergillus. spp and Penicillium. spp	"Aspergillus, Penicillium"
+Astrovirus	Astrovirus
+Atlantic Cod	Atlantic Cod
+Atlantic Hagfish	Atlantic Hagfish
+Atlantic Hagfish (Myxine glutinosa)	Atlantic Hagfish
+Atlantic Salmon	Atlantic Salmon
+Aureococcus	Aureococcus
+Autographa Californica Nuclear Polyhedrosis Virus	Autographa Californica Nuclear Polyhedrosis Virus
+AcNPV	Autographa Californica Nuclear Polyhedrosis Virus
+Avian	Avian
+avianand	Avian
+handavian	Avian
+Avian Influenza Virus	Avian Influenza Virus
+AIV	Avian Influenza Virus
+Axolotl	Axolotl
+Baboon	Baboon
+Bacillus	Bacillus
+Bacillus amyloliquefaciens	Bacillus
+Bacillus anthracis	Bacillus
+bacillus anthracis (Anthrax)	Bacillus
+Bacillus species	Bacillus
+BacillusAnthracis	Bacillus
+Bacillus thuringiensis	Bacillus
+Bacillus subtilis	Bacillus
+Bacillus polymyxa	Bacillus
+Bacillus stearothermophilus	Bacillus
+Bacillus thermoproteolyticus rokko	Bacillus
+B. anthracis	Bacillus
+Anthrax	Bacillus
+B. thuringiensis	Bacillus
+B. Licheniformis	Bacillus
+Bacillus amyloliquefacies	Bacillus
+Bacillus sp.	Bacillus
+Bacteria	Bacteria
+bacterial	Bacteria
+Edwardsiellatarda	Bacteria
+Nocardia erythropolis	Bacteria
+Erwinia	Bacteria
+G. stearothermophilus	Bacteria
+E. rhusiopathiae	Bacteria
+Firmicutes. spp	Bacteria
+Gardnerella vaginalis	Bacteria
+Geobacillus stearothermophilus	Bacteria
+Mannheimia haemolytica	Bacteria
+Bacterium	Bacteria
+Bacteriophage	Bacteriophage
+Phage	Bacteriophage
+P1 Phage	Bacteriophage
+L. bacteriophage	Bacteriophage
+M13 Bacteriophage	Bacteriophage
+P1 bacteriophage	Bacteriophage
+T7 Bacteriophage	Bacteriophage
+Bacteroide	Bacteroide
+Baculogypsina	Baculogypsina
+Baculovirus	Baculovirus
+Reacts with baculovirus from Autographa californica	Baculovirus
+Badderlock	Badderlock
+Badger	Badger
+Bakers Yeast	Bakers Yeast
+Baker's Yeast	Bakers Yeast
+Bakers Yeastast	Bakers Yeast
+Ballan Wrasse	Ballan Wrasse
+Balsam Fir	Balsam Fir
+Barley	Barley
+Barley seedlings	Barley
+Barn Swallow	Barn Swallow
+Barnyard Grass	Barnyard Grass
+Bartonella	Bartonella
+Bass	Bass
+Bat	Bat
+Microchiropteran Bats	Bat
+Great fruit eating bat	Bat
+Tested: Bat	Bat
+Bean	Bean
+Bee	Bee
+Beet	Beet
+Beetle	Beetle
+Beluga	Beluga
+Bienertia	Bienertia
+Birch	Birch
+Birch wood	Birch
+Bird	Bird
+Bird/avian	Bird
+ostrich	Bird
+Cowbird	Bird
+Birds	Bird
+ Guineafowl	Bird
+Bison	Bison
+American Bison	Bison
+Black Locust	Black Locust
+Bladder Wrack	Bladder Wrack
+Blastocystis	Blastocystis
+Blowfly	Blowfly
+Blue Agave	Blue Agave
+Blueberry Scorch Virus	Blueberry Scorch Virus
+Boar	Boar
+Collared peccary	Boar
+Bordetella	Bordetella
+B. avium	Bordetella
+B. aviumpossibly other Bordetella	Bordetella
+B.pertussis	Bordetella
+Bordetella pertussis	Bordetella
+Bordetellapertussis	Bordetella
+BordetellapertussisandBordetellabronchiseptica	Bordetella
+possibly other Bordetella	Bordetella
+Recognizes an epitope in the glycine and aspartate-rich nonapeptide repeat region (amino acids 1156-1489) of B. pertussis and other repeats-in-toxin (RTX) family bacteria toxins	Bordetella
+Borrelia	Borrelia
+Borellia	Borrelia
+Borrelia afzelii	Borrelia
+Borrelia burgdorferi	Borrelia
+Borrelia burgdorferi B31	Borrelia
+Borrelia species	Borrelia
+Borreliaburgdorferi	Borrelia
+Borreliaburgdorferigarinii	Borrelia
+Borreliaburgdorferisensustricto	Borrelia
+B. Burgdorferi	Borrelia
+Bottlenose Dolphin	Bottlenose Dolphin
+Bovine Herpesvirus	Bovine Herpesvirus
+Bovine Herpesvirus-1	Bovine Herpesvirus
+BoHV	Bovine Herpesvirus
+Bowfin	Bowfin
+Brachiopod	Brachiopod
+Brachypodium	Brachypodium
+Bradyrhizobium	Bradyrhizobium
+Brassica	Brassica
+Brassica and other eukaryotes for which ARP8 is closely related to thaliana's	Brassica
+Brazilian Wandering Spider	Brazilian Wandering Spider
+Brevibacterium	Brevibacterium
+Brewer's Yeast	Brewer's Yeast
+Brine Shrimp	Brine Shrimp
+Broad Bean	Broad Bean
+Bronchitis Virus	Bronchitis Virus
+Brook Trout	Brook Trout
+Broom Corn	Broom Corn
+Brown Bullhead	Brown Bullhead
+Brown Ghost Knifefish	Brown Ghost Knifefish
+Brucella	Brucella
+Brucella abortus	Brucella
+Brucellaabortus	Brucella
+Brucella. spp	Brucella
+B. abortus	Brucella
+Brugia	Brugia
+Bryopsis	Bryopsis
+Bryozoa	Bryozoa
+Budding Yeast	Budding Yeast
+Buffalo	Buffalo
+Bullfrog	Bullfrog
+Bumblebee	Bumblebee
+Bundibugyo Virus	Bundibugyo Virus
+Bunyavirus	Bunyavirus
+Burkholderia	Burkholderia
+Burkholderia mallei	Burkholderia
+B. pseudomallei	Burkholderia
+B. mallei	Burkholderia
+Bursal Disease Virus	Bursal Disease Virus
+Butterfly	Butterfly
+Pieris rapae	Butterfly
+Cabbage	Cabbage
+Caenorhabditis	Caenorhabditis
+C. elegans	Caenorhabditis
+C.elegans	Caenorhabditis
+Caenorhabditis elegans	Caenorhabditis
+C.Elegans)	Caenorhabditis
+C. briggsae	Caenorhabditis
+Caenorhabditis elegans. Predicted to work with: Xenopus laevis	"Caenorhabditis, Xenopus"
+Calf	Calf
+Camel	Camel
+Camelid	Camelid
+Camelina	Camelina
+Campylobacter	Campylobacter
+C.jejuni	Campylobacter
+Campylobacter fetus	Campylobacter
+Campylobacter jejuni	Campylobacter
+Campylobacterjejuni	Campylobacter
+C. jejuni	Campylobacter
+Canary Pox Virus	Canary Pox Virus
+Canarypox virus	Canary Pox Virus
+Canavalia	Canavalia
+Candida	Candida
+Candida albicans	Candida
+Candida albicans SC5314	Candida
+Candida species	Candida
+Candidaalbicans	Candida
+C. albicans	Candida
+Canine Distemper Virus	Canine Distemper Virus
+CDV	Canine Distemper Virus
+Canine Heartworm	Canine Heartworm
+Canine Oral Papillomavirus	Canine Oral Papillomavirus
+Canine Parvovirus	Canine Parvovirus
+CanineParvovirus	Canine Parvovirus
+CPV	Canine Parvovirus
+CPV2	Canine Parvovirus
+CPV and FPV	"Canine Parvovirus, Parvovirus"
+Cannabis	Cannabis
+C. sativa	Cannabis
+Cape Sundew	Cape Sundew
+Capuchin Monkey	Capuchin Monkey
+Carp	Carp
+Common carp	Carp
+Cyprinus carpio	Carp
+fish (carp)	Carp
+Carrot	Carrot
+Cassava	Cassava
+Cat	Cat
+anti-Cat	Cat
+Cat/feline	Cat
+feline	Cat
+Feline (cat)	Cat
+feline>m	Cat
+Feline (Fe)	Cat
+Cat)	Cat
+Tested: Cat	Cat
+Catfish	Catfish
+Channel catfish	Catfish
+Catnip	Catnip
+Catshark	Catshark
+Spotted Catshark	Catshark
+Cattle	Cattle
+Cauliflower	Cauliflower
+Cave Fish	Cave Fish
+Cecropia Moth	Cecropia Moth
+Celery	Celery
+Apium graveolens	Celery
+Celery Wood	Celery Wood
+Cellulomonas	Cellulomonas
+GLYCEROL KINASE (Cellulomonas species)	Cellulomonas
+Glycerol Kinase [Cellulomonas species]	Cellulomonas
+Chestnut Blight	Chestnut Blight
+Chicken	Chicken
+anti-Chicken	Chicken
+chick	Chicken
+Chicken (Alpha/Beta)	Chicken
+Chicken (Gallus gallus)	Chicken
+Chicken IgY / IgG	Chicken
+chicken)	Chicken
+gallus gallus	Chicken
+Chicken (ChK)	Chicken
+Chicken (weak)	Chicken
+Tested: Chicken	Chicken
+Ck	Chicken
+Chicken Anemia Virus	Chicken Anemia Virus
+Chickpea	Chickpea
+Chikungunya Virus	Chikungunya Virus
+CHIKV	Chikungunya Virus
+Chimpanzee	Chimpanzee
+chimpanzees	Chimpanzee
+Chimpanzee)	Chimpanzee
+Chimp	Chimpanzee
+chimpanzee and chicken	"Chimpanzee, Chicken"
+Chinese Cobra	Chinese Cobra
+Chinese Hamster	Chinese Hamster
+Chinesehamster	Chinese Hamster
+Hamster-Chinese	Chinese Hamster
+Chinese Sweet Gum	Chinese Sweet Gum
+Chinook Salmon	Chinook Salmon
+Chironomus	Chironomus
+Chlamydia	Chlamydia
+C. psittaci	Chlamydia
+C. trachomatis	Chlamydia
+C.trachomatis	Chlamydia
+Chlamydia genus	Chlamydia
+Chlamydia trachomatis	Chlamydia
+Chlamydiasp.	Chlamydia
+Chlamydiatrachomatis	Chlamydia
+Chlamydia. spp	Chlamydia
+Chlamydomonas	Chlamydomonas
+Chlamydomonas reinhardtii	Chlamydomonas
+chlamydomonas.	Chlamydomonas
+Chlamydophila	Chlamydophila
+C.abortus	Chlamydophila
+Chlorella	Chlorella
+Chloroflexus	Chloroflexus
+Cholera	Cholera
+Christmas Rose	Christmas Rose
+Chromera	Chromera
+Chrysanthemum	Chrysanthemum
+Chum Salmon	Chum Salmon
+Circovirus	Circovirus
+Cistanche	Cistanche
+Citrobacter	Citrobacter
+Citrullus	Citrullus
+Citrus Tristeza Virus	Citrus Tristeza Virus
+CTV	Citrus Tristeza Virus
+Cladosporium	Cladosporium
+Clam	Clam
+Meretrix meritrix	Clam
+oysters	Clam
+Clostridium	Clostridium
+C. botulinum	Clostridium
+C. difficile	Clostridium
+C. tetani	Clostridium
+C.botulinum	Clostridium
+Cl.difficile	Clostridium
+Clostridium difficile	Clostridium
+Clostridium tetani	Clostridium
+Clostridiumbotulinum	Clostridium
+Clostridiumdifficile	Clostridium
+Clostridiumtetani	Clostridium
+Clostridium histolyticum	Clostridium
+Clostridium perfringens	Clostridium
+C. butulinum	Clostridium
+Cockroach	Cockroach
+Cod	Cod
+orange-spotted grouper	Cod
+Congregibacter	Congregibacter
+Copepod	Copepod
+Calanus sp.	Copepod
+Coral	Coral
+Discosoma	Coral
+Corn	Corn
+Maize Leaves	Corn
+Maize	Corn
+Coronavirus	Coronavirus
+Bovine coronavirus; human coronavirus OC43	Coronavirus
+bovineCoronavirus	Coronavirus
+Feline Coronavirus	Coronavirus
+Transmissible Gastroenteritis Coronavirus	Coronavirus
+Bovine Corona Virus	Coronavirus
+BCV	Coronavirus
+MERS-CoV	Coronavirus
+FIPV	Coronavirus
+CoV	Coronavirus
+Corynebacterium	Corynebacterium
+Corynebacteriumdiphtheriae	Corynebacterium
+Diphtheriatoxin	Corynebacterium
+Coscinodiscus	Coscinodiscus
+Cotton	Cotton
+Cotton Rat	Cotton Rat
+Cotton-Top Tamarin	Cotton-Top Tamarin
+Cow	Cow
+All vertebrate species assayed: bovine	Cow
+and bovine Tau1	Cow
+anti-Bovine	Cow
+Bos taurus (Bovine)	Cow
+bovine	Cow
+bovine (weak cross-reactivity with human)	Cow
+Bovine Calf spleen	Cow
+bovine)	Cow
+cattle	Cow
+Cow. Does not cross react with Mouse or Rat.	Cow
+Cow/bovine	Cow
+Reactive against bovine	Cow
+Bovine (Bov)	Cow
+Bovien	Cow
+Bov	Cow
+Bovi	Cow
+Bovin	Cow
+Cow)	Cow
+Cowetc	Cow
+Cw	Cow
+Bovine and goat	"Cow, Goat"
+Coxsackie Virus	Coxsackie Virus
+coxsackievirus	Coxsackie Virus
+Coxsackievirus A16	Coxsackie Virus
+Coxsackievirus A6	Coxsackie Virus
+Coxsackie A Virus	Coxsackie Virus
+Coxsackie B Virus	Coxsackie Virus
+Coxsackie B5 Virus	Coxsackie Virus
+Crab	Crab
+ Horseshoe crab	Crab
+Crab Eating Macaque Monkey	Crab Eating Macaque Monkey
+Craterostigma	Craterostigma
+Crayfish	Crayfish
+Parastacidae	Crayfish
+Crimean-Congo Hemorrhagic Fever Virus N Protein	Crimean-Congo Hemorrhagic Fever Virus N Protein
+Crocodile	Crocodile
+Crow-Dipper	Crow-Dipper
+Crpv Genome Polyprotein	Crpv Genome Polyprotein
+Crustacean	Crustacean
+Crustacea	Crustacean
+Cryphonectria	Cryphonectria
+Cryphonectria parasitica	Cryphonectria
+Cryptococcus	Cryptococcus
+C. neoformans	Cryptococcus
+Cryptococcus. spp	Cryptococcus
+Cryptosporidium	Cryptosporidium
+Cryptosporidium parvum	Cryptosporidium
+Cryptosporidiumparvum	Cryptosporidium
+Cucumber	Cucumber
+Cucumis sativus	Cucumber
+fruit of cucumber	Cucumber
+Cucumber Necrosis Virus	Cucumber Necrosis Virus
+Cucurbita	Cucurbita
+Ascorbate Oxidase [cucurbita]	Cucurbita
+Cucurbita species	Cucurbita
+Cyanidioschyzon	Cyanidioschyzon
+Cyanobacteria	Cyanobacteria
+Cyanobium	Cyanobium
+Cyanophora	Cyanophora
+Cylindrospermopsis	Cylindrospermopsis
+Cynomolgus Monkey	Cynomolgus Monkey
+Cynomolgus	Cynomolgus Monkey
+Monkey-Cynomolgus	Cynomolgus Monkey
+Cypress	Cypress
+Chamaecyparis obtusa	Cypress
+Cryptomeria japonica	Cypress
+Cytomegalovirus	Cytomegalovirus
+CMV	Cytomegalovirus
+Cytomegalovirus p65 (CMV-p65)	Cytomegalovirus
+HCMV	Cytomegalovirus
+Dactylis	Dactylis
+Death Cap	Death Cap
+Deathstalker	Deathstalker
+Decapod	Decapod
+Deer	Deer
+Cervine	Deer
+Red deer	Deer
+Deinococcus	Deinococcus
+Dengue Virus	Dengue Virus
+Dengue virus 2	Dengue Virus
+DengueVirus1	Dengue Virus
+DengueVirus2	Dengue Virus
+DENV	Dengue Virus
+Dengue Virus 3	Dengue Virus
+Dengue Virus 4	Dengue Virus
+Dengue Virus Type 2	Dengue Virus
+Desmodesmus	Desmodesmus
+Dicotyledon	Dicotyledon
+Dictyostelium	Dictyostelium
+Dinoflagellates	Dinoflagellates
+Ditylum	Ditylum
+Dog	Dog
+anti-Dog	Dog
+canine	Dog
+Canine (Dog)	Dog
+canine and others	Dog
+dog)	Dog
+Dog/canine	Dog
+Canine (Can)	Dog
+Canis	Dog
+Dg	Dog
+dog and chimpanzee	"Dog, Chimpanzee"
+dog and quail	"Dog, Quail"
+Dogfish Shark	Dogfish Shark
+Dogfish/Catshark	"Dogfish Shark, Catfish"
+Dolichos	Dolichos
+Dolphin	Dolphin
+Harbour Porpoise	Dolphin
+Donkey	Donkey
+anti-Donkey	Donkey
+Dky	Donkey
+Douglas Fir	Douglas Fir
+Dove	Dove
+Dragon Fly	Dragon Fly
+Drimia	Drimia
+Drosophila	Drosophila
+Dosophila	Drosophila
+Drosophila melanogaster	Drosophila
+Drosophila melanogaster (fruit fly)	Drosophila
+Drosophilamelanogaster	Drosophila
+Drosophilia	Drosophila
+Melanogaster	Drosophila
+Drosophila)	Drosophila
+D.melanogaster	Drosophila
+Drosophila (weak)	Drosophila
+Dros	Drosophila
+Drosop	Drosophila
+Drosoph	Drosophila
+Drosph	Drosophila
+Drosophila C Virus	Drosophila C Virus
+drosophila and zebrafish tissues	"Drosophila, Zebrafish"
+Duck	Duck
+Cairina moschata	Duck
+Teal	Duck
+Duckweed	Duckweed
+Lemna minor	Duckweed
+Dust Mite	Dust Mite
+Dermatophagoidesfarinae	Dust Mite
+House Dust Mite	Dust Mite
+Dermatophagoides	Dust Mite
+Earthmoss	Earthmoss
+Easter Lily	Easter Lily
+Eastern Equine Encephalitis Virus	Eastern Equine Encephalitis Virus
+Ebola Virus	Ebola Virus
+Ebolavirus	Ebola Virus
+EBOV	Ebola Virus
+Echinococcus	Echinococcus
+Echinococcusgranulosus	Echinococcus
+E. granulosus	Echinococcus
+Echinodermata	Echinodermata
+Echinoderms	Echinoderms
+Echinoderm	Echinoderms
+Echovirus	Echovirus
+Ehrlichia	Ehrlichia
+Electric Eel	Electric Eel
+eels	Electric Eel
+Electophoruselectricusandcanine	Electric Eel
+Electrophorus	Electric Eel
+Eel	Electric Eel
+Electric Ray	Electric Ray
+Elephant	Elephant
+Loxodonta Africana	Elephant
+Elk	Elk
+Emiliania	Emiliania
+Encephalomyelitis Virus	Encephalomyelitis Virus
+Entamoeba	Entamoeba
+Entamoebahistolytica	Entamoeba
+Enterobacter	Enterobacter
+Enterobacter cloacae	Enterobacter
+Enterobactercloacae	Enterobacter
+Enterobacter aerogenes	Enterobacter
+Enterobacteria	Enterobacteria
+Edwardsiella tarda	Enterobacteria
+Erwinia herbicola	Enterobacteria
+Enterococcus	Enterococcus
+Enterovirus	Enterovirus
+Enterovirus 70	Enterovirus
+Enterovirus 71	Enterovirus
+Enterovirus D68	Enterovirus
+EV71	Enterovirus
+Epstein Barr Virus	Epstein Barr Virus
+EBV	Epstein Barr Virus
+Epstein-Barr virus	Epstein Barr Virus
+Epstein-BarrVirus	Epstein Barr Virus
+Human EBV	Epstein Barr Virus
+Equine	Equine
+Equine Encephalitis Virus	Equine Encephalitis Virus
+VEEV	Equine Encephalitis Virus
+Western Equine Encephalitis Virus	Equine Encephalitis Virus
+Equine Herpesvirus	Equine Herpesvirus
+EHV	Equine Herpesvirus
+Erythrina Caffra	Erythrina Caffra
+Escherichia	Escherichia
+<i>E. coli</i>	Escherichia
+E coli	Escherichia
+E. cloacae	Escherichia
+E. coli	Escherichia
+E.coli	Escherichia
+E.coliO-111	Escherichia
+Escherichia coli	Escherichia
+Escherichiacoli	Escherichia
+E.coli (GroEl)	Escherichia
+E. coliand ArabidopsisLacI	"Escherichia, Arabidopsis"
+E.coli and S.sonnei	"Escherichia, Shigella"
+Euglena	Euglena
+Eukaryote	Eukaryote
+Eukaryotes	Eukaryote
+European Aspen	European Aspen
+Fall Armyworm	Fall Armyworm
+Fallow Deer	Fallow Deer
+Feline Calicivirus	Feline Calicivirus
+FCV	Feline Calicivirus
+Feline calcivirus	Feline Calicivirus
+Feline Calicivirus (p63 capsid)	Feline Calicivirus
+Feline Immunodeficiency Virus	Feline Immunodeficiency Virus
+FIV	Feline Immunodeficiency Virus
+Feline Immunodeficiency Virus (FIV) Envelope	Feline Immunodeficiency Virus
+Feline Immunodeficiency Virus (FIV) gp41	Feline Immunodeficiency Virus
+Feline Leukaemia Virus	Feline Leukaemia Virus
+Feline Leukemia Virus	Feline Leukaemia Virus
+FeLV	Feline Leukaemia Virus
+FeLV envelope glycoprotein SU gp70	Feline Leukaemia Virus
+FeLV envelope glycoprotein TM p15E	Feline Leukaemia Virus
+FeLV gag p27	Feline Leukaemia Virus
+Feline Rhinotracheitis Virus	Feline Rhinotracheitis Virus
+Fern	Fern
+Ferret	Ferret
+Festuca	Festuca
+Ficus	Ficus
+Finch	Finch
+Firefly	Firefly
+Fish	Fish
+bony fish	Fish
+perch	Fish
+Rare minnows	Fish
+A. leptorhynchus	Fish
+Bichir	Fish
+Piranha	Fish
+Salvelinus alpinus	Fish
+Leucoraja erinacea (Does not react with: Rat)	Fish
+Bonito	Fish
+ Chondrichthyes	Fish
+ Elasmobranch	Fish
+Fish&Alga	"Fish, Algae"
+Fission Yeast	Fission Yeast
+Flatfish	Flatfish
+Flatworm	Flatworm
+Planaria	Flatworm
+ Planaria	Flatworm
+ Schmidtea mediterranea	Flatworm
+Schmidtea mediterranea	Flatworm
+Flaveria	Flaveria
+Flavivirus	Flavivirus
+Flavobacterium	Flavobacterium
+Flounder	Flounder
+Flour Beetle	Flour Beetle
+Foot And Mouth Disease Virus	Foot And Mouth Disease Virus
+Foot-and-mouth	Foot And Mouth Disease Virus
+Foot-and-mouth disease (FMDV)	Foot And Mouth Disease Virus
+FMDV	Foot And Mouth Disease Virus
+Fowl Pox Virus	Fowl Pox Virus
+Fragilariopsis	Fragilariopsis
+Francisella	Francisella
+F. tularensisstrains	Francisella
+Francisella tularensisLVS	Francisella
+Francisella tularensisLVS and SchuS4	Francisella
+Francisella tularensisLVS and SchuS4; cross-reacts with E. coliDnaK. Does not cross-react with DnaK from B. burgdorferior Y. pseudotuberculosis. Other species not tested.	Francisella
+Francisella tularensisLVS and SchuS4. Does not react with but not F. novicida	Francisella
+Francisellatularensis	Francisella
+F. tularensis	Francisella
+Fraxinus	Fraxinus
+French Bean	French Bean
+Frog	Frog
+Rana	Frog
+and Frog	Frog
+Fruit Fly	Fruit Fly
+fly	Fruit Fly
+and Fruit fly	Fruit Fly
+Fruit fly (Drosophila melanogaster)	"Fruit Fly, Drosophila"
+Fungi	Fungi
+fungal	Fungi
+N. coenophialum strain AR542 nontoxic endophytes	Fungi
+other fungi	Fungi
+Neurospora crassa	Fungi
+Fungus	Fungi
+C. ribicola	Fungi
+C. cassiicola	Fungi
+Alternaria alternata	Fungi
+Amanita phalloides	Fungi
+Ustilago maydis	Fungi
+Fungus (Cryphonectria parasitica)	"Fungi, Cryphonectria"
+Fusarium	Fusarium
+Fusarium spp.	Fusarium
+F. venenatum	Fusarium
+F. graminearum	Fusarium
+Galanthus	Galanthus
+Garlic	Garlic
+Allium sativum L	Garlic
+Gastroenteritis Virus	Gastroenteritis Virus
+GastroenteritisVirus	Gastroenteritis Virus
+TransmissibleGastroenteritisVirus	Gastroenteritis Virus
+Geobacter	Geobacter
+Geodia	Geodia
+Geodiacydonium	Geodia
+Gerbil	Gerbil
+Meriones unguiculatus	Gerbil
+Giant Water Bug	Giant Water Bug
+Giardia	Giardia
+Giardia lamblia	Giardia
+Giardialamblia	Giardia
+Gibbon	Gibbon
+Gila Monster	Gila Monster
+Heloderma suspectum	Gila Monster
+Gilthead Seabream	Gilthead Seabream
+Glasswort	Glasswort
+Gloeophyllum	Gloeophyllum
+Glowworm	Glowworm
+Goat	Goat
+anti-Goat	Goat
+Anti-Goat IgG	Goat
+Caprine	Goat
+Goat IgG	Goat
+Goat (Gt)	Goat
+Gold Fish	Gold Fish
+Golden Syrian Hamster	Golden Syrian Hamster
+golden hamster	Golden Syrian Hamster
+Goldfish	Goldfish
+Gonyaulax	Gonyaulax
+Goose	Goose
+Gorilla	Gorilla
+gorillas	Gorilla
+Gossypium	Gossypium
+Gracilaria	Gracilaria
+Gram Negative Bacteria	Gram Negative Bacteria
+gramnegativebacteria	Gram Negative Bacteria
+gram-negative bacteria	Gram Negative Bacteria
+ gram-negative bacteria	Gram Negative Bacteria
+Gram Positive Bacteria	Gram Positive Bacteria
+Grampositivebacteria	Gram Positive Bacteria
+GramPositiveBacteriaMarker	Gram Positive Bacteria
+Gram-positive bacteria	Gram Positive Bacteria
+Grapevine Virus	Grapevine Virus
+Grass	Grass
+Saccharum officinarum	Grass
+Grasshopper	Grasshopper
+Green Lacewing	Green Lacewing
+Green Mamba	Green Mamba
+Green Panic Grass	Green Panic Grass
+Griffonia	Griffonia
+Grivet	Grivet
+Guar	Guar
+Guinea Fowl	Guinea Fowl
+Guinea Pig	Guinea Pig
+anti-Guinea Pig	Guinea Pig
+Cavia	Guinea Pig
+Guinea	Guinea Pig
+guineapig	Guinea Pig
+Guinea Pig (GP)	Guinea Pig
+Guniea Pig	Guinea Pig
+Guinea pig)	Guinea Pig
+Gui	Guinea Pig
+Guin	Guinea Pig
+Guine	Guinea Pig
+Guinea p	Guinea Pig
+Guinea pi	Guinea Pig
+guinea porcine	Guinea Pig
+Gulf Sturgeon	Gulf Sturgeon
+Gum Tree	Gum Tree
+gum	Gum Tree
+gum arabic	Gum Tree
+gum ghatti	Gum Tree
+Gum Karaya	Gum Tree
+gum tragacanth	Gum Tree
+Gum and tomato	"Gum Tree, Tomato"
+Gummy Shark	Gummy Shark
+Haematococcus	Haematococcus
+Haemophilus	Haemophilus
+Haemophilus Influenzae B	Haemophilus
+Haemophilus influenzae	Haemophilus
+H. influenzae	Haemophilus
+Hemophilus influenzae	Haemophilus
+Hafnia	Hafnia
+Halibut	Halibut
+Hamster	Hamster
+anti-Hamster	Hamster
+h>hamster	Hamster
+hamster (chinese hamster ovary cells)	Hamster
+hamster.	Hamster
+hamster)	Hamster
+hamsters	Hamster
+handhamster	Hamster
+Hamster (Hst)	Hamster
+Hamste	Hamster
+Hamster Papovirus	Hamster Papovirus
+Hantaan Virus	Hantaan Virus
+Hantaan virus-infected cells	Hantaan Virus
+Hantaan virus-infected cells (Hantavirus Hantaan infected samples of human	Hantaan Virus
+Haptophytes	Haptophytes
+Isochrysis galbana	Haptophytes
+Heartland Virus	Heartland Virus
+Heartworm	Heartworm
+CanineHeartworm	Heartworm
+Dirofilariaimmitis	Heartworm
+Filaria	Heartworm
+Dirofilaria immitis	Heartworm
+Hedgehog	Hedgehog
+Heliamphora	Heliamphora
+Helicobacter	Helicobacter
+H.pylori	Helicobacter
+Helicobacter pylori	Helicobacter
+Helicobacterpylori	Helicobacter
+H. pylori	Helicobacter
+Helicobacter. spp	Helicobacter
+Helminth	Helminth
+Helminths	Helminth
+Hemorrhagic Fever With Renal Syndrome	Hemorrhagic Fever With Renal Syndrome
+HFRS Virus	Hemorrhagic Fever With Renal Syndrome
+Hen	Hen
+Hepatitis	Hepatitis
+MHV	Hepatitis
+Hepatitis A Virus	Hepatitis A Virus
+HepA	Hepatitis A Virus
+Hepatitis A 	Hepatitis A Virus
+HAV	Hepatitis A Virus
+Hepatitis B Virus	Hepatitis B Virus
+HepatitisB	Hepatitis B Virus
+HepB	Hepatitis B Virus
+Hepatitis B	Hepatitis B Virus
+HBV	Hepatitis B Virus
+Hepatitis C Virus	Hepatitis C Virus
+HepatitisCVirus	Hepatitis C Virus
+HepC	Hepatitis C Virus
+HCV	Hepatitis C Virus
+Hepatitis E Virus	Hepatitis E Virus
+HepE	Hepatitis E Virus
+Hev	Hepatitis E Virus
+Hepatitis G Virus	Hepatitis G Virus
+GBV-C virus	Hepatitis G Virus
+GB Virus	Hepatitis G Virus
+Hepatitis Virus	Hepatitis Virus
+Hermit Crab	Hermit Crab
+Herpes Simplex Virus	Herpes Simplex Virus
+Herpessimplexvirus	Herpes Simplex Virus
+hsv	Herpes Simplex Virus
+HSV infected	Herpes Simplex Virus
+Herpes Simplex Virus 1	Herpes Simplex Virus 1
+Herpessimplexvirus1	Herpes Simplex Virus 1
+HSV-1	Herpes Simplex Virus 1
+HSV1	Herpes Simplex Virus 1
+Herpes Simplex Virus 2	Herpes Simplex Virus 2
+HerpesSimplexVirus2	Herpes Simplex Virus 2
+HSV-2	Herpes Simplex Virus 2
+Herpes Virus	Herpes Virus
+Feline herpesvirus	Herpes Virus
+Herpes	Herpes Virus
+Feline Herpes Virus I (FHV1)	Herpes Virus
+Herpes Virus Type 6	Herpes Virus
+Herpes Virus Type 8	Herpes Virus
+CavHV	Herpes Virus
+Heterosigma	Heterosigma
+Honey Bee	Honey Bee
+Honeybee	Honey Bee
+Hoolock Gibbon	Hoolock Gibbon
+Hordeum Vulgare	Hordeum Vulgare
+Hornbeam	Hornbeam
+Carpinus betulus	Hornbeam
+Horse	Horse
+equine	Horse
+Equine (Horse)	Horse
+Horse/equine	Horse
+Ho	Horse
+Hor	Horse
+Horseradish	Horseradish
+Armoraciarusticana	Horseradish
+Human	Human
+a>h	Human
+anti-Human	Human
+Anti-Human IgG	Human
+Hm	Human
+Hu	Human
+huaman	Human
+humam	Human
+human ( negative with bovine	Human
+human ((negative with mouse and rat))	Human
+human ((no cross-reaction with goat	Human
+Human (Alpha specific)	Human
+Human (Beta specific)	Human
+Human (beta-specific)	Human
+human (negative with bovine and rodent)	Human
+human (negative with bovine and rodents)	Human
+human (negative with mouse	Human
+human (negative with mouse and rat)	Human
+human (negative with mouse)	Human
+human (negative with rabbit)	Human
+human (negative with rat	Human
+Human (other species not tested)	Human
+Human (others not tested)	Human
+Human (possibly others)	Human
+Human (recombinant only)	Human
+Human (use with other species has not been tested)	Human
+Human (weak)	Human
+Human HeLa and LNCaP cells	Human
+human OB3	Human
+Human Only	Human
+Human. Does not cross react with mouse	Human
+Human.Does not react with Mouse	Human
+human|	Human
+or human [D-Leu-4]-OB3	Human
+Reactive against human only. Negative results from tests with chimpanzee	Human
+Reactive against human salivary amylase and ovarian tumor amylase but not pancreatic amylase	Human
+Reacts equally well with (human	Human
+Recognises both splice variants of human NEK2 (NEK2A and NEK2B)	Human
+Recognizes human	Human
+Non Specified Human (Hu)	Human
+Human (Hu)	Human
+ Human	Human
+Human Herpesvirus	Human Herpesvirus
+Human Herpesvirus 6	Human Herpesvirus 6
+HHV-6	Human Herpesvirus 6
+strainAandBofHHV-6	Human Herpesvirus 6
+strainAofHHV-6	Human Herpesvirus 6
+strainsAandBofHHV-6	Human Herpesvirus 6
+Human Herpesvirus 8	Human Herpesvirus 8
+HHV-8	Human Herpesvirus 8
+Human Immunodeficiency Virus	Human Immunodeficiency Virus
+HIV	Human Immunodeficiency Virus
+HIV-2	Human Immunodeficiency Virus
+Reacts with HIV infected human samples	Human Immunodeficiency Virus
+Reacts with HIV2. It does not react with HIV1. Not yet tested in other species.	Human Immunodeficiency Virus
+Human Immunodeficiency Virus 1	Human Immunodeficiency Virus 1
+HIV-1	Human Immunodeficiency Virus 1
+Reacts with HIV1	Human Immunodeficiency Virus 1
+HIV Type 1. Others-not known.	Human Immunodeficiency Virus 1
+Human Metapneumovirus	Human Metapneumovirus
+HMPV	Human Metapneumovirus
+Human Papillomavirus	Human Papillomavirus
+HPV	Human Papillomavirus
+HPV11	Human Papillomavirus
+HPV6	Human Papillomavirus
+Human papilloma virus	Human Papillomavirus
+Human Papillomavirus 16	Human Papillomavirus 16
+HPV-16	Human Papillomavirus 16
+HPV-16E2	Human Papillomavirus 16
+HPV16	Human Papillomavirus 16
+HPV16 + HPV18	"Human Papillomavirus 16, Human Papillomavirus 18"
+Human Papillomavirus 18	Human Papillomavirus 18
+HPV18	Human Papillomavirus 18
+Human Polyomavirus	Human Polyomavirus
+humanPolyomavirus	Human Polyomavirus
+Human T-Lymphotropic Virus	Human T-Lymphotropic Virus
+Human T-cell lymphotropic virus	Human T-Lymphotropic Virus
+Human T-Lymphotropic Virus 1	Human T-Lymphotropic Virus 1
+HTLV-1	Human T-Lymphotropic Virus 1
+Human T-Lymphotropic Virus 2	Human T-Lymphotropic Virus 2
+HTLV-2	Human T-Lymphotropic Virus 2
+Human. Predicted to work with Chicken	"Human, Chicken"
+Human and canine	"Human, Dog"
+human; dog; miniping;rat; sheep; buffloa; pig	"Human, Dog, Rat, Sheep, Buffalo, Pig"
+human (most mammals)	"Human, Mammal"
+Human and most other species	"Human, Many"
+Human (Hu)MonkeyMonkey (Mky)	"Human, Monkey"
+Human (Hu)Monkey	"Human, Monkey"
+Human (Hu)MonkeyBovine (Bov)	"Human, Monkey, Cow"
+human (weak cross-reaction with mouse)	"Human, Mouse"
+human and mouse	"Human, Mouse"
+Human and mouse (primarily recombinant)	"Human, Mouse"
+HUMAN; MOUSE	"Human, Mouse"
+human. mouse	"Human, Mouse"
+Human. Predicted to work with: Mouse	"Human, Mouse"
+Reacts with Human and cow. predicted to detect many other species due to sequence identity such as Mouse	"Human, Mouse, Cow"
+Human. Predicted to work with: Non Human Primates	"Human, Non Human Primate"
+Human and primate	"Human, Primate"
+Human and rabbit	"Human, Rabbit"
+Human and rat	"Human, Rat"
+Human. Predicted to work with Rat	"Human, Rat"
+Human. Predicted to work with: Rat	"Human, Rat"
+Human. Predicted to work with: Saccharomyces cerevisiae	"Human, Saccharomyces"
+Human.Predicted to work with: Saccharomyces cerevisiae	"Human, Saccharomyces"
+Human and other vertebrates	"Human, Vertebrate"
+Human. Predicted to work with: Xenopus laevis	"Human, Xenopus"
+Recognizes human and xenopus homologs	"Human, Xenopus"
+Recognizes human and xenopus homologs of NTF2	"Human, Xenopus"
+Hyacinthus	Hyacinthus
+Hydractinia Echinata	Hydractinia Echinata
+Iguana	Iguana
+Immunodeficiency Virus	Immunodeficiency Virus
+immunodeficiency virus 1	Immunodeficiency Virus
+Indian Muntjac	Indian Muntjac
+Infectious Bovine Rhinotracheitis Virus	Infectious Bovine Rhinotracheitis Virus
+Infectious Bovine Rhinotracheitis	Infectious Bovine Rhinotracheitis Virus
+Infectious Bronchitis Virus	Infectious Bronchitis Virus
+Infectious Bursal Disease Virus	Infectious Bursal Disease Virus
+IBDV	Infectious Bursal Disease Virus
+Infectious Laryngotracheitis Virus	Infectious Laryngotracheitis Virus
+Infectious Salmon Anemia Virus	Infectious Salmon Anemia Virus
+Influenza A Virus	Influenza A Virus
+Influenza A virus ( H1N1)	Influenza A Virus
+Influenza A Virus H1N1	Influenza A Virus
+InfluenzaA	Influenza A Virus
+InfluenzaAproteinm2	Influenza A Virus
+InfluenzaAproteinns1	Influenza A Virus
+InfluenzaAVirus	Influenza A Virus
+Influenza A	Influenza A Virus
+IAV	Influenza A Virus
+Influenza B Virus	Influenza B Virus
+InfluenzaBvirus	Influenza B Virus
+IBV	Influenza B Virus
+Influenza Virus	Influenza Virus
+A/Korea/426/68(H2N2)	Influenza Virus
+influenza	Influenza Virus
+influenza B	Influenza Virus
+Matrix protein 1 and 2; Stains cells infected with all Influenza viruses	Influenza Virus
+Stain:B/Lee/40	Influenza Virus
+Insect	Insect
+insects	Insect
+Sf9 cell line	Insect
+Aldrichina. spp	Insect
+Ant	Insect
+Publilia modesta	Insect
+ Gerridae	Insect
+ Limnoporus	Insect
+ Locusta migratoria	Insect
+ Metrobates	Insect
+ Planococcus citri	Insect
+ Sciara coprophila	Insect
+ Sepsidae	Insect
+other insects/particularly mosquitoes	"Insect, Mosquito"
+Invertebrate	Invertebrate
+Invertebrates	Invertebrate
+Inverte	Invertebrate
+Jack Bean	Jack Bean
+Jack Bean (Canavalia ensiformis)	Jack Bean
+Jack beans	Jack Bean
+Jack Pine	Jack Pine
+Jackfruit	Jackfruit
+Artocarpus heterophyllus	Jackfruit
+Japanese Brown Frog	Japanese Brown Frog
+Japanese Cedar	Japanese Cedar
+Japanese Encephalitis Virus	Japanese Encephalitis Virus
+Japanese Fire Belly Newt	Japanese Fire Belly Newt
+Japanese Pagoda Tree	Japanese Pagoda Tree
+Japanese Quail	Japanese Quail
+Japanese Rice Fish	Japanese Rice Fish
+Japanese Medaka	Japanese Rice Fish
+Medaka	Japanese Rice Fish
+Japanese ricefish	Japanese Rice Fish
+Oryzias latipes	Japanese Rice Fish
+Jatropha	Jatropha
+Jc Polyomavirus	Jc Polyomavirus
+Jelly Fish	Jelly Fish
+Jellyfish	Jellyfish
+hydra	Jellyfish
+ Medusa	Jellyfish
+Jiaogulan	Jiaogulan
+Junin Virus	Junin Virus
+JV	Junin Virus
+Kandelia	Kandelia
+Kangaroo	Kangaroo
+Kangaroo Rat	Kangaroo Rat
+ Bettongia	Kangaroo Rat
+Kaposi'S Sarcoma-Associated Herpesvirus	Kaposi'S Sarcoma-Associated Herpesvirus
+KSHV	Kaposi'S Sarcoma-Associated Herpesvirus
+Keyhole Limpet	Keyhole Limpet
+Kilham Virus	Kilham Virus
+Killifish	Killifish
+Klebsiella	Klebsiella
+Koi Herpesvirus	Koi Herpesvirus
+KHV	Koi Herpesvirus
+Kudoa	Kudoa
+La Crosse Virus	La Crosse Virus
+LaCrosseVirus	La Crosse Virus
+Lachnospiraceae	Lachnospiraceae
+Lactobacillus	Lactobacillus
+Lactobacillus leichmanni	Lactobacillus
+Lactococcus	Lactococcus
+Lactococcus lacti	Lactococcus
+L. lactis	Lactococcus
+Lake Sturgeon	Lake Sturgeon
+Lamprey	Lamprey
+Largemouth Bass	Largemouth Bass
+Laryngotracheitis Virus	Laryngotracheitis Virus
+Lassa Virus	Lassa Virus
+LASV	Lassa Virus
+Leaf Frog	Leaf Frog
+Leafworm Moth	Leafworm Moth
+Leech	Leech
+Hirudo medicinalis	Leech
+Legionella	Legionella
+L.pneumophila serogroup 1	Legionella
+Legionella pneumophila	Legionella
+Legionellapneumophila	Legionella
+Leishmania	Leishmania
+Leishmania Spp.	Leishmania
+Lemon Sole	Lemon Sole
+Lentil	Lentil
+Lens culinaris	Lentil
+Leopard Frog	Leopard Frog
+Leptospira	Leptospira
+Lettuce	Lettuce
+lettuce and sinapus	"Lettuce, Sinapis"
+Leuconostoc	Leuconostoc
+Leuconostoc mesenteroides	Leuconostoc
+Lily	Lily
+Lima Bean	Lima Bean
+Limpet	Limpet
+Megathura crenulata	Limpet
+Lindernia	Lindernia
+Linseed	Linseed
+Linseed mucilage	Linseed
+linseed and tomato	"Linseed, Tomato"
+Lion	Lion
+Listeria	Listeria
+Listeriamonocytogenes	Listeria
+L. monocytogenes	Listeria
+Little Skate	Little Skate
+Lizard	Lizard
+Gekko japonicus	Lizard
+Helodermasuspectum	Lizard
+T. grayi	Lizard
+ Gecko	Lizard
+Llama	Llama
+anti-Llama	Llama
+Lobaria	Lobaria
+Lobster	Lobster
+Homarus sp.	Lobster
+Panilurus sp.	Lobster
+Locust	Locust
+Locust Bean	Locust Bean
+locust bean gum	Locust Bean
+Lotus	Lotus
+Loxosceles	Loxosceles
+Luciferase	Luciferase
+Lungfish	Lungfish
+Lupinus	Lupinus
+lupin	Lupinus
+lupin galactan	Lupinus
+Luzula	Luzula
+Lycopersicon	Lycopersicon
+Lymphocytic Choriomeningitis Virus	Lymphocytic Choriomeningitis Virus
+LCMV	Lymphocytic Choriomeningitis Virus
+LCMV-infected cells	Lymphocytic Choriomeningitis Virus
+Lymphotropic Virus	Lymphotropic Virus
+Lysobacter	Lysobacter
+Macaque Monkey	Macaque Monkey
+and macaque	Macaque Monkey
+Macaque	Macaque Monkey
+Japanese macaque	Macaque Monkey
+Madagascar Laceleaf	Madagascar Laceleaf
+Madagascar Periwinkle	Madagascar Periwinkle
+Mammal	Mammal
+all Mammals	Mammal
+broadmammalian	Mammal
+Mammalian	Mammal
+mammalianspecies	Mammal
+Mammals	Mammal
+mammals ((most mammals))	Mammal
+mammals (most mammals incl. mouse	Mammal
+mammals (negative with mouse	Mammal
+Other Mammalian Tissues	Mammal
+lower craniates and mammals.	Mammal
+Giraffe	Mammal
+Spotted Hyena	Mammal
+Tasmanian Devil	Mammal
+Bear	Mammal
+Mammalia	Mammal
+many mammalian	Mammal
+Wolf	Mammal
+ Cheetah	Mammal
+ Pseudocheirus	Mammal
+ Tiger	Mammal
+Mammalian and avian	"Mammal, Avian"
+Mammals and chicken	"Mammal, Chicken"
+Mangrove	Mangrove
+Many	Many
+A Broad Range Of Species	Many
+Broad	Many
+broad reactivity	Many
+Broad species reactivity	Many
+Multi species	Many
+Multi-Species	Many
+multiple	Many
+multiplespecies	Many
+(Wide	Many
+broad range	Many
+Most Species	Many
+Marbled Electric Ray	Marbled Electric Ray
+Marburg Virus	Marburg Virus
+Marburg	Marburg Virus
+MarburgVirus	Marburg Virus
+Marchantia	Marchantia
+Marek Disease Virus	Marek Disease Virus
+MarekDiseaseVirus	Marek Disease Virus
+Marmoset	Marmoset
+Common Marmoset	Marmoset
+marmosets	Marmoset
+Marsh Hay	Marsh Hay
+Marsupial	Marsupial
+Marsupials	Marsupial
+Koala	Marsupial
+Potoroo	Marsupial
+Antechinus	Marsupial
+ Bandicoot	Marsupial
+ Trichosurus	Marsupial
+ Wallaby	Marsupial
+Measles Virus	Measles Virus
+Measles virus (Rubeola virus)	Measles Virus
+MeaslesVirus	Measles Virus
+Medicago	Medicago
+Merkel Cell Polyomavirus	Merkel Cell Polyomavirus
+Marek	Merkel Cell Polyomavirus
+MerkelCellPolyomavirus	Merkel Cell Polyomavirus
+Mesembryanthemum	Mesembryanthemum
+Metapneumovirus	Metapneumovirus
+Methylacidiphilum	Methylacidiphilum
+Microbacterium	Microbacterium
+Microbe	Microbe
+microbial	Microbe
+Sarcosine Oxidase [Microbial]	Microbe
+Microorganism	Microbe
+Micrococcus	Micrococcus
+Microcystis	Microcystis
+microcystin	Microcystis
+Micromonas	Micromonas
+Migratory Locus	Migratory Locus
+Minipig	Minipig
+Mink	Mink
+a>mink	Mink
+handmink	Mink
+Mink (Mustela)	Mink
+mink>h	Mink
+Minnow	Minnow
+Miscanthus	Miscanthus
+Mobiluncus	Mobiluncus
+Mobiluncus curtisii	Mobiluncus
+Mold	Mold
+P. polycephalum	Mold
+Slime mold	Mold
+Mole Rat	Mole Rat
+Mole	Mole Rat
+Mollusk	Mollusk
+ Molluscs	Mollusk
+Moloney Murine Leukemia Virus	Moloney Murine Leukemia Virus
+Mongolian Gerbil	Mongolian Gerbil
+Monkey	Monkey
+a>monkey	Monkey
+monkey (inquire for murine cross-reaction)	Monkey
+monkey (weaker murine cross-reaction)	Monkey
+Monkey. Does not react with Chicken	Monkey
+Monkey (Mky)	Monkey
+mangabey	Monkey
+Red-bellied Tamarin	Monkey
+sabaeus monkey	Monkey
+Monkey)	Monkey
+Mk	Monkey
+Mk.	Monkey
+monkey not mouse	Monkey
+Monkey; not mouse	Monkey
+Monocot	Monocot
+Monterey Pine	Monterey Pine
+Morganella	Morganella
+Mosquito	Mosquito
+A. gambiae	Mosquito
+A. gambiae. Very likely other members of the Anopheles genus	Mosquito
+less likely Culex. Possibly	Mosquito
+Very likely other members of the Anopheles genus	Mosquito
+Culex pipiens	Mosquito
+Anopheles stephensi	Mosquito
+Moss	Moss
+Moth	Moth
+spodoptera frugiperda	Moth
+Hyalophora cecropia	Moth
+ Manduca	Moth
+Manduca sexta	Moth
+ Manduca sexta	Moth
+Mouse	Mouse
+and mouse ATPaseA	Mouse
+anti-Mouse	Mouse
+Anti-Mouse IgG	Mouse
+moouse	Mouse
+mosue	Mouse
+Mous	Mouse
+Mouse (IP WB)	Mouse
+mouse (negative with human)	Mouse
+mouse (other species not tested)	Mouse
+mouse (others not tested)	Mouse
+mouse (shows unspecific background staining in mouse brain	Mouse
+Mouse (weak)	Mouse
+Mouse Not yet tested in other species	Mouse
+Mouse Other species not yet tested;	Mouse
+Mouse Others-not tested	Mouse
+mouse)	Mouse
+Mouses	Mouse
+Murine	Mouse
+Reacts with mouse OB3 and [D-Leu-4]-OB3 Does not react with full length leptin	Mouse
+Mouse (Ms)	Mouse
+ Mouse	Mouse
+Mouse Deer	Mouse Deer
+Mouse Mammary Tumor Cells	Mouse Mammary Tumor Cells
+Mouse and Chicken	"Mouse, Chicken"
+Mouse and Human	"Mouse, Human"
+Mouse. Predicted to work with Human	"Mouse, Human"
+Mouse/Human	"Mouse, Human"
+Mouse. Predicted to work with Rat & Human	"Mouse, Human, Rat"
+Mouse. Predicted to work with Rat and Human	"Mouse, Human, Rat"
+mouse (most mammals)	"Mouse, Mammal"
+mouse and marsupial	"Mouse, Marsupial"
+Mouse Primate	"Mouse, Primate"
+mouse and rabbit	"Mouse, Rabbit"
+mouse (predicted: rat	"Mouse, Rat"
+mouse and rat	"Mouse, Rat"
+mouse and rat (others not tested)	"Mouse, Rat"
+partial reactivity to mouse and rat	"Mouse, Rat"
+Mucilage	Mucilage
+Mudfish	Mudfish
+Mudpuppy	Mudpuppy
+Mule Deer	Mule Deer
+Mullusk	Mullusk
+Mummichog	Mummichog
+Mumps Virus	Mumps Virus
+MumpsVirus	Mumps Virus
+Mung Bean	Mung Bean
+Murine Leukemia Virus	Murine Leukemia Virus
+Mushroom	Mushroom
+Mussel	Mussel
+Mustard Green	Mustard Green
+Mustelid	Mustelid
+Mustel	Mustelid
+Mycobacterium	Mycobacterium
+M.tuberculosis	Mycobacterium
+M.tuberculosisandM.bovis	Mycobacterium
+Mycobacterium tuberculosis	Mycobacterium
+Mycobacteriumavium	Mycobacterium
+Mycobacteriumtuberculosis	Mycobacterium
+Mycobacterium smegmatis	Mycobacterium
+Mycobacterium. spp	Mycobacterium
+Mycobacteria. spp	Mycobacterium
+Mycobacteria	Mycobacterium
+Mycoplasma	Mycoplasma
+M. gallisepticum	Mycoplasma
+Mycoplasma hyorhinis(all strains tested)	Mycoplasma
+Mycoplasmabovis	Mycoplasma
+Mycoplasmafermentans	Mycoplasma
+Mycoplasmahominis	Mycoplasma
+Myrothecium	Myrothecium
+Myrothecium verrucaria	Myrothecium
+Myxamoeba	Myxamoeba
+Myxovirus	Myxovirus
+Myxozoan	Myxozoan
+Naked Mole Rat	Naked Mole Rat
+Natronomonas	Natronomonas
+Nebraska Calf Diarrhea Virus	Nebraska Calf Diarrhea Virus
+Neisseria	Neisseria
+Neisseria gonorrhoeae	Neisseria
+Neisseriagonorrhoeae	Neisseria
+Neisseriameningitidis	Neisseria
+N. gonorrhoeae	Neisseria
+N. meningitidis	Neisseria
+Nematode	Nematode
+and M arenaria	Nematode
+and M. arenaria	Nematode
+Eelworm	Nematode
+M. haplas	Nematode
+M. incognita(J2 stage)	Nematode
+M. javanica	Nematode
+Meloidogyne spp	Nematode
+Meloidogyne spp. female	Nematode
+Only J2 stages of M. incognita	Nematode
+Possibly M.hapla. No binding to adults	Nematode
+Neurospora	Neurospora
+N. crassa	Neurospora
+New World Monkey	New World Monkey
+New World Primate	New World Primate
+New World Primates	New World Primate
+Newcastle Disease Virus	Newcastle Disease Virus
+Newcastle	Newcastle Disease Virus
+Newcastlediseasevirus	Newcastle Disease Virus
+NDV	Newcastle Disease Virus
+Newt	Newt
+Triturus	Newt
+Eastern Newt	Newt
+Cynops pyrrhogaster	Newt
+Nicotiana	Nicotiana
+Nicotianatabacum	Nicotiana
+Nicotiana tabacum	Nicotiana
+Nile Tilapia	Nile Tilapia
+Nile tilapias	Nile Tilapia
+Nodavirus	Nodavirus
+Non Human Primate	Non Human Primate
+NHP	Non Human Primate
+Non Human Primates	Non Human Primate
+Non-human primate	Non Human Primate
+Non-human primates	Non Human Primate
+tag	Non Species Specific
+Animals	Non Species Specific
+Other (wide range)	Non Species Specific
+wide range expected	Non Species Specific
+Other Others (Oth)	Non Species Specific
+Others (Oth)	Non Species Specific
+Other	Non Species Specific
+Non Species Specific	Non Species Specific
+Species independent	Non Species Specific
+Other (Wide	Non Species Specific
+others	Non Species Specific
+Pan-Species	Non Species Specific
+General	Non Species Specific
+Animal	Non Species Specific
+Acetylated lysine residues	Non Species Specific
+Other(Wide	Non Species Specific
+Other (Wide Ratange)	Non Species Specific
+Non-species specific	Non Species Specific
+other species	Non Species Specific
+StrepII-Tag	Non Species Specific
+Epitope tag/Fusion protein	Non Species Specific
+Norovirus	Norovirus
+MNV	Norovirus
+NV	Norovirus
+Norwalk Like Virus	Norwalk Like Virus
+Norwalk Virus	Norwalk Virus
+8FIIastrainNorwalkVirus	Norwalk Virus
+Norway Spruce	Norway Spruce
+Nudibranch	Nudibranch
+Oat	Oat
+Occlusion Derived Virus	Occlusion Derived Virus
+Octopus	Octopus
+Oikopleura	Oikopleura
+Olive	Olive
+Olive Baboon	Olive Baboon
+Olive Latent Virus	Olive Latent Virus
+Ombu	Ombu
+Onchocerca	Onchocerca
+Onion	Onion
+Allium	Onion
+Opossum	Opossum
+monodelphis	Opossum
+short-tailed opossum	Opossum
+Orange	Orange
+Sweet orange	Orange
+Orangutan	Orangutan
+Bornean orangutan	Orangutan
+Orang-Utan	Orangutan
+Orf Virus	Orf Virus
+Orthoreovirus	Orthoreovirus
+Ostreococcus	Ostreococcus
+Owl	Owl
+Owl Monkey	Owl Monkey
+Ox	Ox
+Panda	Panda
+Pantoea	Pantoea
+Papaya	Papaya
+Carica papaya	Papaya
+Papillomavirus	Papillomavirus
+bovinepapillomavirustype1	Papillomavirus
+Para Rubber Tree	Para Rubber Tree
+Parainfluenza	Parainfluenza
+Parainfluenza Virus	Parainfluenza Virus
+ParainfluenzaVirus	Parainfluenza Virus
+Parainfluenza Virus 3	Parainfluenza Virus
+Parainfluenza Virus Type 1	Parainfluenza Virus Type 1
+ParainfluenzaVirustype1	Parainfluenza Virus Type 1
+Parainfluenza Virus 1	Parainfluenza Virus Type 1
+Parainfluenza Virus Type 2	Parainfluenza Virus Type 2
+Parainfluenzavirustype2	Parainfluenza Virus Type 2
+Parainfluenza Virus 2	Parainfluenza Virus Type 2
+Paramecium Bursaria Chlorella Virus	Paramecium Bursaria Chlorella Virus
+Paramecium bursaria Chlorella Virus-1	Paramecium Bursaria Chlorella Virus
+Paramyxovirus	Paramyxovirus
+Parasite	Parasite
+Eimeria. spp	Parasite
+Anisakis. spp	Parasite
+E. acervulina	Parasite
+Parrot	Parrot
+Amazon Parrot	Parrot
+Parvovirus	Parvovirus
+ParvovirusB19	Parvovirus
+PPV	Parvovirus
+Pea	Pea
+Peanut	Peanut
+Pellia	Pellia
+Penguin	Penguin
+Pygoscelis adeliae	Penguin
+Penicillium	Penicillium
+Penicillium species	Penicillium
+Penicillium citrinum	Penicillium
+Pepper	Pepper
+Peppergrass	Peppergrass
+Peptoclostridium	Peptoclostridium
+Peptostreptococcus	Peptostreptococcus
+Peptostreptococcus. spp PpL	Peptostreptococcus
+Perciform	Perciform
+Petunia	Petunia
+Phaeodactylum	Phaeodactylum
+Phallusia	Phallusia
+Phaseolus	Phaseolus
+Pheodactylum	Pheodactylum
+Phormium	Phormium
+Phormium sp.	Phormium
+Phormium spp.	Phormium
+Phoronida	Phoronida
+Photinus	Photinus
+Photobacterium	Photobacterium
+Photobacterium (Vibrio) fischerii	Photobacterium
+Photobacterium fischeri	Photobacterium
+Photobacterium Fishscherii	Photobacterium
+Phyllodoce	Phyllodoce
+Physarum	Physarum
+Physarum polycephalum	Physarum
+Picea	Picea
+Pichia	Pichia
+P. pastoris	Pichia
+Pichia pastoris	Pichia
+Pig	Pig
+Landrace	Pig
+pig (negative with rat and dog)	Pig
+pig (negative with rat or dog)	Pig
+pig (negative with rat)	Pig
+Pig (Sus Scrofa)	Pig
+pig)	Pig
+Pig/porcine	Pig
+porcine	Pig
+Porcine (Pig)	Pig
+porcine (Sus scrofula)	Pig
+Scallop pig	Pig
+swine	Pig
+Non Specified Porcine (Por)	Pig
+Porcine (Por)	Pig
+Porcine)	Pig
+Pig.	Pig
+Swine (Pig	Pig
+Por	Pig
+Porcin	Pig
+Sw	Pig
+Pig Bovine	"Pig, Cow"
+Pig. Also reacts weakly with Dog	"Pig, Dog"
+Pigeon	Pigeon
+porcine	Pigeon
+Pigeon Poxvirus	Pigeon Poxvirus
+pigeonpox virus	Pigeon Poxvirus
+Pigtailed Macaque Monkey	Pigtailed Macaque Monkey
+Pigtailed Macaque	Pigtailed Macaque Monkey
+Pig-tailed macaque monkey	Pigtailed Macaque Monkey
+pigtailed macaques	Pigtailed Macaque Monkey
+Pilidium	Pilidium
+Pineapple	Pineapple
+Pineapple stem	Pineapple
+Pinfish	Pinfish
+Pinus	Pinus
+Pisum	Pisum
+Planarian	Planarian
+Plant	Plant
+ Phormium spp.	Plant
+A. sphaerocephala Krasch	Plant
+and other plants	Plant
+C. tubulosa	Plant
+Dicot and Monocot xylan	Plant
+Dicot and monocot xylans	Plant
+Dicot plants	Plant
+Dicot rhamnogalacturonan-I	Plant
+Diverse plant species	Plant
+eucalyptus	Plant
+eucalyptus and sorghum	Plant
+Green Plants	Plant
+Limnobia	Plant
+M arenariaand M.hapla	Plant
+Many diverse plant species	Plant
+Many plants	Plant
+Multiple plant species	Plant
+other plant species	Plant
+other plant species RG1	Plant
+P. cookianum	Plant
+Pectic polysaccharide preparations from several plants	Plant
+Plant actins	Plant
+Plant and protist actins	Plant
+Plants	Plant
+Plants (Barnyard grass	Plant
+Plants various species	Plant
+Several plant species	Plant
+Variety of plant pectins and seed mucilage	Plant
+Various Plants	Plant
+Xylan (low arab) from Phormium tenax	Plant
+Plant Plant	Plant
+Plant Plant Plant	Plant
+Brassica oleracea	Plant
+diverse other plant	Plant
+other plants	Plant
+Agave tequilana	Plant
+Ambrosia artemisiifolia	Plant
+Bryonia dioica	Plant
+Coptis japonica	Plant
+Fig	Plant
+Gynostemma pentaphyllum	Plant
+Juniperus ashei	Plant
+Phytolacca dioica	Plant
+Sophora japonica	Plant
+Wisteria floribund	Plant
+Vitis riparia	Plant
+Plant Bacteria	"Plant, Bacteria"
+Plant Bovine (Bov)	"Plant, Cow"
+Plant Hamster (Hst)	"Plant, Hamster"
+Plant Human (Hu)	"Plant, Human"
+Plant Plant Others (Oth)	"Plant, Many"
+Plant Others (Oth)	"Plant, Many"
+Plant Porcine (Por)	"Plant, Pig"
+Plant Rabbit (Rb)	"Plant, Rabbit"
+Plant Rat (Rt)	"Plant, Rat"
+plants and fission yeast (Schizosaccharomyces pombe). Possibly	"Plant, Schizosaccharomyces"
+Plasmodium	Plasmodium
+P. falciparum	Plasmodium
+Plasmodium falciparum	Plasmodium
+Plasmodium Vivax	Plasmodium
+Plasmodiumfalciparum	Plasmodium
+Plasmodiumvivax	Plasmodium
+P. Vivax	Plasmodium
+Platypus	Platypus
+Plum Pox Virus	Plum Pox Virus
+Pneumocystis	Pneumocystis
+P. carinii	Pneumocystis
+Pneumocystisjiroveci(carinii)	Pneumocystis
+Pneumocystis carinii	Pneumocystis
+Poinsettia	Poinsettia
+Poliovirus	Poliovirus
+Polyomavirus	Polyomavirus
+hamsterPolyomavirus	Polyomavirus
+Poppy	Poppy
+California poppy	Poppy
+Populus	Populus
+poplar	Populus
+Porcine	Porcine
+Porcine Circovirus	Porcine Circovirus
+Porcine circovirus type 2	Porcine Circovirus
+PCV	Porcine Circovirus
+Porcine Coronavirus	Porcine Coronavirus
+Porphyra	Porphyra
+Porphyridium	Porphyridium
+Porphyromonas	Porphyromonas
+P. gingivalis	Porphyromonas
+Possum	Possum
+Potato	Potato
+Acid Phosphatase [potato]	Potato
+Powassan Virus	Powassan Virus
+Poxvirus	Poxvirus
+MPXV; cross-reactive with other orthopox viruses (see reference)	Poxvirus
+Pan-Orthopoxvirus	Poxvirus
+Prairie Vole	Prairie Vole
+Prasinoderma	Prasinoderma
+Praying Mantis	Praying Mantis
+Prevotella	Prevotella
+Primate	Primate
+Ape	Primate
+primates	Primate
+Galago	Primate
+Pri	Primate
+Prim	Primate
+Prima	Primate
+Primat	Primate
+ Mandrill	Primate
+Prochlorococcus	Prochlorococcus
+Prokaryote	Prokaryote
+Proteus	Proteus
+Protist	Protist
+Protozoa	Protozoa
+Protozoan	Protozoa
+Prunus Dwarf Virus	Prunus Dwarf Virus
+Prunus Necrotic Ringspot Virus	Prunus Necrotic Ringspot Virus
+Pseudomonas	Pseudomonas
+P.aeruginosa	Pseudomonas
+P.aeruginosa serotype	Pseudomonas
+Pseudomonasaeruginosa	Pseudomonas
+Pseudomonasmallei	Pseudomonas
+Pseudomonas testosteroni cells	Pseudomonas
+Pseudomonas fluorescens	Pseudomonas
+Pseudomonas. spp	Pseudomonas
+P. aeruginosa	Pseudomonas
+P. putida	Pseudomonas
+P. testosteroni	Pseudomonas
+Pseudorabies Virus	Pseudorabies Virus
+PRV	Pseudorabies Virus
+SuHV1	Pseudorabies Virus
+Ptychodera	Ptychodera
+Puffer Fish	Puffer Fish
+Pufferfish	Puffer Fish
+Purple Bush Bean	Purple Bush Bean
+Puumala Virus	Puumala Virus
+Puumala virus-infected cells	Puumala Virus
+Pyrus	Pyrus
+Quail	Quail
+Queen Bee	Queen Bee
+Rabbit	Rabbit
+and rabbit	Rabbit
+anti-Rabbit	Rabbit
+Anti-Rabbit IgG	Rabbit
+Rabbit (Beta Specific)	Rabbit
+rabbit (negative with rat)	Rabbit
+rabbit proteins.	Rabbit
+rabbit)	Rabbit
+rabbit))	Rabbit
+Rabbit (Rb)	Rabbit
+Rabbit Dog	"Rabbit, Dog"
+Rabies Virus	Rabies Virus
+Rabiesvirus	Rabies Virus
+Raccoon	Raccoon
+Raddish	Raddish
+Ragworm	Ragworm
+Rainbow Trout	Rainbow Trout
+Oncorhynchus mykiss	Rainbow Trout
+Ramularia Collo-Cygni	Ramularia Collo-Cygni
+Rapeseed	Rapeseed
+Raspberry Bushy Dwarf Virus	Raspberry Bushy Dwarf Virus
+Rat	Rat
+and rat	Rat
+anti-Rat	Rat
+rat ((not with mouse	Rat
+Rat (does not react with Human)	Rat
+rat (negative with amphibia and fish)	Rat
+rat (negative with bovine	Rat
+rat (negative with bovine and mouse)	Rat
+rat (negative with human)	Rat
+rat (negative with mouse	Rat
+rat (negative with mouse)	Rat
+rat (negative with pig)	Rat
+rat (negative with rabbit	Rat
+rat (not with rabbit	Rat
+Rat Expected to show a broad species reactivity	Rat
+rat kangoroo	Rat
+Rat Others-not tested	Rat
+Rat. Does not react with Human	Rat
+rat)	Rat
+Reactive against the N-terminal extracellular domain (amino acids 37-53) of the gamma2 subunit of the GABA-A protein in rats	Rat
+Rat (Rt)	Rat
+ Rat	Rat
+rat. chicken	"Rat, Chicken"
+Rat and Dog	"Rat, Dog"
+rat and hamster) beta- arrestin1 or beta-arrestin2; other species not tested	"Rat, Hamster"
+rat (weaker cross-reaction with human)	"Rat, Human"
+rat and human	"Rat, Human"
+rat; human	"Rat, Human"
+rathuman	"Rat, Human"
+Rat/Human/Mouse	"Rat, Human, Mouse"
+rat (most mammals)	"Rat, Mammal"
+rat (most species)	"Rat, Many"
+Rat Shows a broad species reactivity	"Rat, Many"
+Rat and Mouse	"Rat, Mouse"
+rat-mouse	"Rat, Mouse"
+Rat. Predicted to work in Mouse And Human	"Rat, Mouse, Human"
+Rat. Predicted to react with Porcine	"Rat, Pig"
+rat and sheep	"Rat, Sheep"
+Rattlesnake	Rattlesnake
+Recombinant	Recombinant
+His-tagged recombinant proteins or His-tagged proteins over-expressed in cells His Tag	Recombinant
+Recombinant Human Protein	Recombinant
+recombinant protein	Recombinant
+recombinant protetin	Recombinant
+recombinant-source ALAS2	Recombinant
+recombinant-source FeCH	Recombinant
+recombinant-source PPox	Recombinant
+Red Algae	Red Algae
+Red And White Bryony	Red And White Bryony
+Red Clover	Red Clover
+Red Flour Beetle	Red Flour Beetle
+T. castaneum	Red Flour Beetle
+Hm	REMOVE
+Primate (Negative)	REMOVE
+Renilla	Renilla
+Reovirus	Reovirus
+Reptile	Reptile
+reptiles	Reptile
+Respiratory Syncytial Virus	Respiratory Syncytial Virus
+RespiratorySyncytialVirus	Respiratory Syncytial Virus
+RSV	Respiratory Syncytial Virus
+Reston Ebolavirus	Reston Ebolavirus
+Reston Virus	Reston Virus
+Retrovirus	Retrovirus
+Lentivirus	Retrovirus
+Rhesus Monkey	Rhesus Monkey
+Rhesus	Rhesus Monkey
+Rhesus Macaque	Rhesus Monkey
+rhesusmonkey	Rhesus Monkey
+Monkey-Rhesus	Rhesus Monkey
+Rhesus Monkey)	Rhesus Monkey
+Rhinoceros	Rhinoceros
+Rhinovirus	Rhinovirus
+HRV	Rhinovirus
+Rhizopus	Rhizopus
+Rhodnius	Rhodnius
+Rhodobacter	Rhodobacter
+Rhodococcus	Rhodococcus
+Rhodococcusequi	Rhodococcus
+Rhodopseudomonas	Rhodopseudomonas
+Rhodopseudomonas spheroides	Rhodopseudomonas
+Rhodosorus	Rhodosorus
+Rice	Rice
+Oryza sativa	Rice
+leaf of rice	Rice
+Rice Yellow Mottle Virus	Rice Yellow Mottle Virus
+Ricinus	Ricinus
+ricin	Ricinus
+Ricinus communis	Ricinus
+Ricinuscommunis	Ricinus
+Castor bean	Ricinus
+Rift Valley Fever Virus	Rift Valley Fever Virus
+Rodent	Rodent
+rodents	Rodent
+Chinchilla	Rodent
+Roseburia	Roseburia
+Roseobacter	Roseobacter
+Rotavirus	Rotavirus
+RotavirusP42	Rotavirus
+Roundworm	Roundworm
+Rous Sarcoma Virus	Rous Sarcoma Virus
+Rubber Tree	Rubber Tree
+Rubella Virus	Rubella Virus
+Rubella	Rubella Virus
+rubellavirus	Rubella Virus
+Rubeola Virus	Rubeola Virus
+Rubriviavax	Rubriviavax
+Rupestris Stem Pitting Associated Virus	Rupestris Stem Pitting Associated Virus
+Rye	Rye
+Rye Grass	Rye Grass
+Saccharomyces	Saccharomyces
+S cerevisiae	Saccharomyces
+S cerevisiae (lower)	Saccharomyces
+S. cerevisiae	Saccharomyces
+S.cerevisiae	Saccharomyces
+S.cerevisiae.	Saccharomyces
+Saccharomyce	Saccharomyces
+Saccharomyces cerevisiae	Saccharomyces
+Saccharomyces cerevisiae (Baker's yeast)	Saccharomyces
+Saccharomyces cerevisiae S288c	Saccharomyces
+Saccharomycescerevisiae	Saccharomyces
+S. cerevisiae (lower)	Saccharomyces
+Saccharomyces cerevisiae. Predicted to work with: Mouse	"Saccharomyces, Mouse"
+Saint Louis Encephalitis Virus	Saint Louis Encephalitis Virus
+St.Louisencephalitis	Saint Louis Encephalitis Virus
+strainMSI-7	Saint Louis Encephalitis Virus
+St. Louis Encephalitis Virus	Saint Louis Encephalitis Virus
+Salamander	Salamander
+Salmon	Salmon
+Salmon Anemia Virus	Salmon Anemia Virus
+SalmonAnemiaVirus	Salmon Anemia Virus
+Salmonella	Salmonella
+S.hadar	Salmonella
+S.typhi	Salmonella
+Salmonella typhimurium	Salmonella
+Salmonellaanatum	Salmonella
+SalmonellaenteriditisD	Salmonella
+Salmonellaesp.	Salmonella
+Salmonellaparatyphi	Salmonella
+SalmonellaselandiaandSalmonellatyphi	Salmonella
+Salmonellatyphimurium	Salmonella
+SalmonellatyphimuriumandSerratiamarcescens	Salmonella
+S. enterica	Salmonella
+Salmonella typhi	Salmonella
+S. typhimurium	Salmonella
+Salmonids	Salmonids
+Salmonid	Salmonids
+Salsola	Salsola
+Sand Rat	Sand Rat
+Saponaria	Saponaria
+Sars Coronavirus	Sars Coronavirus
+SARS	Sars Coronavirus
+SARS-Coronavirus nsp13 protein	Sars Coronavirus
+SARS-Coronavirus nsp3 protein	Sars Coronavirus
+SARS-Coronavirus nsp8 protein	Sars Coronavirus
+SARScoronavirus	Sars Coronavirus
+SARSvirus	Sars Coronavirus
+SARS-CoV	Sars Coronavirus
+Scallop	Scallop
+Scenedesmus	Scenedesmus
+Schima	Schima
+Schistosoma	Schistosoma
+<i>S. japonicum</i>	Schistosoma
+<i>Schistosoma japonicum</i>	Schistosoma
+S. mansoni	Schistosoma
+schistosoma japonicum	Schistosoma
+S. japonicum	Schistosoma
+Schizosaccharomyces	Schizosaccharomyces
+S pombe	Schizosaccharomyces
+S. pombe	Schizosaccharomyces
+S.Pombe	Schizosaccharomyces
+Schizosaccharomyces pombe	Schizosaccharomyces
+Schizosaccharomyces pombeImmunogen	Schizosaccharomyces
+School Shark	School Shark
+Scytonema	Scytonema
+Sea Anemone	Sea Anemone
+Sea Coral	Sea Coral
+Sea Cucumber	Sea Cucumber
+Sea cucumbers	Sea Cucumber
+Sea Lamprey	Sea Lamprey
+Sea Lily	Sea Lily
+Sea Lion	Sea Lion
+Sea Scallop	Sea Scallop
+Sea Slug	Sea Slug
+Sea Snail	Sea Snail
+Sea Spider	Sea Spider
+Sea Squirt	Sea Squirt
+Sea Star	Sea Star
+Sea Thrift	Sea Thrift
+Sea Urchin	Sea Urchin
+Seabream	Seabream
+Seahorse	Seahorse
+Seal	Seal
+Hooded Seal	Seal
+Selaginella	Selaginella
+Semliki Virus	Semliki Virus
+Sendai Virus	Sendai Virus
+Serratia	Serratia
+S.marcescens	Serratia
+Sesame	Sesame
+Sesamum indicum	Sesame
+Shark	Shark
+Sheep	Sheep
+anti-Sheep	Sheep
+o	Sheep
+or sheep serum albumin.	Sheep
+Ovine	Sheep
+sheep (negative with dog	Sheep
+Sheep/ovine	Sheep
+Texel ewes	Sheep
+Sheep (Sh)	Sheep
+Ovine.	Sheep
+Sh	Sheep
+She	Sheep
+Shee	Sheep
+Sheepshead Minnow	Sheepshead Minnow
+Shigella	Shigella
+S. sonnei	Shigella
+S.boydii	Shigella
+S.dysenteriae	Shigella
+Shigelladysenteriae	Shigella
+S. flexneri	Shigella
+Shrew	Shrew
+tree shrews	Shrew
+Shrimp	Shrimp
+Artemia	Shrimp
+Oriental river prawns	Shrimp
+Silene	Silene
+Silkworm	Silkworm
+Silk worm	Silkworm
+Bombyx mori	Silkworm
+Simian Immunodeficiency Virus	Simian Immunodeficiency Virus
+SIV-1	Simian Immunodeficiency Virus
+Simian Rotavirus	Simian Rotavirus
+Simian Virus	Simian Virus
+SV40	Simian Virus
+Sin Nombre Virus	Sin Nombre Virus
+Sinapis	Sinapis
+Sinapus	Sinapis
+sinapus seed	Sinapis
+Sinapus seed mucilage	Sinapis
+some other plants	"Sinapis, Plant"
+Sinorhizobium	Sinorhizobium
+Slug	Slug
+Smallpox Virus	Smallpox Virus
+Snail	Snail
+Snail-Helix pomatia	Snail
+Helix pomatia	Snail
+Snake	Snake
+Atractaspis engaddensis	Snake
+cobra	Snake
+Naja atra	Snake
+Solanum	Solanum
+Sole	Sole
+Sooty Mangabey	Sooty Mangabey
+Sorghum	Sorghum
+Soybean	Soybean
+Soy Bean	Soybean
+Sparrow	Sparrow
+Spartina	Spartina
+Spider	Spider
+Phoneutria nigriventer	Spider
+Spider Monkey	Spider Monkey
+Spinach	Spinach
+Spiny Shark	Spiny Shark
+spiny dogfish shark (Squalus acanthias)	Spiny Shark
+Sponge	Sponge
+Hippospongia sp	Sponge
+Suberites domuncula	Sponge
+Spotted Gar	Spotted Gar
+Spotted Wolfish	Spotted Wolfish
+Springtail	Springtail
+Spruce Budworm	Spruce Budworm
+Squash	Squash
+Squid	Squid
+ Cuttlefish	Squid
+Squirrel	Squirrel
+Ground Squirrel	Squirrel
+tupaia (negative with bovine	Squirrel
+tupaia (negative with bovine)	Squirrel
+Spermophilus tridecemlineatus	Squirrel
+Squirrel Monkey	Squirrel Monkey
+Staphylococcus	Staphylococcus
+MRSA	Staphylococcus
+S.aureus	Staphylococcus
+S.enterotoxin	Staphylococcus
+Staph.A	Staphylococcus
+Staph.sp	Staphylococcus
+Staphylococcus aureus	Staphylococcus
+Staphylococcusaureus	Staphylococcus
+Staphylococcusepidermidis	Staphylococcus
+ToxicShockToxin	Staphylococcus
+S. aureus	Staphylococcus
+Staphylococcus. spp	Staphylococcus
+Staphylococcal Spp.	Staphylococcus
+S. epidermis	Staphylococcus
+Starfish	Starfish
+Asteroidea	Starfish
+Stenotrophomonas	Stenotrophomonas
+Sting Ray	Sting Ray
+Ray	Sting Ray
+Stout	Stout
+Strawberry	Strawberry
+Strawberry Latent Ringspot Virus	Strawberry Latent Ringspot Virus
+Strawberry Mild Yellow Edge-Associated Virus	Strawberry Mild Yellow Edge-Associated Virus
+Streptococcus	Streptococcus
+S.equi	Streptococcus
+S.equi.	Streptococcus
+S.equisubsp.zooepidemicus	Streptococcus
+Streptococcus B bacteria	Streptococcus
+Streptococcus pyogene	Streptococcus
+Streptococcus pyogenes	Streptococcus
+Streptococcusagalactiae	Streptococcus
+Streptococcusequi	Streptococcus
+Streptococcusequistrain4047	Streptococcus
+Streptococcusequisubsp.equi	Streptococcus
+Streptococcusequisubsp.equi4047	Streptococcus
+Streptococcuspneumoniae	Streptococcus
+Streptococcuspyogenes	Streptococcus
+Streptococcus faecalis	Streptococcus
+S. mutans	Streptococcus
+S. pneumoniae	Streptococcus
+Streptococcus. spp	Streptococcus
+Streptococus mutans	Streptococcus
+S. Pyogenes	Streptococcus
+Streptomyces	Streptomyces
+Streptomycesavidinii	Streptomyces
+Streptomyces griseus	Streptomyces
+Streptomyces hydrogenans	Streptomyces
+S. Avisidinii	Streptomyces
+Striped Bass	Striped Bass
+Stumptail Monkey	Stumptail Monkey
+Sturgeon	Sturgeon
+Sudan Virus	Sudan Virus
+Sugar Beet	Sugar Beet
+Sugarbeet	Sugar Beet
+Sugarcane	Sugarcane
+Sulfolobus	Sulfolobus
+Sunflower	Sunflower
+Sweet Potato	Sweet Potato
+Ipomoea batatas	Sweet Potato
+Sweet Wormwood	Sweet Wormwood
+Swine Influenza Virus	Swine Influenza Virus
+Switchgrass	Switchgrass
+Swordfish	Swordfish
+Sycamore Maple	Sycamore Maple
+especially sycamore	Sycamore Maple
+sycamore	Sycamore Maple
+sycamore and other species	Sycamore Maple
+Sycamore xyloglucan and pectic polysaccharide	Sycamore Maple
+Sycamore and Linseed	"Sycamore Maple, Linseed"
+sycamore and some other plants	"Sycamore Maple, Plant"
+Symbiodinium	Symbiodinium
+Synechococcus	Synechococcus
+Synechocystis	Synechocystis
+Synthetic	Synthetic
+Syntrophobacter	Syntrophobacter
+Syrian Hamster	Syrian Hamster
+Syrian Hamster. Does not react with Mouse	Syrian Hamster
+Tamarind	Tamarind
+Tammar Wallaby	Tammar Wallaby
+Tannerella	Tannerella
+Tapeworm	Tapeworm
+Tetracapsuloides	Tetracapsuloides
+Tetrahymena	Tetrahymena
+Tetrahymena sp.	Tetrahymena
+Thalassiosira	Thalassiosira
+Thale Cress	Thale Cress
+Thellungiella	Thellungiella
+Thermodesulfovibrio	Thermodesulfovibrio
+Thermosynechococcus	Thermosynechococcus
+Thermotoga	Thermotoga
+Thermus	Thermus
+T. aquaticus	Thermus
+Thermus aquaticus	Thermus
+Thiobacillus	Thiobacillus
+Thirteen-Lined Ground Squirrel	Thirteen-Lined Ground Squirrel
+Thornback Ray	Thornback Ray
+Three-Spined Stickleback	Three-Spined Stickleback
+Tilapia	Tilapia
+Tisochrysis	Tisochrysis
+Toad	Toad
+Spadefoot toad	Toad
+Tobacco	Tobacco
+Tobacco Budworm	Tobacco Budworm
+Tobacco Mosaic Virus	Tobacco Mosaic Virus
+Tobacco Ringspot Virus	Tobacco Ringspot Virus
+Reacts with tobacco and diverse other plant arabinogalactans	"Tobacco, Plant"
+Reacts with tobacco intact protoplasts/glycoproteins/plasma membrane antigens. Also reacts with many dicot rhamnogalacturonan I preparations.	"Tobacco, Plant"
+Tolypocladium	Tolypocladium
+Tolypocladiuminflatum	Tolypocladium
+Tolypothrix	Tolypothrix
+Tomato	Tomato
+tomato xyloglucan and tomato glucomanan	Tomato
+Lycopersicon esculentum	Tomato
+Tomato Ringspot Virus	Tomato Ringspot Virus
+Tomato Spotted Wilt Virus	Tomato Spotted Wilt Virus
+TSWV	Tomato Spotted Wilt Virus
+Tomato Yellow Leaf Curl Virus	Tomato Yellow Leaf Curl Virus
+tomato and camelina	"Tomato, Camelina"
+tomato and lettuce	"Tomato, Lettuce"
+tomato and sycamore	"Tomato, Sycamore Maple"
+Torpedo	Torpedo
+andTorpedo	Torpedo
+Torpedo nobiliana	Torpedo
+Torpedo californica	Torpedo
+Toxocara	Toxocara
+Toxoplasma	Toxoplasma
+T. gondii	Toxoplasma
+Toxoplasmagondii	Toxoplasma
+Tree	Tree
+Tree Frog	Tree Frog
+Tree Hopper	Tree Hopper
+Tree Shrew	Tree Shrew
+Treponema	Treponema
+Treponema hyodysenteriae	Treponema
+Treponema innocense	Treponema
+Treponemapallidum	Treponema
+Trichinella	Trichinella
+Trichinella spiralis	Trichinella
+Trichina worm	Trichinella
+T. spiralis	Trichinella
+Trichoderma	Trichoderma
+Trichodesmium	Trichodesmium
+Trichoma	Trichoma
+Trichoma viride	Trichoma
+Trichomonas	Trichomonas
+Trichomonasvaginalis	Trichomonas
+Trichosanthes	Trichosanthes
+Triticum	Triticum
+Tritirachium	Tritirachium
+Tritirachium album	Tritirachium
+Tritrichomonas	Tritrichomonas
+Trout	Trout
+Trypanosoma	Trypanosoma
+T. cruzi	Trypanosoma
+T. brucei	Trypanosoma
+Trypanosoma cruzi	Trypanosoma
+Tube-Nosed Bat	Tube-Nosed Bat
+Tuna	Tuna
+Tunicate	Tunicate
+Botryllus schlosseri	Tunicate
+Turbot	Turbot
+Turkey	Turkey
+Turnip	Turnip
+Turtle	Turtle
+turtles	Turtle
+Ulex	Ulex
+Ulva	Ulva
+Ureaplasma	Ureaplasma
+Vaccinia Virus	Vaccinia Virus
+vaccinia	Vaccinia Virus
+VacciniaVirus	Vaccinia Virus
+VACV	Vaccinia Virus
+Varicella Zoster Virus	Varicella Zoster Virus
+VaricellaZosterVirus	Varicella Zoster Virus
+VaricellaZosterVirusEllenstrain	Varicella Zoster Virus
+VZV / HHV-3	Varicella Zoster Virus
+Variola Virus	Variola Virus
+Velvet Worm	Velvet Worm
+Vertebrate	Vertebrate
+other vertebrates	Vertebrate
+Vertebrates	Vertebrate
+Vervet Monkey	Vervet Monkey
+vervet	Vervet Monkey
+Vesicular Stomatitis Virus	Vesicular Stomatitis Virus
+VSV	Vesicular Stomatitis Virus
+Vibrio	Vibrio
+Vibrio cholerae	Vibrio
+Vibriocholerae	Vibrio
+V. harveyi	Vibrio
+V. cholerae	Vibrio
+V. cholerae O1	Vibrio
+V. vulnificus	Vibrio
+Viper	Viper
+Bothrops. spp	Viper
+Crotalus durissus	Viper
+Echis carinatus	Viper
+Viral Hemorrhagic Septicemia Virus	Viral Hemorrhagic Septicemia Virus
+Virus	Virus
+Binds NP of all viruses tested. Stains infected cells.	Virus
+Broadly cross-reactive & highly NS1 specific. Reactive against multiple H1N1 and H3N2 subtypes	Virus
+Caliciviridae	Virus
+filamentous phages F1	Virus
+filamentous phages fd	Virus
+filamentous phages M13	Virus
+Hantavirus	Virus
+Hantavirus Seoul strain R22	Virus
+Human virus	Virus
+M13filamentousphage	Virus
+M13phage	Virus
+PBFD virus	Virus
+Positive sense genome viruses	Virus
+possibly other Tospoviruses	Virus
+possibly other Tospoviruses or Bunyaviridae	Virus
+possibly other Tospoviruses or Bunyaviridae. Very small cross-reactivity with WSMV and PVY	Virus
+predicted to react with > 90% of currently known H1-H16 NS1 types.	Virus
+Tobacco Etch Virus	Virus
+Viral	Virus
+VirusVirus	Virus
+VirusVirusVirusVirus	Virus
+Lyssavirus	Virus
+WSSV	Virus
+BTV	Virus
+PVV	Virus
+Orthomyxoviruses	Virus
+Orthopoxvirus	Virus
+LGTV	Virus
+GBNV	Virus
+BNYVV	Virus
+ToMarV	Virus
+MARV	Virus
+CMPV	Virus
+REV	Virus
+PVY	Virus
+Bunyaviridae	Virus
+other Tospoviruses	Virus
+Marek's Disease Virus	Virus
+Ustilago maydis P6 virus	Virus
+Hantavirus Puumala Virus	"Virus, Puumala Virus"
+Vitis	Vitis
+Vole	Vole
+Water Buffalo	Water Buffalo
+Water Mold	Water Mold
+Waterbug	Waterbug
+ Rhagovelia	Waterbug
+West Nile Virus	West Nile Virus
+WNV	West Nile Virus
+Western Clawed Frog	Western Clawed Frog
+Whale	Whale
+Fin Whale	Whale
+Wheat	Wheat
+CommonWheat(Triticumaestivum)	Wheat
+wheat (arabinoxylan) possibly others	Wheat
+Wheat Germ	Wheat
+wheat)	Wheat
+Wheat Germ	Wheat Germ
+wheatgerm	Wheat Germ
+White Fly	White Fly
+Whitefly	White Fly
+White Lupin	White Lupin
+White Perch	White Perch
+White Sucker	White Sucker
+White Tail Deer	White Tail Deer
+Wisteria Floribunda	Wisteria Floribunda
+Wolffish	Wolffish
+Wood Frog	Wood Frog
+Woodchuck	Woodchuck
+Woodchuck Hepatitis Virus	Woodchuck Hepatitis Virus
+Recognizes woodchuck hepatitis B Virus (WHV) core protein	Woodchuck Hepatitis Virus
+Worm	Worm
+Amphioxus	Worm
+ Earthworm	Worm
+ Onychophora	Worm
+amphioxus; mouse	"Worm, Mouse"
+Wrasse	Wrasse
+Xenopus	Xenopus
+aXenopus	Xenopus
+xenopus (negative in higher animals)	Xenopus
+xenopus (negative with other higher vertebrates)	Xenopus
+xenopus (negative with Pleurodelis	Xenopus
+xenopus (not with budding yeast Cdc48p)	Xenopus
+Xenopus laevis	Xenopus
+Xenopus laevis (negativ with rat and rat kangaroo)	Xenopus
+Xenopus laevis (negative with human	Xenopus
+Xenopus laevis (negative with mouse)	Xenopus
+Xenopus laevis (negative with rabbit)	Xenopus
+Xenopus laevis)	Xenopus
+Xenopus tropicalis	Xenopus
+xenopus)	Xenopus
+xenopus))	Xenopus
+Xenopus>m	Xenopus
+Xenopus homologs	Xenopus
+Xenopus tropicalis)	Xenopus
+Xenopus (Negative)	REMOVE
+Xenopus (weak)	Xenopus
+Xenopus.	Xenopus
+Xe	Xenopus
+Xen	Xenopus
+Xenopu	Xenopus
+Xenopus laevis. Predicted to work with all Mammals	"Xenopus, Mammal"
+Xenopus laevis (weaker murine cross-reaction)	"Xenopus, Mouse"
+Xenopus laevis (rat and mouse: Plakophilin 2a and b (WB only))	"Xenopus, Mouse, Rat"
+Xylella	Xylella
+X. fastidiosa	Xylella
+Yak	Yak
+Yeast	Yeast
+andyeast	Yeast
+Hexokinase [yeast]	Yeast
+Hexokinase[yeast]	Yeast
+Yeast)	Yeast
+Yeast (<i>S. cerevisiae</i>)	"Yeast, Saccharomyces"
+Yeast (S pombe & S cerevisiae)	"Yeast, Saccharomyces, Schizosaccharomyces"
+Yeast (<i>S. pombe</i>)	"Yeast, Schizosaccharomyces"
+Yellow Fever Virus	Yellow Fever Virus
+YellowFeverVirus	Yellow Fever Virus
+Yersinia	Yersinia
+Y. enterocolitica O:3	Yersinia
+Y. enterocolitica O:9	Yersinia
+Y. pestis	Yersinia
+Yersinia entercolitica	Yersinia
+Yersiniapestis	Yersinia
+Zaire Ebola Virus	Zaire Ebola Virus
+Zaire Ebolavirus	Zaire Ebola Virus
+Zebra	Zebra
+Zebra Finch	Zebra Finch
+Zebrafish	Zebrafish
+z	Zebrafish
+zebra fish	Zebrafish
+Zebrafish (Zbf)	Zebrafish
+Zebrafish)	Zebrafish
+Ze	Zebrafish
+Zeb	Zebrafish
+Zebr	Zebrafish
+Zebraf	Zebrafish
+Zebrafi	Zebrafish
+Zebrafis	Zebrafish
+Zebrafish. Expected from seq similarity: Human	Zebrafish
+Zika Virus	Zika Virus
+Zika	Zika Virus
+Zoysia	Zoysia
+Zymomonas	Zymomonas
+CHKV	Chikungunya Virus
+Achlya ambisexualis	Achlya
+Borrelia garinii	Borrelia
+Chicken.	Chicken
+Cholera Toxin	Cholera
+Clostridia spp.	Clostridium
+Tetanus	Clostridium
+Cow Pig	"Cow,Pig"
+European house dust mite	Dust Mite
+Enterococcus spp.	Enterococcus
+Hepatitis B Core	Hepatitis B Virus
+Herpes Simplex Virus Type-1	Herpes Simplex Virus 1
+HIV 1	Human Immunodeficiency Virus 1
+HPV 11	Human Papillomavirus
+HPV 16	Human Papillomavirus
+HPV 18	Human Papillomavirus
+Human Papilloma Virus (HPV-16)	Human Papillomavirus
+Influenza HA	Influenza Virus
+Leptospira biflexa	Leptospira
+Mycoplasma bovis	Mycoplasma
+Norovirus Capsid protein	Norovirus
+Parainfluenza 1	Parainfluenza
+Parainfluenza 2 & 3	Parainfluenza
+Parainfluenza 3	Parainfluenza
+Parainfluenza Virus 2 & 3	Parainfluenza
+Parvovirus (Canine)	Parvovirus
+Poliovirus 1	Poliovirus
+Poliovirus 3	Poliovirus
+Rat Chicken	"Rat,Chicken"
+Renilla reniformis	Renilla
+SARS Virus	Sars Coronavirus
+Sharks	Shark
+Simian Virus 5	Simian Virus
+Spinach. Others speices not known.	Spinach
+Staphylococcus Enterotoxin B	Staphylococcus
+Staphylococcus Enterotoxin B (SEB)	Staphylococcus
+Streptococcal Pyrogenic Exotoxin A (SPEA)	Staphylococcus
+Bacteria (S. pyogenes	Streptococcus
+Macaca artctoids (Stumptail Monkey)	Stumptail Monkey
+Toxoplasma gondii	Toxoplasma
+Hantavirus (Hantaan)	Virus
+Hantavirus (Puumala)	Virus
+Yeast (S. pombe & S. cerevisiae). Others speices not known.	Yeast
+B. pertussis	Bordetella
+Bacteroides thetaiotaomicron	Gram Negative Bacteria
+BIScV	Blueberry Scorch Virus
+Bovine Rhinotracheitis	Bovine Herpesvirus
+C. fetus	Campylobacter
+C. perfringens	Clostridium
+C. pneumoniae	Chlamydophila
+C. venerealis	Campylobacter
+C.fetus	Campylobacter
+Calcivirus	Virus
+Chemical	REMOVE
+Diphtheria	Corynebacterium
+Distemper Virus	Canine Distemper Virus
+E. herbicola	Bacteria
+Edwardsiella	Gram Negative Bacteria
+Feline Herpes Virus	Herpes Virus
+Foot-and-Mout Disease Virus	Foot And Mouth Disease Virus
+G. suflerreducens	Geobacter
+H. influenza B	Influenza B Virus
+H1N1	Influenza A Virus
+HBcAg	Hepatitis B Virus
+HBeAg	Hepatitis B Virus
+HBsAg	Hepatitis B Virus
+HBxAg	Hepatitis B Virus
+HEV71	Enterovirus
+HSV-1 + HSV-2	"Herpes Simplex Virus 1,Herpes Simplex Virus 2"
+HSV-6	Human Herpesvirus 6
+Lobophyllia hemprichii	Coral
+Lymphocytic Choriomeningitis Virus (LCMV)	Lymphocytic Choriomeningitis Virus
+M. avium	Mycobacterium
+M. bovis	Mycobacterium
+M. pneumoniae	Mycoplasma
+M. tuberculosis	Mycobacterium
+Marmoset Monkey	Marmoset
+PrimateRat	"Primate,Rat"
+Puumala hantavirus	Puumala Virus
+Rabies Glycoprotein	Rabies Virus
+rays	Sting Ray
+Rotovirus	Rotavirus
+S. agalactiae	Streptococcus
+S. dysenteriae	Shigella
+S. enteritidis	Salmonella
+S. typhi	Salmonella
+Sialidase	REMOVE
+Streptokinase	REMOVE
+Synthetic Peptide	REMOVE
+T. hyodysenteriae	Treponema
+T. innocense	REMOVE
+T. pallidum	Treponema
+T. spiralis)	Trichinella
+VZV	Varicella Zoster Virus
+Y. entercolitica	Yersinia
+Aspergillus sp.	Aspergillus
+Lyme(B. burgdorferi)	Borrelia
+Campylobacter sp.	Campylobacter
+Candida albicans(RabMAB)	Candida
+Chlamidia trachomatis(goat)	Chlamydia
+Chlamydia pneumoniae	Chlamydia
+Chlamydia sp.	Chlamydia
+Chlamydia Trachomatis(rabbit)	Chlamydia
+MERS coronavirus	Coronavirus
+Diptheria toxin	Corynebacterium
+Cl. Botulinum	Cryptosporidium
+Cl. difficile	Cryptosporidium
+Clostridia	Cryptosporidium
+Clostridia sp.	Cryptosporidium
+Crytospordium Parvum	Cryptosporidium
+Entamoeba histolytica	Entamoeba
+Enterococcus sp.	Enterococcus
+E. coli(goat)	Escherichia
+E. coli(rabbit)	Escherichia
+Francisella tularensis	Francisella
+Enterobacteriaciae	Gram Negative Bacteria
+Gram + bacteria	Gram Positive Bacteria
+Heliobacter pylori	Helicobacter
+Hepatitis A	Hepatitis A Virus
+Hepatitis B sAg.(goat)	Hepatitis B Virus
+Hepatitis B sAg.(horse)	Hepatitis B Virus
+Hepatitis B sAg.(rabbit)	Hepatitis B Virus
+Herpes simplex virus(goat)	Herpes Simplex Virus
+Herpes simplex virus(rabbit)	Herpes Simplex Virus
+Herpes Simplex Virus(sheep)	Herpes Simplex Virus
+"Herpes simplex virus, type 1"	Herpes Simplex Virus 1
+Herpes simplex virus 1&2	"Herpes Simplex Virus 1,Herpes Simplex Virus 2"
+"Herpes simplex virus, type 2"	Herpes Simplex Virus 2
+Human Herpes Virus 6	Human Herpesvirus 6
+Human Papilloma virus L1	Human Papillomavirus
+Klebsiella sp.	Klebsiella
+Legionella pneumophila(RabMAB)	Legionella
+Listeria Monocytogenes	Listeria
+Listeria sp.	Listeria
+Listeria Species	Listeria
+Measles virus (Rubeola)	Measles Virus
+Mycoplasma genitalium	Mycoplasma
+Mycoplasma hominis	Mycoplasma
+Mycoplasma pneumoniae	Mycoplasma
+Neisseria meningitids	Neisseria
+Bovine Papillomavirus	Papillomavirus
+Polio virus	Poliovirus
+BK Virus	Polyomavirus
+Psuedomonas sp.	Pseudomonas
+Enolase	REMOVE
+Lipid A	REMOVE
+Salmonella paratyphi A	Salmonella
+Salmonella sp.	Salmonella
+Salmonellae sp.	Salmonella
+Shiga toxin	Shigella
+Shigella flexneri 2a	Shigella
+Shigella sonnei form 1^	Shigella
+Staph. aureus	Staphylococcus
+Staph. Enterotoxin	Staphylococcus
+Strep A(rabbit)	Streptococcus
+Strep pneumoniae	Streptococcus
+Strep pneumoniae(RabMAB)	Streptococcus
+Strep. group A(goat)	Streptococcus
+Strep. group B	Streptococcus
+Streptococcus group A(RabMAB)	Streptococcus
+Streptococcus Group B (RabMAB)	Streptococcus
+Streptococcus pneumoniae	Streptococcus
+Toxoplasma gondii(goat)	Toxoplasma
+Toxoplasma gondii(rabbit)	Toxoplasma
+Treponema pallidum	Treponema
+Trichomonas foetus	Trichomonas
+Trichomonas vaginalis	Trichomonas
+Ureaplasma sp.	Ureaplasma
+Varicella-Zoster virus	Varicella Zoster Virus
+Yersinia pestis	Yersinia
+Adeno Associated Virus	Adeno-Associated Virus
+Universal	All
+Mannheimia	Bacteria
+Bacteroides	Bacteroide
+Apis mellifera	Bee
+Chikungunya	Chikungunya Virus
+Botulinum	Clostridium
+Bos taurus	Cow
+bovive	Cow
+Bull	Cow
+Crimean-Congo Hemorrhagic Fever Virus N	Crimean-Congo Hemorrhagic Fever Virus N Protein
+Dengue	Dengue Virus
+Dengue Type 1	Dengue Virus
+Dengue Type 2	Dengue Virus
+Dengue Type 3	Dengue Virus
+Dengue Type 4	Dengue Virus
+Encephalitis Eastern Equine	Eastern Equine Encephalitis Virus
+Encephalomyelitis	Encephalomyelitis Virus
+Porcine Hemagglutinating Encephalomyelitis Virus	Encephalomyelitis Virus
+Encephalitis	Equine Encephalitis Virus
+VEE Virus	Equine Encephalitis Virus
+Friend Leukemia Virus	Feline Leukaemia Virus
+Foot and Mouth Disease	Foot And Mouth Disease Virus
+Transmissible Gastroenteritis Virus	Gastroenteritis Virus
+Carpinus	Goat
+Gpig	Guinea Pig
+Hemorrhagic Fever with Renal Syndrome Virus	Hemorrhagic Fever With Renal Syndrome
+Hepatits A	Hepatitis A Virus
+Hepatitis D	Hepatitis D Virus
+Hepatitis D Virus	Hepatitis D Virus
+HEPATITIS E	Hepatitis E Virus
+Herpes Simplex 1	Herpes Simplex Virus 1
+Herpes Simplex Virus I	Herpes Simplex Virus 1
+Herpes Simplex 2	Herpes Simplex Virus 2
+Herpes Simplex Virus II	Herpes Simplex Virus 2
+HSV2	Herpes Simplex Virus 2
+Human Factor XI	Human
+Human HeLa cells	Human
+HIV2	Human Immunodeficiency Virus
+HIV1	Human Immunodeficiency Virus 1
+Human Immunodeficiency Virus Type 1	Human Immunodeficiency Virus 1
+Human Papilloma Virus Type 16	Human Papillomavirus 16
+Infectious Bovine Rhinotracheitus	Infectious Bovine Rhinotracheitis Virus
+Infectious Bronchitis	Infectious Bronchitis Virus
+Infectious Bursal Disease	Infectious Bursal Disease Virus
+Encephalitis Japan	Japanese Encephalitis Virus
+Kaposi’s Sarcoma Virus	Kaposi'S Sarcoma-Associated Herpesvirus
+Lens	Lentil
+pan	Many
+Marek Disease	Marek Disease Virus
+Marek Disease 	Marek Disease Virus
+Marek’s Disease Virus	Marek Disease Virus
+Measles	Measles Virus
+Mo x	Mouse
+Mouse;	Mouse
+Ms	Mouse
+Mouse/Rabbit	"Mouse,Rabbit"
+Mouse/Rat	"Mouse,Rat"
+Mumps	Mumps Virus
+Allium sativum	Onion
+Papilloma Virus	Papillomavirus
+Paramyxovirus Type 2	Paramyxovirus
+Paramyxovirus Type 3	Paramyxovirus
+Arachis	Plant
+Erythrina	Plant
+Wisteria	Plant
+Polio Virus 1	Poliovirus
+Polio Virus 3	Poliovirus
+Poliovirus type 1	Poliovirus
+Poliovirus type 2	Poliovirus
+Poliovirus type 3	Poliovirus
+Polyoma Virus	Polyomavirus
+pseudomonas aeruginosa	Pseudomonas
+Rabies	Rabies Virus
+Respiratory Syncitial Virus	Respiratory Syncytial Virus
+HERV	Retrovirus
+Rhesus Monkey (Simian)	Rhesus Monkey
+Rubeola	Rubeola Virus
+RSPaV	Rupestris Stem Pitting Associated Virus
+Encephalitis St. Louis	Saint Louis Encephalitis Virus
+SARS-coronavirus	Sars Coronavirus
+ram	Sheep
+Shiga	Shigella
+Simian Virus 40	Simian Virus
+Smallpox	Smallpox Virus
+Helix	Snail
+Echis	Snake
+Staphylococcal	Staphylococcus
+Streptococcal	Streptococcus
+Toxoplasmosis	Toxoplasma
+Bluetongue Virus	Virus
+Feline Infectious Peritonitis	Virus
+Hantavirus Virus	Virus
+human T-Cell Leukemia Virus Type I	Virus
+Infectious Pancreatic Necrosis Virus	Virus
+Leukemia Virus	Virus
+Nucleopcapsid	Virus
+Spleen Focus Forming Virus	Virus
+Yellow Fever	Yellow Fever Virus
+6-His-tag	Non Species Specific
+AAV9	Adeno-Associated Virus
+c-myc-tag	Non Species Specific
+DDDDK-tag	Non Species Specific
+GFP-tag	Non Species Specific
+GST-tag	Non Species Specific
+HA-tag	Non Species Specific
+L. pneumophila serogroup 1	Legionella
+see individual antibody datasheet	REMOVE
+tissue and cell culture after incorporation of BrdU	REMOVE
+tupaia	Shrew
+4X PEG	4X PEG
+7C	7C
+Agarose	Agarose
+Alexa 350	Alexa 350
+Alexa 405	Alexa 405
+Alexa 430	Alexa 430
+Alexa 488	Alexa 488
+Alexa 514	Alexa 514
+Alexa 532	Alexa 532
+Alexa 546	Alexa 546
+Alexa 555	Alexa 555
+Alexa 568	Alexa 568
+Alexa 584	Alexa 584
+Alexa 594	Alexa 594
+Alexa 610	Alexa 610
+Alexa 633	Alexa 633
+Alexa 635	Alexa 635
+Alexa 647	Alexa 647
+Alexa 660	Alexa 660
+Alexa 680	Alexa 680
+Alexa 700	Alexa 700
+Alexa 750	Alexa 750
+Alexa 790	Alexa 790
+Alkaline Phosphatase	Alkaline Phosphatase
+Allophycocyanin	Allophycocyanin
+AMCA	AMCA
+AmCyan	AmCyan
+Atto 390	Atto 390
+Atto 425	Atto 425
+Atto 488	Atto 488
+Atto 532	Atto 532
+Atto 550	Atto 550
+Atto 565	Atto 565
+Atto 590	Atto 590
+Atto 594	Atto 594
+Atto 633	Atto 633
+Atto 647N	Atto 647N
+Atto 655	Atto 655
+Atto 680	Atto 680
+Atto 700	Atto 700
+Atto 740	Atto 740
+BB515	BB515
+BB517	BB517
+Beta-Galactosidase	Beta-Galactosidase
+BIMA	BIMA
+Biotin	Biotin
+Biotin-XX	Biotin-XX
+BODIPY FL	BODIPY FL
+BSA	BSA
+BUV#	BUV#
+BV#	BV#
+C750	C750
+Caboxyfluorescein	Caboxyfluorescein
+Cascade Blue	Cascade Blue
+CF	CF
+CF Blue	CF Blue
+CF350	CF350
+CF405M	CF405M
+CF405S	CF405S
+CF488A	CF488A
+CF514	CF514
+CF543	CF543
+CF555	CF555
+CF568	CF568
+CF594	CF594
+CF633	CF633
+CF640R	CF640R
+CF647	CF647
+CF660C	CF660C
+CF660R	CF660R
+CF680	CF680
+CF680R	CF680R
+CF750	CF750
+CF770	CF770
+Chromeo 488	Chromeo 488
+Chromeo 494	Chromeo 494
+Chromeo 505	Chromeo 505
+Chromeo 546	Chromeo 546
+Chromeo 642	Chromeo 642
+Cy2	Cy2
+CY3	CY3
+Cy3.5	Cy3.5
+Cy5	Cy5
+Cy5.5	Cy5.5
+Cy7	Cy7
+CyQ	CyQ
+Dazzle #	Dazzle #
+Dazzle 594	Dazzle 594
+DSB-X Biotin	DSB-X Biotin
+DY-547	DY-547
+DY-634	DY-634
+DY-647	DY-647
+DyLight 350	DyLight 350
+DyLight 405	DyLight 405
+DyLight 405LS	DyLight 405LS
+DyLight 488	DyLight 488
+DyLight 549	DyLight 549
+DyLight 550	DyLight 550
+DyLight 594	DyLight 594
+DyLight 633	DyLight 633
+DyLight 649	DyLight 649
+DyLight 650	DyLight 650
+DyLight 680	DyLight 680
+DyLight 755	DyLight 755
+DyLight 800	DyLight 800
+DyLight 804	DyLight 804
+DyLight 808	DyLight 808
+Dyomics 547	Dyomics 547
+Dyomics 590	Dyomics 590
+Dyomics 647	Dyomics 647
+eFluor #	eFluor #
+eFluor 605NC	eFluor 605NC
+Europium	Europium
+eVolve #	eVolve #
+FAM	FAM
+Ferritin	Ferritin
+FITC	FITC
+FLAG-tagged	FLAG-tagged
+FLMA	FLMA
+Fluorescein	Fluorescein
+FluoroNanogold	FluoroNanogold
+Glucose Oxidase	Glucose Oxidase
+Gold	Gold
+Gold 1.4 nm	Gold 1.4 nm
+Gold 10 nm	Gold 10 nm
+Gold 12 nm	Gold 12 nm
+Gold 15 nm	Gold 15 nm
+Gold 18 nm	Gold 18 nm
+Gold 2 nm	Gold 2 nm
+Gold 20 nm	Gold 20 nm
+Gold 25 nm	Gold 25 nm
+Gold 30 nm	Gold 30 nm
+Gold 40 nm	Gold 40 nm
+Gold 5 nm	Gold 5 nm
+Gold 6 nm	Gold 6 nm
+H7	H7
+His-tagged	His-tagged
+Horseradish Peroxidase	Horseradish Peroxidase
+HyLight Fluor #	HyLight Fluor #
+IF488	IF488
+IF555	IF555
+IF647	IF647
+IQP-134C	IQP-134C
+IQP-513R	IQP-513R
+IQP-556A	IQP-556A
+IRD #	IRD #
+IRD 700DX	IRD 700DX
+IRD 800CW	IRD 800CW
+KLH	KLH
+Magnetic Agarose	Magnetic Agarose
+Magnetic beads	Magnetic beads
+Marina Blue	Marina Blue
+MaxLight #	MaxLight #
+Mega 485	Mega 485
+Mega 520	Mega 520
+NL493	NL493
+NL557	NL557
+NL637	NL637
+NL657	NL657
+OC-515	OC-515
+Oregon Green	Oregon Green
+OVA	OVA
+Pacific Blue	Pacific Blue
+Pacific Green	Pacific Green
+Pacific Orange	Pacific Orange
+PerCP	PerCP
+Peroxidase	Peroxidase
+Phycoerythrin	Phycoerythrin
+Protein A Agarose	Protein A Agarose
+Qdot 525	Qdot 525
+Qdot 565	Qdot 565
+Qdot 585	Qdot 585
+Qdot 605	Qdot 605
+Qdot 625	Qdot 625
+Qdot 655	Qdot 655
+Qdot 705	Qdot 705
+Qdot 800	Qdot 800
+Quantum Red	Quantum Red
+R700	R700
+RBITC	RBITC
+Red Fluor 710	Red Fluor 710
+Red Fluorochrome (635)	Red Fluorochrome (635)
+Rhodamine	Rhodamine
+Rhodamine Red	Rhodamine Red
+Rhodamine Red-X	Rhodamine Red-X
+RPE	RPE
+Sepharose	Sepharose
+Sepharose 4B	Sepharose 4B
+Spectral Red	Spectral Red
+Streptavidin	Streptavidin
+Super Bright 436	Super Bright 436
+Super Bright 600	Super Bright 600
+Super Bright 645	Super Bright 645
+Super Bright 702	Super Bright 702
+SureLight Allophycocyanin	SureLight Allophycocyanin
+SureLight P1	SureLight P1
+SureLight P3	SureLight P3
+SureLight PE	SureLight PE
+TAMRA	TAMRA
+Texas Red	Texas Red
+Texas Red-X	Texas Red-X
+Tracy 645	Tracy 645
+Tracy 652	Tracy 652
+Tracy 690	Tracy 690
+TRI-COLOR	TRI-COLOR
+TRITC	TRITC
+Unconjugated	Unconjugated
+V450	V450
+V500	V500
+V500-C	V500-C
+Violet Fluor 450	Violet Fluor 450
+Violet Fluor 710	Violet Fluor 710
+Violet-450	Violet-450
+WesternDot 585	WesternDot 585
+WesternDot 625	WesternDot 625
+WesternDot 655	WesternDot 655
+WesternDot 800	WesternDot 800
+BTG	BTG
+103Rh	103Rh
+127I	127I
+141Pr	141Pr
+142Nd	142Nd
+143Nd	143Nd
+144Nd	144Nd
+145Nd	145Nd
+146Nd	146Nd
+147Sm	147Sm
+148Nd	148Nd
+149Sm	149Sm
+150Nd	150Nd
+151Eu	151Eu
+152Sm	152Sm
+153Eu	153Eu
+154Sm	154Sm
+155Gd	155Gd
+156Gd	156Gd
+158Gd	158Gd
+159Tb	159Tb
+160Gd	160Gd
+161Dy	161Dy
+162Dy	162Dy
+163Dy	163Dy
+164Dy	164Dy
+165Ho	165Ho
+166Er	166Er
+167Er	167Er
+168Er	168Er
+169Tm	169Tm
+170Er	170Er
+171Yb	171Yb
+172Yb	172Yb
+173Yb	173Yb
+174Yb	174Yb
+175Lu	175Lu
+176Yb	176Yb
+191Ir	191Ir
+193Ir	193Ir
+194Pt	194Pt
+198Pt	198Pt
+209Bi	209Bi
+89Y	89Y
+Y89	Y89
+ASB 650	ASB 650
+Fire 750	Fire 750
+Alexa Fluor 350	Alexa 350
+Alexa Fluor 488	Alexa 488
+Alexa Fluor 555	Alexa 555
+Alexa Fluor 594	Alexa 594
+Alexa Fluor 647	Alexa 647
+Alexa Fluor 680	Alexa 680
+Alexa Fluor 700	Alexa 700
+Alexa Fluor 750	Alexa 750
+Alk. Pho	Alkaline Phosphatase
+ALP	Alkaline Phosphatase
+AP	Alkaline Phosphatase
+APC	Allophycocyanin
+APC/Cy7	"Allophycocyanin,Cy7"
+APC/Fire 750	"Allophycocyanin,Fire 750"
+b-Gal	Beta-Galactosidase
+Brilliant Violet 421	BV421
+Brilliant Violet 510	BV510
+Brilliant Violet 605	BV605
+Brilliant Violet 650	BV650
+Brilliant Violet 711	BV711
+Brilliant Violet 785	BV785
+Carboxyfluorescein	Caboxyfluorescein
+CFBlue	CF Blue
+HRP	Horseradish Peroxidase
+PE	Phycoerythrin
+"PE, Atto 594"	"Phycoerythrin,Atto 594"
+"PE, Cy5"	"Phycoerythrin,Cy5"
+"PE, Cy7"	"Phycoerythrin,Cy7"
+PE/Atto 594	"Phycoerythrin,Atto 594"
+PE/Cy3	"Phycoerythrin,Cy3"
+PE/Cy5	"Phycoerythrin,Cy5"
+PE/Cy5.5	"Phycoerythrin,Cy5.5"
+PE/Cy7	"Phycoerythrin,Cy7"
+PE/Dazzle 594	"Phycoerythrin,Dazzle 594"
+PerCP/Cy5.5	"PerCP,Cy5.5"
+TNF Apha Antibody - Biotin	Biotin
+Ubiquitin	REMOVE
+HRPO	Horseradish Peroxidase
+R-PE	RPE
+IF680	IF680
+IF790	IF790
+Janelia Fluor 549	Janelia Fluor 549
+Janelia Fluor 646	Janelia Fluor 646
+Alexa Fluor 405	Alexa 405
+Alexa Fluor 546	Alexa 546
+HiLyte Fluor 488	HyLight Fluor 488
+ActAb	Activation Antibody
+Agg	Agglutination
+AP	Affinity Purification
+ChIP	Chromatin Immunoprecipitation
+CITA	Cytokine Immunotrapping Assay
+CLIA	Chemiluminescence Immunoassay
+CLIP	Cross-Linking Immunoprecipitation
+CMCD	Complement Mediated Cell Depletion
+DB	Dot Blot
+EIA	Enzyme Immunoassay
+ELISA	ELISA
+EM	Electron microscopy
+EMSA	EMSA
+FACS	Flow Cytometry
+FLISA	Fluorophore-linked Immunosorbent Assay
+FRAP	Fluorescence Recovery After Photobleaching
+FRET	Fluorescence Resonance Energy Transfer
+FS	Flurospot
+IA	Immuno Assay
+ICC	Immunocytochemistry
+ID	Immunodiffusion
+IF	Immunofluorescence
+IHC	Immunohistochemistry
+IP	Immunoprecipitation
+IS	Immunostaining
+ISH	In Situ Hybridization
+IT	Immunoturbidimetry
+LF	Lateral Flow Assay
+MA	Microarray
+MCyto	Mass Cytometry
+MeDIP	Methylated DNA Immunoprecipitation
+MS	Mass Spectrometry
+NeuAb	Neutralizing Assay
+PA	Protein Assay
+PLA	Proximity Ligation Assay
+RIA	Radioimmuno Assay
+RIP	RNA Immunoprecipitation
+WB	Western Blot
+IE	Immunoelectrophoresis
+Activation Antibody	Activation Antibody
+Agglutination	Agglutination
+Affinity Purification	Affinity Purification
+Chromatin Immunoprecipitation	Chromatin Immunoprecipitation
+Cytokine Immunotrapping Assay	Cytokine Immunotrapping Assay
+Chemiluminescence Immunoassay	Chemiluminescence Immunoassay
+Cross-Linking Immunoprecipitation	Cross-Linking Immunoprecipitation
+Complement Mediated Cell Depletion	Complement Mediated Cell Depletion
+Dot Blot	Dot Blot
+Enzyme Immunoassay	Enzyme Immunoassay
+Electron microscopy	Electron microscopy
+Flow Cytometry	Flow Cytometry
+Fluorophore-linked Immunosorbent Assay	Fluorophore-linked Immunosorbent Assay
+Fluorescence Recovery After Photobleaching	Fluorescence Recovery After Photobleaching
+Fluorescence Resonance Energy Transfer	Fluorescence Resonance Energy Transfer
+Flurospot	Flurospot
+Immuno Assay	Immuno Assay
+Immunocytochemistry	Immunocytochemistry
+Immunodiffusion	Immunodiffusion
+Immunofluorescence	Immunofluorescence
+Immunohistochemistry	Immunohistochemistry
+Immunoprecipitation	Immunoprecipitation
+Immunostaining	Immunostaining
+In Situ Hybridization	In Situ Hybridization
+Immunoturbidimetry	Immunoturbidimetry
+Lateral Flow Assay	Lateral Flow Assay
+Microarray	Microarray
+Mass Cytometry	Mass Cytometry
+Methylated DNA Immunoprecipitation	Methylated DNA Immunoprecipitation
+Mass Spectrometry	Mass Spectrometry
+Neutralizing Assay	Neutralizing Assay
+Protein Assay	Protein Assay
+Proximity Ligation Assay	Proximity Ligation Assay
+Radioimmuno Assay	Radioimmuno Assay
+RNA Immunoprecipitation	RNA Immunoprecipitation
+Western Blot	Western Blot
+Immunoelectrophoresis	Immunoelectrophoresis
+Activation Antibody	ActAb
+ActAb	ActAb
+agonistic	ActAb
+Agonist	ActAb
+Agglutination	Agg
+Agg	Agg
+Hemagglutination	Agg
+Affinity Purification	AP
+AP	AP
+Purification	AP
+Immunochromatography	AP
+Immunoaffinity Column	AP
+Chromatin Immunoprecipitation	ChIP
+ChIP	ChIP
+ChIP-sequencing	ChIP
+Cytokine Immunotrapping Assay	CITA
+CITA	CITA
+Chemiluminescence Immunoassay	CLIA
+CLIA	CLIA
+cross-linking immunoprecipitation	CLIP
+CLIP	CLIP
+Dot Blot	DB
+DB	DB
+Enzyme Immunoassay	EIA
+EIA	EIA
+Direct ELISA	ELISA
+Direct ELISA-	ELISA
+ELISA(Capture)-	ELISA
+ELISA(direct)-	ELISA
+Sandwich ELISA	ELISA
+ELISPOT	ELISA
+ELISAIHC-	"ELISA, IHC"
+Electron microscopy	EM
+EM	EM
+Gel shift	EMSA
+Flow Cytometry	FACS
+FACS	FACS
+FC	FACS
+FC-	FACS
+FC and IHC (Frozen)	"FACS, IHC"
+FC and IP	"FACS, IP"
+Fluorophore-linked Immunosorbent Assay	FLISA
+FLISA	FLISA
+Fluorescence Recovery After Photobleaching	FRAP
+FRAP	FRAP
+Fluorescence Resonance Energy Transfer	FRET
+FRET	FRET
+Flurospot	FS
+FS	FS
+Immuno Assay	IA
+IA	IA
+Immunocytochemistry	ICC
+ICC	ICC
+ICC-(Formalin/Paraffin)	ICC
+Immunodiffusion	ID
+ID	ID
+Immunoelectrophoresis	IE
+IE	IE
+Immunofluorescence	IF
+IF	IF
+Immunohistochemistry	IHC
+IHC	IHC
+IHC-	IHC
+IHC-(Formalin-Paraffin) FC-15ul/10^6cells	IHC
+IHC-(Formalin/Paraffin)	IHC
+IHC-(FormalinParaffin)	IHC
+IHC-(paraffin)	IHC
+IHC(Formailin/Paraffin)	IHC
+IHC(Formalin/Paraffin)	IHC
+IHC(Formalin/Paraffin)-	IHC
+IHC(Frozen)	IHC
+IHC(Paraffin)	IHC
+IHC(Paraffin)-	IHC
+IHC - Paraffin	IHC
+IHC - Frozen	IHC
+IHC - Fixed	IHC
+IHC - Resin	IHC
+IHC - 4% paraformaldehyde	IHC
+Immunoprecipitation	IP
+IP	IP
+IP and IHC	"IP, IHC"
+IP and IHC (Frozen)	"IP, IHC"
+Immunostaining	IS
+IS	IS
+in situ Hybridization	ISH
+ISH	ISH
+Lateral Flow Assay	LF
+LF	LF
+LateralFlow	LF
+Microarray	MA
+MA	MA
+Mass Cytometry	MCyto
+MCyto	MCyto
+Methylated DNA Immunoprecipitation	MeDIP
+MeDIP	MeDIP
+Mass Spectrometry	MS
+MS	MS
+Neutralizing assay	NeuAb
+NeuAb	NeuAb
+antagonistic	NeuAb
+Blocking	NeuAb
+Inhibition	NeuAb
+Neutralization	NeuAb
+Depletion	NeuAb
+Protein Assay	PA
+PA	PA
+Proximity Ligation Assay	PLA
+PLA	PLA
+Functional Assay	REMOVE
+Cytotoxic Assay	REMOVE
+RNA interference	REMOVE
+Surface Plasmon Resonance	REMOVE
+Competition	REMOVE
+Radioimmunoassay	RIA
+RIA	RIA
+Radioimaging	RIA
+Immunoradiometric assay	RIA
+RNA Immunoprecipitation	RIP
+RIP	RIP
+Western blot	WB
+WB	WB
+DyLight 750	DyLight 750
+DY-590	DY-590
+Gold 1 nm	Gold 1 nm
+Gold 4 nm	Gold 4 nm
+Phycocyanin	Phycocyanin
+RITC	RITC
+FluoroBlue	FluoroBlue
+CF488	CF488
+BB700	BB700
+Fire 780	Fire 780
+TotalSeq-A	TotalSeq-A
+DTAF	DTAF
+RPE-Cy5	RPE-Cy5
+RPE-Cy5.5	RPE-Cy5.5
+RPE-Cy7	RPE-Cy7
+Phycoerythrin-Texas Red	Phycoerythrin-Texas Red
+Phycoerythrin-DY-590	Phycoerythrin-DY-590
+Phycoerythrin-Cy5	Phycoerythrin-Cy5
+Phycoerythrin-Cy5.5	Phycoerythrin-Cy5.5
+Phycoerythrin-Cy7	Phycoerythrin-Cy7
+PerCP-Cy5.5	PerCP-Cy5.5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
