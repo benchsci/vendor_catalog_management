@@ -49,7 +49,7 @@ function start_upload(file, vendor, chunk_size) {
     var data = new FormData();
     data.append('file_size', file.size);
     data.append('vendor', vendor);
-    data.append('catalog_name', file.name);
+    data.append('file_name', file.name);
     data.append('chunk_size', chunk_size);
     var request = create_ajax_request('post', '/upload/', data, start_upload_headers(), {});
     $.ajax(

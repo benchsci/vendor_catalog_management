@@ -1,4 +1,4 @@
-#upload_vendor {
+#upload_vendor_form {
     height: 200px;
     width: 100%;
 }
@@ -12,6 +12,7 @@
 	z-index: -1;
 }
 
+.download,
 .upload,
 .data_file + label {
     color: white;
@@ -27,7 +28,7 @@
     border-width: 1px;
 }
 
-.vendor {
+.vendor_upload {
     margin-top: 10px;
 }
 

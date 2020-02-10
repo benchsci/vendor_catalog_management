@@ -1,0 +1,20 @@
+{% load vendors %}
+
+<div class="row" id="download_form">
+    <form id="gcs_download_form">
+        <div class="input-field col s12 m4 l4">
+            <select id="vendor_download" name="vendor_download" class="vendor_download browser-default">
+                <option value="" disabled selected>Select vendor</option>
+                {% select_vendors %}
+            </select>
+        </div>
+        <div class="input-field col s12 m4 l4">
+            <select id="vendor_files" name="vendor_files" class="vendor_files browser-default">
+                <option value="" disabled selected>Select vendor file</option>
+            </select>
+        </div>
+        <div class="input-field col s12 m4 l4">
+            <input type="submit" name="download" value="Download" id="download" class="download">
+        </div>
+    </form>
+</div>
