@@ -21,6 +21,7 @@ function connect_upload_click() {
         ev.preventDefault();
         var file = $("#data_file")[0].files[0];
         var vendor = $("#vendor_upload").val();
+        reset_progress(file.name);
         upload_file(file, vendor);
         ev.stopPropagation();
         return false;
@@ -31,10 +32,18 @@ function connect_data_file_change() {
     $('#data_file').bind('change', function(ev) {
         ev.preventDefault();
         var file_name = $(this)[0].files[0].name;
-        $("#progress").css('text-transform', '').removeClass("succeeded failed").addClass("uploading").text("Ready to upload: " + file_name);
+        reset_progress(file_name);
         ev.stopPropagation();
         return false;
     });
+}
+
+function reset_progress(file_name) {
+    $("#progress")
+        .css('text-transform', '')
+        .removeClass("succeeded failed")
+        .addClass("uploading")
+        .text("Ready to upload: " + file_name);
 }
 
 function connect_vendor_select_change(vendor_select_id, files_select_id) {
