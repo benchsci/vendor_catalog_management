@@ -2,7 +2,8 @@ $(document).ready(function() {
     create_menu();
     connect_data_file_change();
     connect_upload_click();
-    connect_vendor_download_change();
+    connect_vendor_select_change('vendor_download', 'vendor_files');
+    connect_vendor_select_change('vendor_generate', 'vendor_generate_files');
     connect_download_click();
 });
 
@@ -36,8 +37,8 @@ function connect_data_file_change() {
     });
 }
 
-function connect_vendor_download_change() {
-    $('#vendor_download').bind('change', function(ev) {
+function connect_vendor_select_change(vendor_select_id, files_select_id) {
+    $('#' + vendor_select_id).bind('change', function(ev) {
         ev.preventDefault();
         var vendor = $(this).val();
         $.ajax({
@@ -45,8 +46,9 @@ function connect_vendor_download_change() {
                 type: 'get',
                 dataType: 'json',
         }).done(function( data, textStatus, jqXHR ){
+            $('.' + files_select_id +'_item').remove()
             $.each(data.vendor_files, function(index, vendor_file) {
-                $('#vendor_files').append('<option value="' + vendor_file + '">' + vendor_file + '</option>');
+                $('#' + files_select_id).append('<option class="' + files_select_id + '_item" value="' + vendor_file + '">' + vendor_file + '</option>');
             });
         })
         ev.stopPropagation();

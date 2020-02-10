@@ -1,0 +1,20 @@
+{% load vendors %}
+
+<div class="row" id="generate_translation_table_form">
+    <form id="gcs_translation_table_form">
+        <div class="input-field col s12 m4 l4">
+            <select id="vendor_generate" name="vendor_generate" class="vendor_generate browser-default">
+                <option value="" disabled selected>Select vendor</option>
+                {% select_vendors %}
+            </select>
+        </div>
+        <div class="input-field col s12 m4 l4">
+            <select id="vendor_generate_files" name="vendor_generate_files" class="vendor_generate_files browser-default">
+                <option value="" disabled selected>Select vendor catalog file</option>
+            </select>
+        </div>
+        <div class="input-field col s12 m4 l4">
+            <input type="submit" name="generate" value="Generate" id="generate" class="generate">
+        </div>
+    </form>
+</div>

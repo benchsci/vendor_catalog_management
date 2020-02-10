@@ -12,8 +12,9 @@
 	z-index: -1;
 }
 
-.download,
 .upload,
+.generate,
+.download,
 .data_file + label {
     color: white;
     background-color: royalblue;
@@ -21,7 +22,7 @@
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    width: 200px;
+    width: 75%;
     height: 35px;
     border-color: black;
     border-style: solid;
