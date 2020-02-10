@@ -5,6 +5,7 @@ from django.views import View
 from google.cloud import storage
 
 
+
 class UploadView(LoginRequiredMixin, View):
 
     def post(self, request):
@@ -18,5 +19,5 @@ class UploadView(LoginRequiredMixin, View):
         vendor = request.POST.get("vendor")
         catalog_name = request.POST.get("catalog_name")
         origin = request.META.get("HTTP_USER_AGENT")
-        blob = bucket.get_blob(f"{vendor}/{vendor}_{catalog_name}.csv")
+        blob = bucket.get_blob(f"vendors/{vendor}/{vendor}_{catalog_name}.csv")
         return blob.create_resumable_upload_session(size=file_size, origin=origin, client=self._client)

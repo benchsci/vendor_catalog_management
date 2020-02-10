@@ -1,11 +1,11 @@
+{% load vendors %}
+
 <div class="row" id="upload_vendor">
     <form id="gcs_upload_form">
         <div class="input-field col s12 m3 l3">
             <select id="vendor" name="vendor" class="vendor browser-default">
                 <option value="" disabled selected>Select vendor</option>
-                <option value="1">Option 1</option>
-                <option value="2">Option 2</option>
-                <option value="3">Option 3</option>
+                {% select_vendors %}
             </select>
         </div>
         <div class="input-field col s12 m3 l3">
