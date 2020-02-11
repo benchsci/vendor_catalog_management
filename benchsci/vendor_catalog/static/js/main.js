@@ -51,11 +51,10 @@ function connect_vendor_select_change(vendor_select_id, files_select_id) {
     $('#' + vendor_select_id).bind('change', function(ev) {
         ev.preventDefault();
         var vendor = $(this).val();
-        $.ajax({
-                url: '/vendor_files/?vendor=' + vendor,
-                type: 'get',
-                dataType: 'json',
-        }).done(function( data, textStatus, jqXHR ){
+        var request = 
+        $.ajax(
+            create_ajax_request('get', '/vendor_files/?vendor=' + vendor)
+        ).done(function( data, textStatus, jqXHR ){
             $('.' + files_select_id +'_item').remove()
             $.each(data.vendor_files, function(index, vendor_file) {
                 $('#' + files_select_id).append('<option class="' + files_select_id + '_item" value="' + vendor_file + '">' + vendor_file + '</option>');
@@ -71,18 +70,15 @@ function connect_download_click() {
         ev.preventDefault();
         var vendor = $("#vendor_download").val();
         var file_name = $("#vendor_files").val();
-        $.ajax({
-            url: '/download/?vendor=' + vendor + '&file_name=' + file_name,
-            type: 'get',
-            dataType: 'json',
-        }).done(function( data, textStatus, jqXHR ){
+        $.ajax(
+            create_ajax_request('get', '/download/?vendor=' + vendor + '&file_name=' + file_name)
+        ).done(function( data, textStatus, jqXHR ){
             window.location = data.signed_download_url;
         });
         ev.stopPropagation();
         return false;
     });
 }
-
 
 function connect_generate_click() {
     $('#generate').bind('click', function(ev) {
@@ -96,13 +92,12 @@ function connect_generate_click() {
 async function download_internal() {
     var vendor = $("#vendor_generate").val();
     var file_name = $("#vendor_generate_files").val();
+    var url = '/download/?vendor=' + vendor + '&file_name=' + file_name + '&internal=true';
+    var headers = { 'X-CSRFToken': Cookies.get('csrftoken') };
     notify("Starting download of catalog to processing area...");
-    $.ajax({
-        url: '/download/?vendor=' + vendor + '&file_name=' + file_name + '&internal=true',
-        type: 'get',
-        dataType: 'json',
-        headers: { 'X-CSRFToken': Cookies.get('csrftoken') },
-    }).done(function( data, textStatus, jqXHR ){
+    $.ajax(
+        create_ajax_request('get', url, headers=headers)
+    ).done(function( data, textStatus, jqXHR ){
         notify("Catalog downloaded to processing area. Generating translation lists...");
         generate_translation();
     }).fail(function(jqXHR, textStatus, errorThrown ) {
@@ -114,13 +109,9 @@ async function generate_translation() {
     var file_name = $("#vendor_generate_files").val();
     var data = new FormData();
     data.append('file_name', file_name);
-    $.ajax({
-        url: '/generate/',
-        type: 'post',
-        data: data,
-        dataType: 'json',
-        headers: { 'X-CSRFToken': Cookies.get('csrftoken') },
-    }).done(function( data, textStatus, jqXHR ){
+    $.ajax(
+        create_ajax_request('post', '/generate/', data, headers={ 'X-CSRFToken': Cookies.get('csrftoken') })
+    ).done(function( data, textStatus, jqXHR ){
         notify("Catalog translation lists have been generated. Uploading translation lists to storage...");
         upload_internal();
     }).fail(function(jqXHR, textStatus, errorThrown ) {
@@ -135,13 +126,9 @@ async function upload_internal () {
     data.append('vendor', vendor);
     data.append('file_name', file_name);
     data.append('internal', 'true');
-    $.ajax({
-        url: '/upload/',
-        type: 'post',
-        data: data,
-        dataType: 'json',
-        headers: { 'X-CSRFToken': Cookies.get('csrftoken') },
-    }).done(function( data, textStatus, jqXHR ){
+    $.ajax(
+        create_ajax_request('post', '/upload/', data, headers={ 'X-CSRFToken': Cookies.get('csrftoken') })
+    ).done(function( data, textStatus, jqXHR ){
         notify("Catalog translation lists have been uploaded to storage.");
     }).fail(function(jqXHR, textStatus, errorThrown ) {
         notify(jqXHR.responseText || errorThrown);

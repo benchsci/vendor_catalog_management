@@ -3,22 +3,8 @@ function upload_file(file, vendor) {
         alert("Please select a vendor and a file to upload")
         return; 
     }   
-    var chunk_size = 1048576;
+    var chunk_size = 3145728;
     start_upload(file, vendor, chunk_size);
-}
-
-function create_ajax_request(method, url, data, headers, status_code_map) {
-    return {
-        url: url,
-        type: method,
-        data: data,
-        dataType: 'json',
-        headers: headers,
-        cache: false,
-        contentType: false,
-        processData: false,
-        statusCode: status_code_map
-    }
 }
 
 function start_upload_headers() {
@@ -51,7 +37,7 @@ function start_upload(file, vendor, chunk_size) {
     data.append('vendor', vendor);
     data.append('file_name', file.name);
     data.append('chunk_size', chunk_size);
-    var request = create_ajax_request('post', '/upload/', data, start_upload_headers(), {});
+    var request = create_ajax_request('post', '/upload/', data, start_upload_headers());
     $.ajax(
         request
     ).done(function( data, textStatus, jqXHR ){
@@ -106,7 +92,7 @@ async function send_file_chunk(resumable_upload_url, file, start, chunk_size, re
 async function resume_upload(resumable_upload_url, file, start, chunk_size, retries) {
     var headers = resume_upload_headers(file);
     var status_code_map = { 308: get_resume_upload_function(resumable_upload_url, file, start, chunk_size) };
-    var request = create_ajax_request('put', resumable_upload_url, '', headers, status_code_map);
+    var request = create_ajax_request('put', resumable_upload_url, {}, headers, status_code_map);
     $.ajax(
         request
     ).done(function(data, textStatus, jqXHR){
