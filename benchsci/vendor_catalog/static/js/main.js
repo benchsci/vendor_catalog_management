@@ -101,7 +101,7 @@ async function download_internal() {
         notify("Catalog downloaded to processing area. Generating translation lists...");
         generate_translation();
     }).fail(function(jqXHR, textStatus, errorThrown ) {
-        notify(jqXHR.responseText || errorThrown);
+        notify(jqXHR.responseJSON.error || errorThrown);
     });
 }
 
@@ -115,13 +115,13 @@ async function generate_translation() {
         notify("Catalog translation lists have been generated. Uploading translation lists to storage...");
         upload_internal();
     }).fail(function(jqXHR, textStatus, errorThrown ) {
-        notify(jqXHR.responseText || errorThrown);
+        notify(jqXHR.responseJSON.error || errorThrown);
     });
 }
 
 async function upload_internal () {
     var vendor = $("#vendor_generate").val();
-    var file_name = $("#vendor_generate_files").val() + '_translated';
+    var file_name = $("#vendor_generate_files").val()
     var data = new FormData();
     data.append('vendor', vendor);
     data.append('file_name', file_name);
@@ -131,7 +131,7 @@ async function upload_internal () {
     ).done(function( data, textStatus, jqXHR ){
         notify("Catalog translation lists have been uploaded to storage.");
     }).fail(function(jqXHR, textStatus, errorThrown ) {
-        notify(jqXHR.responseText || errorThrown);
+        notify(jqXHR.responseJSON.error || errorThrown);
     });
 }
 

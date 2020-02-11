@@ -12,21 +12,27 @@ from benchsci.vendor_catalog.library_translation.backend.bsproduct.packaging imp
 )
 
 
+def get_translation_table_file_name(vendor_catalog_file_name):
+    vendor_catalog_file_name_prefix, extension = vendor_catalog_file_name.rsplit('.', 1)
+    return f"{vendor_catalog_file_name_prefix}_translation_rules.{extension}"
+
 class UploadView(LoginRequiredMixin, View):
 
     def post(self, request):
         if request.POST.get("internal"):
-            return self.backend_upload(request)
+            return self._backend_upload(request)
         blob = self._get_gcs_blob(request)
         origin = request.META.get("HTTP_ORIGIN")
         file_size = int(request.POST.get("file_size"))
         resumable_upload_url = blob.create_resumable_upload_session(size=file_size, origin=origin)
         return JsonResponse({'resumable_upload_url': resumable_upload_url})
 
-    def backend_upload(self, request):
-        blob = self._get_gcs_blob(request)
-        file_name = request.POST.get("file_name")
+    def _backend_upload(self, request):
         try:
+            request.POST = request.POST.copy()
+            file_name = get_translation_table_file_name(request.POST.get("file_name"))
+            request.POST["file_name"] = file_name
+            blob = self._get_gcs_blob(request)
             blob.upload_from_filename(Path(settings.TRANSLATION_LOCATION, file_name))
             return JsonResponse({'status': 'success'})
         except Exception as e:
@@ -35,7 +41,8 @@ class UploadView(LoginRequiredMixin, View):
     def _get_gcs_blob(self, request):
         client = storage.Client.from_service_account_json(settings.GOOGLE_CLOUD_CREDENTIALS_FILE)
         bucket = client.get_bucket(settings.GCS_VENDOR_BUCKET)
-        chunk_size = int(request.POST.get("chunk_size"))
+        chunk_size_string = request.POST.get("chunk_size")
+        chunk_size = int(chunk_size_string) if chunk_size_string else None
         vendor = request.POST.get("vendor")
         file_name = request.POST.get("file_name")
         return bucket.blob(f"vendors/{vendor}/{vendor}_{file_name}", chunk_size=chunk_size)
@@ -60,12 +67,12 @@ class DownloadView(LoginRequiredMixin, View):
 
     def get(self, request):
         if request.GET.get("internal"):
-            return self.backend_download(request)
+            return self._backend_download(request)
         blob = self._get_gcs_blob(request)
         signed_download_url = blob.generate_signed_url(expiration=timedelta(minutes=30))
         return JsonResponse({"signed_download_url": signed_download_url})
 
-    def backend_download(self, request):
+    def _backend_download(self, request):
         blob = self._get_gcs_blob(request)
         file_name = request.GET.get("file_name")
         try:
@@ -88,9 +95,9 @@ class GenerateTranslationView(LoginRequiredMixin, View):
         try:
             file_name = request.POST.get("file_name")
             catalog_file_path = str(Path(settings.TRANSLATION_LOCATION, file_name))
-            translation_table = catalog_file_path + '_translated'
-            translation_database = Path(Path(__file__).resolve(), "tests", "data", "translation_database.txt")
-            generate_translation_lists_files(catalog_file_path, translation_database, translation_table)
+            translation_table_path = get_translation_table_file_name(catalog_file_path)
+            translation_database_path = Path(Path(__file__).resolve().parent, "tests", "data", "translation_database.txt")
+            generate_translation_lists_files(catalog_file_path, translation_database_path, translation_table_path)
             return JsonResponse({'status': 'success'})
         except Exception as e:
             return JsonResponse({'error': str(e)}, status=500)
